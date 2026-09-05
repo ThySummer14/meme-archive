@@ -397,6 +397,20 @@
       "related": [],
       "source": "https://www.bilibili.com/video/BV1JS411A7kb",
       "added": "2026-08-31"
+    },
+    {
+      "id": "yanwang-dianmao",
+      "name": "阎王点卯",
+      "year": 2024,
+      "origin": "源自民间传说：阎王定期翻生死簿「点名」，被点中者当年必往地府报到——纯随机、无法抗拒。网络语境里被用来形容一切「随机裁决」时刻：FPS 里被随机点名处决、抽签淘汰、随机惩罚，自带「点到必死」的宿命戏剧感。",
+      "meaning": "被随机点名宣判的调侃。",
+      "example": "（直播抽中惩罚的观众）完了，阎王点卯点到我头上了。",
+      "status": "fading",
+      "platforms": ["B站", "抖音"],
+      "tags": ["游戏", "直播"],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E9%98%8E%E7%8E%8B%E7%82%B9%E5%8D%AF/64774740",
+      "added": "2026-09-05"
     }
   ]
 }

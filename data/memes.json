@@ -1,7 +1,7 @@
 {
   "schema": "meme-archive/1.0",
   "generated": "2026-08-30",
-  "count": 324,
+  "count": 326,
   "memes": [
     {
       "category": "film-tv",
@@ -6196,6 +6196,27 @@
       "added": "2026-08-31"
     },
     {
+      "category": "gaming",
+      "id": "yanwang-dianmao",
+      "name": "阎王点卯",
+      "year": 2024,
+      "origin": "源自民间传说：阎王定期翻生死簿「点名」，被点中者当年必往地府报到——纯随机、无法抗拒。网络语境里被用来形容一切「随机裁决」时刻：FPS 里被随机点名处决、抽签淘汰、随机惩罚，自带「点到必死」的宿命戏剧感。",
+      "meaning": "被随机点名宣判的调侃。",
+      "example": "（直播抽中惩罚的观众）完了，阎王点卯点到我头上了。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "游戏",
+        "直播"
+      ],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E9%98%8E%E7%8E%8B%E7%82%B9%E5%8D%AF/64774740",
+      "added": "2026-09-05"
+    },
+    {
       "category": "international",
       "id": "brainrot-pack",
       "name": "Brainrot 词汇包",
@@ -7084,6 +7105,28 @@
       ],
       "source": "https://news.chengdu.cn/2025/1202/692e90ec227f0732470b4830.shtml",
       "added": "2026-08-30"
+    },
+    {
+      "category": "film-tv",
+      "id": "niulai",
+      "name": "牛来",
+      "year": 2026,
+      "origin": "2026年8月，剧情离奇、画风抽象的国产动画电影《牛来》（牛牛迁徙遇狼群、豹子救牛、牛妈妈牺牲……）在暑期档意外爆红，被称「2026年度最炸裂电影」「影视圈抽象天花板」：角色与对白成为全民玩梗素材，「XX来」句式随之泛滥，官方账号与品牌纷纷下场二创。",
+      "meaning": "抽象电影的全民狂欢，也是「来了」的玩梗变体。",
+      "example": "「周末干嘛？看《牛来》。牛来！」",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电影",
+        "抽象"
+      ],
+      "related": [
+        "chouxiang"
+      ],
+      "source": "https://www.bilibili.com/video/BV1XabQ6VEWS",
+      "added": "2026-09-05"
     },
     {
       "category": "society",
