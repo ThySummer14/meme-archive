@@ -1,7 +1,7 @@
 {
   "schema": "meme-archive/1.0",
   "generated": "2026-08-30",
-  "count": 333,
+  "count": 342,
   "memes": [
     {
       "category": "film-tv",
@@ -1590,6 +1590,29 @@
     },
     {
       "category": "character",
+      "id": "zhazhahui",
+      "name": "渣渣辉",
+      "year": 2018,
+      "origin": "2018年，演员张家辉代言页游《贪玩蓝月》的魔性广告火遍全网——普通话不标准的他把「张家辉」自我介绍念成「渣渣辉」，配上「是兄弟，就来砍我」「贪玩蓝月，你值得拥有」，成为页游广告梗的代名词，本人后来也自嘲式回应，港星代言传奇类页游自此成一梗窝。",
+      "meaning": "魔性页游广告与空耳自我介绍的代名词。",
+      "example": "（拉群喊人上线开黑）是兄弟，就来砍我！",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "页游",
+        "广告",
+        "空耳"
+      ],
+      "related": [
+        "areyou-ok"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "character",
       "id": "zhenxiang",
       "name": "真香 · 王境泽",
       "aliases": [
@@ -2874,6 +2897,57 @@
     },
     {
       "category": "film-tv",
+      "id": "biao-xue",
+      "name": "范德彪 · 彪学",
+      "aliases": [
+        "辽北地区著名狠人",
+        "水库浪子"
+      ],
+      "year": 2021,
+      "origin": "《马大帅》里赵本山饰演的「辽北地区著名狠人」范德彪，因水库浪子、开彪哥酒楼、投资屡战屡败等又离谱又心酸的经历，在B站催生「彪学」：弹幕逐帧研究彪哥的每一次吹牛与翻车，「彪哥」「象列宁同志一样」成为对中年式体面与心气的温柔调侃。",
+      "meaning": "对爱吹牛又心软的中年人最温柔的学问。",
+      "example": "（立了个大flag转头就翻车）彪哥附体了属于是。",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "电视剧",
+        "彪学"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "film-tv",
+      "id": "huaqiang-maigua",
+      "name": "华强买瓜",
+      "aliases": [
+        "这瓜保熟吗"
+      ],
+      "year": 2021,
+      "origin": "2003年电视剧《征服》里刘华强买瓜的名场面——「这瓜保熟吗？」「你这瓜要是熟的我肯定买」——2021年被B站鬼畜全面引爆，「华强买瓜」一跃成为鬼畜区顶流素材，卖瓜摊与水果刀被逐帧研究，「保熟」成为质疑一切事物成色的万能台词。",
+      "meaning": "质问成色、试探底细的万能开场。",
+      "example": "「新人第一年就想拿年终奖？这瓜保熟吗？」",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "鬼畜"
+      ],
+      "related": [
+        "wanglang",
+        "yuanfu-nu"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "film-tv",
       "id": "puxinnan",
       "name": "普信男",
       "year": 2021,
@@ -3546,6 +3620,31 @@
       ],
       "source": "https://www.bilibili.com/video/BV1od4y1Y7Vb",
       "added": "2026-08-31"
+    },
+    {
+      "category": "film-tv",
+      "id": "rang-xue",
+      "name": "让学 · 让子弹飞",
+      "aliases": [
+        "让子弹飞一会儿",
+        "站着把钱挣了"
+      ],
+      "year": 2022,
+      "origin": "2010年姜文电影《让子弹飞》的长尾神话：「让子弹飞一会儿」「站着，还把钱挣了」「公平！公平！还是他妈的公平！」等台词被反复征引；B站更衍生出逐帧解读隐喻的「让学」，张麻子与黄四郎的每次对坐都被做成阅读理解，电影成了一部常读常新的社会寓言。",
+      "meaning": "热点等待发酵、博弈各有解读的万能词典。",
+      "example": "「先别下结论，让子弹飞一会儿。」",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "电影",
+        "让学"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
     },
     {
       "category": "film-tv",
@@ -4401,6 +4500,33 @@
     },
     {
       "category": "catchphrase",
+      "id": "duoba-an",
+      "name": "多巴胺××",
+      "aliases": [
+        "多巴胺穿搭"
+      ],
+      "year": 2023,
+      "origin": "2023年5月前后，从「多巴胺穿搭」引爆的高饱和明亮配色风潮，扩展成「多巴胺」万能前缀：多巴胺美甲、多巴胺装修、多巴胺文学……入选《咬文嚼字》2023十大流行语（词条「多巴胺××」），代表用色彩对抗情绪内耗的生活主张。",
+      "meaning": "用明亮色彩换来快乐因子的万能前缀。",
+      "example": "周一穿一身大红，给自己来点多巴胺穿搭。",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "穿搭",
+        "句式"
+      ],
+      "related": [
+        "gongyuan-20fenzhong"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "catchphrase",
       "id": "iren-eren",
       "name": "i人 e人",
       "year": 2023,
@@ -4747,6 +4873,29 @@
       "added": "2026-08-31"
     },
     {
+      "category": "character",
+      "id": "xiaoheizi",
+      "name": "小黑子",
+      "year": 2023,
+      "origin": "「鸡你太美」鬼畜文化的延伸：蔡徐坤的黑粉被称作「小黑子」，2023年前后「小黑子露出鸡脚了吧」等句式泛滥，ikun 与小黑子的攻防演变成全网整活素材，后被泛化为玩梗人互相打趣的称呼（注：带饭圈攻防色彩，本条按传播形态客观记录）。",
+      "meaning": "对某明星黑粉的戏称，后泛化为玩梗暗号。",
+      "example": "（有人当众模仿唱跳rap篮球）小黑子实锤了。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "饭圈",
+        "鬼畜"
+      ],
+      "related": [
+        "jinitaimei"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
       "category": "film-tv",
       "id": "jiuzhuan-dachang",
       "name": "顶级厨师九转大肠",
@@ -5072,6 +5221,31 @@
     },
     {
       "category": "society",
+      "id": "ai-sunyanzi",
+      "name": "AI孙燕姿",
+      "year": 2023,
+      "origin": "2023年5月，AI音色克隆翻唱在B站爆发，「AI孙燕姿」演唱《发如雪》《下雨天》等刷屏，音色还原度惊人、产量碾压真人，被戏称「2023年最勤奋歌手」；孙燕姿本人以「凡人」姿态温和回应，事件成为AI版权与声音伦理大讨论的起点。",
+      "meaning": "AI翻唱现象的开端与代名词。",
+      "example": "（AI孙燕姿版《泡沫》比原唱还稳，细思极恐。）",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "AI",
+        "音乐",
+        "版权"
+      ],
+      "related": [
+        "deepseek",
+        "dianzi-douququ"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "society",
       "id": "cuipi-daxuesheng",
       "name": "脆皮大学生 / 脆皮打工人",
       "year": 2023,
@@ -5344,6 +5518,32 @@
       ],
       "source": "https://www.bilibili.com/video/BV1NN411y7Dp",
       "added": "2026-08-31"
+    },
+    {
+      "category": "society",
+      "id": "zibo-shaokao",
+      "name": "淄博烧烤",
+      "aliases": [
+        "进淄赶烤"
+      ],
+      "year": 2023,
+      "origin": "2023年3月起，「大学生组团坐高铁去淄博吃烧烤」话题引爆全网：小饼卷葱蘸酱的灵魂三件套、明码标价不缺斤短两的诚意，让这座山东工业小城成为「进淄赶烤」的文旅顶流，专列、烧烤公交线接连上线，为后来的哈尔滨、天水等城市出圈打了样。",
+      "meaning": "城市文旅出圈现象的开山样本。",
+      "example": "（周五晚的济青高铁）一半人都是去淄博赶烤的。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "文旅",
+        "城市营销"
+      ],
+      "related": [
+        "nanfang-xiaotudou",
+        "suchao"
+      ],
+      "source": null,
+      "added": "2026-09-05"
     },
     {
       "category": "wordplay",
@@ -6443,6 +6643,30 @@
         "chouxiang"
       ],
       "source": "https://www.gcores.com/articles/217077",
+      "added": "2026-09-05"
+    },
+    {
+      "category": "platform",
+      "id": "ruozhiba",
+      "name": "弱智吧",
+      "year": 2024,
+      "origin": "百度贴吧的经典板块，以「生鱼片其实是死鱼片」「等红灯是在等绿灯」式的悖论冷笑话闻名，被视为中文互联网金句工厂；2024年中科院团队的中文语料研究意外发现：用弱智吧语料训练出的模型效果拔群，「弱智吧=最强中文训练数据」一夜出圈，抽象文学获得科技圈盖章认证。",
+      "meaning": "悖论冷笑话金句工厂（意外的AI语料之王）。",
+      "example": "「生鱼片是死鱼片；我的债主跑了，我算不算无债一身轻？」",
+      "status": "longevity",
+      "platforms": [
+        "贴吧"
+      ],
+      "tags": [
+        "贴吧",
+        "冷笑话",
+        "AI"
+      ],
+      "related": [
+        "chouxianghua",
+        "yuyueda-yuyuexiao"
+      ],
+      "source": null,
       "added": "2026-09-05"
     },
     {

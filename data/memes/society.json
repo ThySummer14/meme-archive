@@ -1109,6 +1109,35 @@
       "related": ["deepseek", "longxia"],
       "source": "https://wap.eastmoney.com/a/202602173651274087.html",
       "added": "2026-09-05"
+    },
+    {
+      "id": "zibo-shaokao",
+      "name": "淄博烧烤",
+      "aliases": ["进淄赶烤"],
+      "year": 2023,
+      "origin": "2023年3月起，「大学生组团坐高铁去淄博吃烧烤」话题引爆全网：小饼卷葱蘸酱的灵魂三件套、明码标价不缺斤短两的诚意，让这座山东工业小城成为「进淄赶烤」的文旅顶流，专列、烧烤公交线接连上线，为后来的哈尔滨、天水等城市出圈打了样。",
+      "meaning": "城市文旅出圈现象的开山样本。",
+      "example": "（周五晚的济青高铁）一半人都是去淄博赶烤的。",
+      "status": "fading",
+      "platforms": ["全网"],
+      "tags": ["文旅", "城市营销"],
+      "related": ["nanfang-xiaotudou", "suchao"],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "id": "ai-sunyanzi",
+      "name": "AI孙燕姿",
+      "year": 2023,
+      "origin": "2023年5月，AI音色克隆翻唱在B站爆发，「AI孙燕姿」演唱《发如雪》《下雨天》等刷屏，音色还原度惊人、产量碾压真人，被戏称「2023年最勤奋歌手」；孙燕姿本人以「凡人」姿态温和回应，事件成为AI版权与声音伦理大讨论的起点。",
+      "meaning": "AI翻唱现象的开端与代名词。",
+      "example": "（AI孙燕姿版《泡沫》比原唱还稳，细思极恐。）",
+      "status": "fading",
+      "platforms": ["B站", "全网"],
+      "tags": ["AI", "音乐", "版权"],
+      "related": ["deepseek", "dianzi-douququ"],
+      "source": null,
+      "added": "2026-09-05"
     }
   ]
 }
