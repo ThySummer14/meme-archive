@@ -1,0 +1,686 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "international",
+  "memes": [
+    {
+      "id": "rickroll",
+      "name": "Rickroll",
+      "year": 2007,
+      "origin": "把链接伪装成珍贵资源，点开却是Rick Astley的《Never Gonna Give You Up》MV——互联网最古老的钓鱼执法，至今全球通用。",
+      "meaning": " bait-and-switch 的祖师爷。",
+      "example": "「独家攻略链接」点开：Never gonna give you up~",
+      "status": "longevity",
+      "platforms": [
+        "Reddit",
+        "YouTube",
+        "全球"
+      ],
+      "tags": [
+        "钓鱼"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "doge",
+      "name": "Doge",
+      "year": 2013,
+      "origin": "柴犬Kabosu的侧目一笑配上comic sans字体的内心OS（much wow，so cool），还成了狗狗币的精神图腾。",
+      "meaning": "万能萌犬：从表情包到加密货币。",
+      "example": "（so meme, very archive）",
+      "status": "longevity",
+      "platforms": [
+        "Reddit",
+        "全球"
+      ],
+      "tags": [
+        "柴犬",
+        "加密货币"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "pepe",
+      "name": "Pepe 悲伤蛙",
+      "year": 2015,
+      "origin": "漫画青蛙Pepe漂洋过海成为中文斗图区常客，「feels bad man」的落泪蛙人手一张。",
+      "meaning": " sad frog：委屈与摆烂的具象化。",
+      "example": "（发图：落泪蛙）feels bad man.",
+      "status": "fading",
+      "platforms": [
+        "全球",
+        "微博"
+      ],
+      "tags": [
+        "表情包"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "trollface",
+      "name": "Trollface",
+      "year": 2008,
+      "origin": "Rage Comic时代的「憨笑小人」，钓鱼佬的鼻祖头像。",
+      "meaning": "整蛊成功后的得意脸。",
+      "example": "（考古：rage comic四格漫画）",
+      "status": "fossil",
+      "platforms": [
+        "Reddit",
+        "4chan"
+      ],
+      "tags": [
+        "考古",
+        "整蛊"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "nyan-cat",
+      "name": "Nyan Cat 彩虹猫",
+      "year": 2011,
+      "origin": "彩虹尾迹吐司猫飞行8-bit洗脑旋律，YouTube播放量破亿的经典。",
+      "meaning": "耳朵里循环一周的旋律。",
+      "example": "（nyanyanyanya～）",
+      "status": "fossil",
+      "platforms": [
+        "YouTube"
+      ],
+      "tags": [
+        "视频梗"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "grumpy-cat",
+      "name": "Grumpy Cat 暴躁猫",
+      "year": 2012,
+      "origin": "世界上最暴躁的猫Tardar Sauce，NO.是它对一切的态度。",
+      "meaning": "拒绝学代言人。",
+      "example": "周一早晨的我 = Grumpy Cat。",
+      "status": "fossil",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "猫"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "this-is-fine",
+      "name": "This is fine",
+      "year": 2013,
+      "origin": "漫画家KC Green笔下火海里喝咖啡的小狗：一切都好。灾难现场的体面天花板。",
+      "meaning": "假装镇定的最高境界。",
+      "example": "（服务器着火）this is fine.",
+      "status": "longevity",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "漫画"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "stonks",
+      "name": "Stonks",
+      "year": 2019,
+      "origin": "蜡笔小人Meme Man与故意拼错的STONKS，股市理财区的万能配图。",
+      "meaning": "（错误拼写的）股价起飞。",
+      "example": "省了5块钱优惠券：stonks↑",
+      "status": "longevity",
+      "platforms": [
+        "Reddit",
+        "全球"
+      ],
+      "tags": [
+        "金融"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "gigachad",
+      "name": "Gigachad",
+      "year": 2021,
+      "origin": "下颌线能劈叉的黑白肌肉猛男照片，自信发言的标配配图。",
+      "meaning": "极度的自信（真或假）。",
+      "example": "（发表 unpopular opinion 配Gigachad）",
+      "status": "fading",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "自信"
+      ],
+      "related": [
+        "sigma"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "sigma",
+      "name": "Sigma",
+      "year": 2022,
+      "origin": "sigma male：独来独往的狠人设定，配上摇摆剪辑与《Call Me》BGM席卷短视频。",
+      "meaning": "孤独但强大的男人（戏谑向）。",
+      "example": "（配乐响起，独自吃饭剪影）sigma.",
+      "status": "fading",
+      "platforms": [
+        "TikTok",
+        "全球"
+      ],
+      "tags": [
+        "人设"
+      ],
+      "related": [
+        "gigachad"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "skibidi-toilet",
+      "name": "Skibidi Toilet",
+      "year": 2023,
+      "origin": "马桶人头与监控人的史诗连续剧，Gen Alpha（2010后）的通用语言，年长网友完全看不懂但小学生全都懂。",
+      "meaning": "代际文化断层地标。",
+      "example": "（小学生课间模仿：skibidi~）",
+      "status": "fading",
+      "platforms": [
+        "YouTube",
+        "全球"
+      ],
+      "tags": [
+        "Gen Alpha"
+      ],
+      "related": [
+        "italian-brainrot"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "italian-brainrot",
+      "name": "Italian Brainrot",
+      "aliases": [
+        "Tralalero Tralala",
+        "Bombardiro Crocodilo",
+        "Tung Tung Tung Sahur"
+      ],
+      "year": 2025,
+      "origin": "AI生成的意式怪谈宇宙：三脚鲨鱼穿鞋Tralalero Tralala、轰炸机鳄鱼Bombardiro Crocodilo、木棒人Tung Tung Tung Sahur……2025年席卷全球校园与短视频的brainrot顶流。",
+      "meaning": "AI时代第一批原生meme神兽。",
+      "example": "（孩子嘴里蹦出：tung tung tung tung sahur）",
+      "status": "active",
+      "platforms": [
+        "TikTok",
+        "YouTube",
+        "全球"
+      ],
+      "tags": [
+        "AI生成",
+        "brainrot"
+      ],
+      "related": [
+        "skibidi-toilet",
+        "six-seven"
+      ],
+      "source": "https://mashable.com/life/internet-slang-defined-2026-list",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "six-seven",
+      "name": "Six Seven",
+      "aliases": [
+        "67",
+        "6-7"
+      ],
+      "year": 2025,
+      "origin": "说唱歌曲《Doot Doot (6 7)》带火的数字梗，美国校园里「67」喊到老师崩溃，成为2025年最让家长困惑的潮流。",
+      "meaning": "无意义的数字暗号，喊就完了。",
+      "example": "老师：这道题等于多少？全班：SIX SEVEN！",
+      "status": "active",
+      "platforms": [
+        "TikTok",
+        "全球校园"
+      ],
+      "tags": [
+        "数字梗",
+        "brainrot"
+      ],
+      "related": [
+        "italian-brainrot"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "hawk-tuah",
+      "name": "Hawk Tuah",
+      "year": 2024,
+      "origin": "街头采访女生的出圈拟声词，一夜之间变成全网口头禅与商品印花。",
+      "meaning": "2024年度病毒式短视频名场面。",
+      "example": "（考古：2024年夏天的TikTok）",
+      "status": "fossil",
+      "platforms": [
+        "TikTok"
+      ],
+      "tags": [
+        "街采"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "very-demure",
+      "name": "Very demure, very mindful",
+      "year": 2024,
+      "origin": "TikTok博主Jools Lebron的「端庄文学」：上班也要very demure，非常mindful。",
+      "meaning": "一本正经的端庄自嘲。",
+      "example": "（面试时）I'm very demure, very mindful.",
+      "status": "fossil",
+      "platforms": [
+        "TikTok"
+      ],
+      "tags": [
+        "职场"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "rizz",
+      "name": "Rizz",
+      "year": 2023,
+      "origin": "charisma的中间切片，牛津词典2023年度词。",
+      "meaning": "魅力值、撩人功力。",
+      "example": "他三句话要到微信：rizz level 100.",
+      "status": "fading",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "年度词"
+      ],
+      "related": [
+        "brainrot-pack"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "brainrot-pack",
+      "name": "Brainrot 词汇包",
+      "aliases": [
+        "Ohio",
+        "gyatt",
+        "fanum tax",
+        "mewing",
+        "skibidi"
+      ],
+      "year": 2024,
+      "origin": "Gen Alpha词汇大礼包：Ohio（离谱之地）、gyatt（惊叹）、fanum tax（好友税：食物要分我一口）、mewing（下颌线锻炼）……brainrot（脑腐）本身当选牛津2024年度词。",
+      "meaning": "让家长和老师集体失语的加密词汇库。",
+      "example": "「他把我的薯片fanum tax了，太Ohio了。」",
+      "status": "fading",
+      "platforms": [
+        "TikTok",
+        "全球校园"
+      ],
+      "tags": [
+        "slang",
+        "brainrot"
+      ],
+      "related": [
+        "rizz",
+        "skibidi-toilet"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "aura",
+      "name": "Aura",
+      "year": 2025,
+      "origin": "气场计量单位：帅一下+aura，社死一下-1000 aura；2025年「aura farming」（积攒气场）小朋友照片火出圈。",
+      "meaning": "可以加减的气场点数。",
+      "example": "地铁上帮人捡了伞：+50 aura。",
+      "status": "active",
+      "platforms": [
+        "TikTok",
+        "全球"
+      ],
+      "tags": [
+        "计量梗"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "are-we-cooked",
+      "name": "Are we cooked?",
+      "year": 2025,
+      "origin": "「Chat, are we cooked?」——直播间观众视角的「兄弟们完蛋了吗」，cooked泛指「完蛋了、没救了」。",
+      "meaning": "集体完蛋时的互道晚安。",
+      "example": "Deadline还有一小时，chat, are we cooked?",
+      "status": "active",
+      "platforms": [
+        "Twitch",
+        "TikTok"
+      ],
+      "tags": [
+        "直播黑话"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "gangnam-style",
+      "name": "Gangnam Style 江南Style",
+      "year": 2012,
+      "origin": "PSY的骑马舞，YouTube史上第一个破10亿播放的视频，全球政要都在模仿。",
+      "meaning": "全球化meme的里程碑。",
+      "example": "（婚礼必放曲目，2012-2016）",
+      "status": "fossil",
+      "platforms": [
+        "YouTube",
+        "全球"
+      ],
+      "tags": [
+        "K-POP",
+        "舞蹈"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "harlem-shake",
+      "name": "Harlem Shake",
+      "year": 2013,
+      "origin": "30秒变装狂欢：前15秒一人独舞，后15秒全场疯狂摇头，办公室与军队都拍。",
+      "meaning": "最早的短视频挑战赛之一。",
+      "example": "（考古：2013年你公司也拍了吗）",
+      "status": "fossil",
+      "platforms": [
+        "YouTube"
+      ],
+      "tags": [
+        "挑战赛"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "all-your-base",
+      "name": "All Your Base",
+      "year": 2001,
+      "origin": "游戏《Zero Wing》渣翻译「All your base are belong to us」，上古互联网的圣典级梗。",
+      "meaning": "胜利宣言的错误打开方式。",
+      "example": "（meme博物馆最早展品之一）",
+      "status": "fossil",
+      "platforms": [
+        "早期互联网"
+      ],
+      "tags": [
+        "考古",
+        "游戏"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "leeroy-jenkins",
+      "name": "Leeroy Jenkins",
+      "year": 2005,
+      "origin": "魔兽世界玩家的莽夫冲锋：队友还在算战术，他喊着名字冲了出去，团灭。",
+      "meaning": "计划赶不上变化的代名词。",
+      "example": "LEEROOOY JENKINS！",
+      "status": "fossil",
+      "platforms": [
+        "全球游戏圈"
+      ],
+      "tags": [
+        "游戏",
+        "考古"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lolcats",
+      "name": "I Can Has Cheezburger",
+      "year": 2007,
+      "origin": "猫咪配蹩脚英语（lolcats）的开山之作，meme工业化与猫片经济的起点。",
+      "meaning": "猫meme的远古祖先。",
+      "example": "（I CAN HAS CHEEZBURGER?）",
+      "status": "fossil",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "猫",
+        "考古"
+      ],
+      "related": [
+        "catmeme"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yuanfu-nu",
+      "name": "元首的愤怒",
+      "year": 2007,
+      "origin": "2004年德国电影《帝国的毁灭》中希特勒咆哮的片段，全球「万恶之源」级鬼畜素材：换个字幕，元首就能为游戏跳票、球队输球、考试挂科而暴怒，B站元首区一度日更大更新。",
+      "meaning": "为一切糟心事发飙的万能模板。",
+      "example": "（游戏宣布跳票半年）元首已就位。",
+      "status": "fading",
+      "platforms": [
+        "全球",
+        "B站"
+      ],
+      "tags": [
+        "鬼畜",
+        "电影"
+      ],
+      "related": [
+        "wanglang"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wuhai-aimaonv",
+      "name": "无孩爱猫女",
+      "year": 2024,
+      "origin": "2024年美国大选期间，共和党副总统候选人万斯（JD Vance）的旧言论「美国正被一群无孩爱猫女统治」被翻出引发风暴，中文互联网直接引进该词，用于婚育与性别议题的讨论。",
+      "meaning": "跨文化引进的婚育标签（争议词）。",
+      "example": "（养了三只猫的她发朋友圈）请问哪里可以领取统治权。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "全球"
+      ],
+      "tags": [
+        "美国大选",
+        "性别议题"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1aMmUYUEpb",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "trump-fight",
+      "name": "FIGHT! FIGHT! FIGHT!",
+      "aliases": [
+        "特朗普遇刺照"
+      ],
+      "year": 2024,
+      "origin": "2024年7月13日，特朗普在宾夕法尼亚州竞选集会遇刺，满脸血迹仍高举拳头连喊「Fight! Fight! Fight!」，摄影师拍下的画面瞬间传遍全球，成为年度最著名的新闻影像与表情包。",
+      "meaning": "2024年度最具传播力的新闻名场面。",
+      "example": "（项目推翻重来时发一张：FIGHT!）",
+      "status": "fading",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "新闻影像"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV19z421z7zW",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "nanomachines-son",
+      "name": "Nanomachines, son!",
+      "aliases": [
+        "纳米机器，小子"
+      ],
+      "year": 2022,
+      "origin": "《合金装备崛起：复仇》里Boss参议员阿姆斯特朗的名台词「Nanomachines, son!」——用一个万能答案回应一切质疑；2022年在中文圈翻红，成为「不讲理地解释一切」的鬼畜素材。",
+      "meaning": "万能不讲理回答模板。",
+      "example": "「他怎么什么都能赢？」「Nanomachines, son!」",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "全球"
+      ],
+      "tags": [
+        "游戏",
+        "鬼畜"
+      ],
+      "related": [
+        "yuanfu-nu"
+      ],
+      "source": "https://www.bilibili.com/video/BV1634y1j7t4",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "my-dog-stepped-on-a-bee",
+      "name": "我的狗踩到了蜜蜂",
+      "year": 2022,
+      "origin": "2022年约翰尼·德普诉艾梅柏·希尔德案的庭审直播中，希尔德的离奇证词「my dog stepped on a bee」成为全球吃瓜群众的玩梗素材，庭审切片与梗图席卷全网。",
+      "meaning": "荒诞离谱发言的代名词。",
+      "example": "（听到毫无逻辑的解释）我的狗踩到了蜜蜂。",
+      "status": "fading",
+      "platforms": [
+        "全球"
+      ],
+      "tags": [
+        "庭审",
+        "名场面"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1eU4y1X7Xq",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "mariah-pension",
+      "name": "牛姐的养老保险",
+      "year": 2022,
+      "origin": "Mariah Carey（牛姐）的《All I Want for Christmas Is You》每年11月起准时屠榜全球音乐榜，被戏称「牛姐的养老保险」——一年营业一个月，躺着收版税；2022年「牛姐解冻」梗全面中文化。",
+      "meaning": "每年准时解冻的圣诞顶流。",
+      "example": "（11月1日）牛姐已解冻，养老保险开始营业。",
+      "status": "longevity",
+      "platforms": [
+        "全球",
+        "B站"
+      ],
+      "tags": [
+        "音乐",
+        "圣诞"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1UY411m75o",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "noot-noot",
+      "name": "Noot Noot",
+      "year": 2022,
+      "origin": "英国黏土动画《企鹅家族》（Pingu）里企鹅的招牌叫声「Noot Noot」，配合那张放大的嘴成为表情包与鬼畜素材，2022年在中文互联网翻红成万能音效梗。",
+      "meaning": "万能魔性音效：惊讶、报警、蹦迪皆可。",
+      "example": "（群里有人发疯）Noot Noot！",
+      "status": "fading",
+      "platforms": [
+        "全球",
+        "B站"
+      ],
+      "tags": [
+        "动画",
+        "音效"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1qB4y1v7PB",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "mr-incredible-uncanny",
+      "name": "超能先生逐渐失控",
+      "aliases": [
+        "Mr. Incredible Becoming Uncanny"
+      ],
+      "year": 2022,
+      "origin": "2022年全球爆火的脸部渐变模板：超能先生的笑脸随着剧情越来越离谱而逐步扭曲成黑底白脸，「Mr. Incredible Becoming Uncanny」成为层层递进讲离谱/恐怖故事的标准格式。",
+      "meaning": "离谱程度可视化的万能模板。",
+      "example": "（第一阶段：加班到八点。第十阶段：老板搬来我家加班）",
+      "status": "fading",
+      "platforms": [
+        "全球",
+        "B站"
+      ],
+      "tags": [
+        "模板",
+        "表情包"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1mr4y1h7VT",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jet2-holiday",
+      "name": "Jet2 Holiday",
+      "year": 2025,
+      "origin": "2025年夏，英国旅游品牌 Jet2holidays 的广告曲「Nothing beats a Jet2 holiday!」被配上旅行翻车、大妈抢镜等画面二创，洗脑广告语席卷 TikTok，成为全球「假期翻车实录」BGM。",
+      "meaning": "假期翻车现场的万能配乐。",
+      "example": "（登机口排两小时队）Nothing beats a Jet2 holiday!",
+      "status": "active",
+      "platforms": [
+        "TikTok",
+        "全球"
+      ],
+      "tags": [
+        "广告",
+        "旅行"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1L2Y1zsEur",
+      "added": "2026-08-31"
+    }
+  ]
+}

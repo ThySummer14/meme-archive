@@ -1,0 +1,695 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "wordplay",
+  "memes": [
+    {
+      "id": "bengbuzhu",
+      "name": "蚌埠住了",
+      "aliases": [
+        "绷不住了"
+      ],
+      "year": 2020,
+      "origin": "「绷不住了」的谐音，恰好撞上安徽蚌埠地名，蚌埠官方也下场接梗，堪称地名梗的巅峰之作。",
+      "meaning": "忍不住笑（或哭）了，情绪绷不住了。",
+      "example": "看到那只歪头狗，我蚌埠住了。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "贴吧"
+      ],
+      "tags": [
+        "谐音",
+        "地名"
+      ],
+      "related": [
+        "wuhu-feiqi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wuhu-feiqi",
+      "name": "芜湖起飞",
+      "year": 2020,
+      "origin": "电竞主播口头禅「呜呼起飞」撞上安徽芜湖市，官媒顺势用「芜湖起飞」做城市宣传，地名梗接得漂亮。",
+      "meaning": "兴奋欢呼，一飞冲天。",
+      "example": "抢到回家的票了！芜湖～起飞！",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "微博"
+      ],
+      "tags": [
+        "谐音",
+        "地名"
+      ],
+      "related": [
+        "bengbuzhu"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xiugou",
+      "name": "修勾",
+      "year": 2021,
+      "origin": "「小狗」的奶化谐音，配上歪头小狗表情包横扫评论区。",
+      "meaning": "小狗（可爱化称呼），也泛指可爱的人或物。",
+      "example": "楼下修勾今天冲我摇尾巴了。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "谐音",
+        "萌化"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jimei",
+      "name": "集美",
+      "year": 2020,
+      "origin": "快手主播郭老师把「姐妹」读成「集美」，成为喊话姐妹们的通用前缀。",
+      "meaning": "姐妹们（自带亲切滤镜）。",
+      "example": "集美们，这家店真的别去。",
+      "status": "fading",
+      "platforms": [
+        "快手",
+        "小红书"
+      ],
+      "tags": [
+        "郭语",
+        "谐音"
+      ],
+      "related": [
+        "guo-laoshi",
+        "duosun"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "duosun",
+      "name": "夺笋",
+      "year": 2020,
+      "origin": "郭语「多损」：「山上的笋都被你夺完了」。",
+      "meaning": "太损了、太缺德了（好笑的那种）。",
+      "example": "拿朋友糗事做表情包？你可真夺笋。",
+      "status": "fading",
+      "platforms": [
+        "快手",
+        "B站"
+      ],
+      "tags": [
+        "郭语",
+        "谐音"
+      ],
+      "related": [
+        "guo-laoshi",
+        "jimei"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "u1s1",
+      "name": "u1s1",
+      "aliases": [
+        "有一说一"
+      ],
+      "year": 2020,
+      "origin": "「有一说一」的拼音数字缩写，从斗鱼抽象文化圈流向全网。",
+      "meaning": "客观说、讲道理。",
+      "example": "u1s1，这部电影特效是真好。",
+      "status": "fading",
+      "platforms": [
+        "斗鱼",
+        "B站"
+      ],
+      "tags": [
+        "缩写"
+      ],
+      "related": [
+        "fanquan-abbrev"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "fanquan-abbrev",
+      "name": "饭圈缩写黑话",
+      "aliases": [
+        "xswl",
+        "nsdd",
+        "dbq",
+        "bdjw",
+        "yygq",
+        "zqsg"
+      ],
+      "year": 2018,
+      "origin": "饭圈为防搜索与屏蔽发明的拼音缩写体系：xswl（笑死我了）、nsdd（你说得对）、dbq（对不起）、bdjw（不懂就问）、yygq（阴阳怪气）、zqsg（真情实感）……后泛化为全网标配。",
+      "meaning": "用字母缩写交流的加密通话。",
+      "example": "bdjw，这条热搜为啥爆？",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "豆瓣"
+      ],
+      "tags": [
+        "缩写",
+        "饭圈"
+      ],
+      "related": [
+        "yyds"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "chouxianghua",
+      "name": "抽象话",
+      "year": 2018,
+      "origin": "孙笑川吧网友用 emoji 与谐音代替文字的「抽象文」，是中文互联网「抽象文化」的文字形态。",
+      "meaning": "看不懂但懂的都懂的加密表达。",
+      "example": "🎮😤🔥（翻译：游戏又炸了）",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "斗鱼"
+      ],
+      "tags": [
+        "抽象文化"
+      ],
+      "related": [
+        "sunxiaochuan",
+        "chouxiang"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lanxiang-gu",
+      "name": "蓝瘦香菇",
+      "aliases": [
+        "难受想哭"
+      ],
+      "year": 2016,
+      "origin": "广西南宁小哥失恋视频里的塑料普通话「难受，想哭」空耳成「蓝瘦香菇」，一夜病毒式扩散，当年即入选年度十大流行语。",
+      "meaning": "难受想哭。",
+      "example": "股票又绿了，蓝瘦香菇。",
+      "status": "fossil",
+      "platforms": [
+        "微博",
+        "贴吧"
+      ],
+      "tags": [
+        "空耳",
+        "方言"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "housailei",
+      "name": "猴赛雷",
+      "aliases": [
+        "好犀利"
+      ],
+      "year": 2016,
+      "origin": "粤语「好犀利」的谐音，猴年春节随春晚吉祥物「康康」的全民吐槽一起刷屏。",
+      "meaning": "好厉害。",
+      "example": "五分钟修好打印机？猴赛雷啊！",
+      "status": "fossil",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "粤语",
+        "空耳"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "fengsi-v50",
+      "name": "疯狂星期四 V我50",
+      "aliases": [
+        "疯四文学"
+      ],
+      "year": 2022,
+      "origin": "肯德基疯狂星期四衍生的「疯四文学」：用悬疑、言情、科幻等百转千回的长文案，最后落点是「今天是肯德基疯狂星期四，V我50」。",
+      "meaning": "大型每周文案接龙：反转再反转只为50块。",
+      "example": "我看了一下午《百年孤独》终于顿悟：今天是疯狂星期四，V我50。",
+      "status": "longevity",
+      "platforms": [
+        "朋友圈",
+        "微博"
+      ],
+      "tags": [
+        "品牌",
+        "文学体"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lanxiang-jixiao",
+      "name": "挖掘机技术哪家强",
+      "aliases": [
+        "中国山东找蓝翔"
+      ],
+      "year": 2015,
+      "origin": "蓝翔技校的魔性电视广告语，经鬼畜与段子二创成为万能设问句。",
+      "meaning": "「哪家强」句式的祖师爷。",
+      "example": "做饭技术哪家强？我妈电饭煲里藏营养。",
+      "status": "fossil",
+      "platforms": [
+        "B站",
+        "贴吧"
+      ],
+      "tags": [
+        "广告",
+        "鬼畜"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "nailvbo",
+      "name": "奶绿波",
+      "year": 2026,
+      "origin": "2026年春运期间，高速公路广告牌「明绿液」（安徽明光的酒）因字体与配色被全网集体看错成「奶绿液」「奶绿波」，成为吐槽高速堵车的暗号，酒厂顺势接梗推出联名，被称为「封神营销」。",
+      "meaning": "形容巨多人+堵车+人山人海挤到爆的场景。",
+      "example": "服务区排队一小时，奶绿波了。",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "微博"
+      ],
+      "tags": [
+        "误读",
+        "春运",
+        "官方玩梗"
+      ],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E5%A5%B6%E7%BB%BF%E6%B3%A2/67487970",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xieyingeng-kouqian",
+      "name": "谐音梗扣钱",
+      "year": 2020,
+      "origin": "《脱口秀大会》王建国专精谐音梗，李诞名言「谐音梗要扣钱」广为流传，成为全网讲烂谐音梗前的自嘲免责条款。",
+      "meaning": "讲谐音梗的标准免责声明。",
+      "example": "（讲完一个烂谐音梗）好吧，这个月工资没了。",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "脱口秀"
+      ],
+      "tags": [
+        "脱口秀",
+        "谐音"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "panta",
+      "name": "盘他",
+      "year": 2018,
+      "origin": "相声《文玩》里「干干巴巴的，麻麻赖赖的，盘他！」被剪成鬼畜，万物皆可盘。",
+      "meaning": "上手折腾它、搞定它。",
+      "example": "这个bug改不动？盘他！",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "相声",
+        "鬼畜"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "sidizi-suoxie",
+      "name": "四字缩写成语体",
+      "aliases": [
+        "喜大普奔",
+        "人艰不拆",
+        "不明觉厉",
+        "累觉不爱",
+        "十动然拒"
+      ],
+      "year": 2013,
+      "origin": "2013年前后网友把长句压缩成四字伪成语的造词潮：喜大普奔（喜闻乐见大快人心普天同庆奔走相告）、人艰不拆、不明觉厉、累觉不爱、十动然拒……当年一口气横扫各大流行语榜。",
+      "meaning": "互联网时代的成语速成法。",
+      "example": "「表白被拒但对方请了饭——悲喜交加，十动然拒。」",
+      "status": "fossil",
+      "platforms": [
+        "微博",
+        "贴吧"
+      ],
+      "tags": [
+        "缩写",
+        "年度流行语"
+      ],
+      "related": [
+        "fanquan-abbrev"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "ranbingluan",
+      "name": "然并卵",
+      "aliases": [
+        "然而并没有什么卵用"
+      ],
+      "year": 2015,
+      "origin": "方言「有卵用」句式的网络化长句「然而并没有什么卵用」走红后压缩为「然并卵」，入选2015年度十大流行语。",
+      "meaning": "一切徒劳的万能注脚。",
+      "example": "存了一年钱，看了眼房价——然并卵。",
+      "status": "fossil",
+      "platforms": [
+        "微博",
+        "贴吧"
+      ],
+      "tags": [
+        "缩写",
+        "年度流行语"
+      ],
+      "related": [
+        "sidizi-suoxie"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "konglong-kanglang",
+      "name": "恐龙扛狼",
+      "year": 2023,
+      "origin": "2023年7月，云南主播「云南权妹」直播翻唱《眉飞色舞》时的魔性空耳「恐龙扛狼」被全网二创：恐龙与狼组CP扛货的表情包满天飞，入选国家语委2023年度十大网络流行语。",
+      "meaning": "万能魔性空耳，气势拉满的扛事精神。",
+      "example": "（接下不可能的deadline）恐龙扛狼，统统拿下！",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "空耳",
+        "年度流行语"
+      ],
+      "related": [
+        "wo-shi-yunnan-de"
+      ],
+      "source": "https://www.bilibili.com/video/BV19X4y1a7qm",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "liu-shuzi",
+      "name": "6",
+      "year": 2022,
+      "origin": "电竞弹幕「666」（溜，厉害）的极简形态：2022年起大家连三个6都懒得打了，单发一个「6」——可以是真服气，更可以是敷衍与阴阳，「6学」成为评论区新玄学。",
+      "meaning": "一个数字的千人千面：服了你、无语了、就这？",
+      "example": "（朋友吹嘘五分钟做完PPT）6。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "电竞弹幕"
+      ],
+      "tags": [
+        "弹幕",
+        "数字梗"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1pP4y1S7Lp",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "ji-le",
+      "name": "寄",
+      "aliases": [
+        "已寄",
+        "直接寄了"
+      ],
+      "year": 2022,
+      "origin": "从电竞认输语「GG」演化而来的「寄」（一说取「祭」之谐），2022年成为「完蛋了/没了」的万能代词，抽象文化代表用字之一。",
+      "meaning": "完蛋了的极简表达。",
+      "example": "（期末考试提前）寄。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "贴吧"
+      ],
+      "tags": [
+        "抽象文化",
+        "缩写"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1Gf4y1F711",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "zhuyikan",
+      "name": "注意看",
+      "aliases": [
+        "小帅小美"
+      ],
+      "year": 2022,
+      "origin": "2022年，营销号电影解说统一话术「注意看，这个男人叫小帅，这个女人叫小美」泛滥全网，流水线解说把所有主角都叫小帅小美，引发全网吐槽与解构二创。",
+      "meaning": "流水线短视频解说的代名词。",
+      "example": "注意看，这个打工人叫小帅，他今天又要加班了。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "解说体",
+        "营销号"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1ae411F7uv",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "yimianban-hunningtu",
+      "name": "意大利面拌42号混凝土",
+      "year": 2022,
+      "origin": "2022年8月前后走红的「抽象美食文学」：一本正经地把食材与建筑材料搭配（「意大利面就应该拌42号混凝土」），无厘头到发笑，是抽象文化的代表文本之一。",
+      "meaning": "正经胡说八道的美食配方。",
+      "example": "今晚吃法式锄头炖 Node.js，配一杯矿泉水煮化石。",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "贴吧"
+      ],
+      "tags": [
+        "抽象文化",
+        "文学体"
+      ],
+      "related": [
+        "chouxianghua"
+      ],
+      "source": "https://www.bilibili.com/video/BV1sa411f7aH",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "huaxizi-bi",
+      "name": "花西子（货币单位）",
+      "aliases": [
+        "1花西子=79元"
+      ],
+      "year": 2023,
+      "origin": "2023年9月李佳琦「哪里贵了」风波中，其带货的花西子眉笔被算出「每克980元贵过黄金」，网友随即发明新货币单位「1花西子＝79元」，从此一切商品有了新的计价方式。",
+      "meaning": "2023年度民间自发汇率。",
+      "example": "「这杯咖啡36，也就半花西子。」",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "货币梗",
+        "消费"
+      ],
+      "related": [
+        "nali-guile"
+      ],
+      "source": "https://www.bilibili.com/video/BV1ez4y1j7X5",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "yuyu-zheng",
+      "name": "玉玉症",
+      "year": 2022,
+      "origin": "2022年起短视频平台的谐音黑话：为绕开内容审核对心理话题的敏感词，「抑郁症」被写成「玉玉症」，衍生「玉了」「防玉指南」等说法，是那两年情绪表达的特殊暗语。",
+      "meaning": "「抑郁症」的谐音马甲（审核产物）。",
+      "example": "（连续加班一个月）我感觉我要玉玉了。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "谐音",
+        "心理健康"
+      ],
+      "related": [
+        "jingshen-neihao",
+        "wangyiyun"
+      ],
+      "source": "https://www.bilibili.com/video/BV1Eu411D7W2",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "xuan-shatangju",
+      "name": "炫沙糖桔",
+      "year": 2022,
+      "origin": "2022年1月，疫情居家叠加砂糖橘上市，「一天炫三斤沙糖桔」的全民行为艺术刷屏——东北方言「炫」（猛吃）就此全国通行，妈妈们囤橘的画面成了年度静物画。",
+      "meaning": "东北话「炫」的全国推广现场。",
+      "example": "（春节期间茶几上永远有一筐）",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "方言",
+        "年货"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1FU4y1F7vC",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "gtx690-hexianka",
+      "name": "GTX690战术核显卡",
+      "year": 2022,
+      "origin": "源自贴吧与军迷论坛的老段子：某军事文章把「GTX690」显卡写成可摧毁航母编队的「战术核显卡导弹」，离谱错译被数码圈考古翻红，成为「一本正经胡说八道」的代表梗。",
+      "meaning": "硬件圈百年笑话的复活。",
+      "example": "（配机配置单里突然出现）一块GTX690，战术核显卡，懂？",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "B站"
+      ],
+      "tags": [
+        "数码",
+        "军迷段子"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1sS4y1u72D",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "nvsheng-ziyong",
+      "name": "女生自用",
+      "year": 2022,
+      "origin": "二手交易平台的万能文案前缀：「女生自用」暗示物品被爱惜、近乎全新，2022年被全网玩坏——男生卖键盘、卖健身卡也郑重标注「女生自用」，成为闲鱼文学的代表作。",
+      "meaning": "二手市场的品相玄学前缀。",
+      "example": "（三年油泥的机械键盘）女生自用，无划痕。",
+      "status": "fading",
+      "platforms": [
+        "闲鱼",
+        "全网"
+      ],
+      "tags": [
+        "二手平台",
+        "文案"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1GW4y1k7uX",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "yuyueda-yuyuexiao",
+      "name": "鱼越大，鱼越小",
+      "year": 2023,
+      "origin": "2023年流行的逻辑鬼才推理梗：从「鱼越大，刺越多」开始环环相扣地正经推导，绕一圈得出「所以鱼越大，鱼越小」的荒谬结论，一本正经的伪逻辑成为万能复读模板。",
+      "meaning": "伪逻辑链条式鬼才推理。",
+      "example": "「钱越多，事越多；事越多，人越忙；人越忙，钱越少——所以钱越多，钱越少。」",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "贴吧"
+      ],
+      "tags": [
+        "逻辑梗"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1iV411u72E",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "shandong-chepai",
+      "name": "山东车牌之歌",
+      "year": 2024,
+      "origin": "2024年6月，一首用顺口溜串联山东16市车牌字母的神曲爆火（鲁A济南、鲁B青岛……），节奏上头，各省网友随即创作本地版，「车牌之歌」成了全民地理课。",
+      "meaning": "顺口溜版全国地理速成。",
+      "example": "（默背一遍，从此认车牌）",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "顺口溜",
+        "地理"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1zS421d7ZM",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "weiyimin-xiaoying",
+      "name": "韦一敏效应",
+      "year": 2023,
+      "origin": "2023年，影视解说视频把片中人名的字幕错打成「韦一敏」，观众明明看到了正确名字却集体跟风写错，评论区「韦一敏」成灾——指解说错一个字、全网跟着错的现象，UP主后来干脆推出《斌の敏子》2.0 玩梗续作。",
+      "meaning": "跟风将错就错的集体行为艺术。",
+      "example": "（评论区全员复读错别字）韦一敏效应又来了。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "弹幕文化",
+        "错字"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1YM4y1B7RN",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "tangniu-dengbushi",
+      "name": "唐妞不等式",
+      "year": 2023,
+      "origin": "2023年，抖音博主@看不腻的妞 的言论「我接受男生的礼物，不代表我要和他在一起」被网友总结成不等式「我接受≠我同意」，其开特效的形象也被嘲讽性地称作「唐妞」；「不等式做题就是快」随即成为回怼强行逻辑的万能梗（注：「唐」字含外貌贬损，本条按争议梗客观记录）。",
+      "meaning": "嘲讽偷换概念、强行成立的逻辑。",
+      "example": "「我没迟到，只是晚到。」「不等式做题就是快。」",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "全网"
+      ],
+      "tags": [
+        "逻辑梗",
+        "争议"
+      ],
+      "related": [
+        "yuyueda-yuyuexiao"
+      ],
+      "source": "https://www.bilibili.com/video/BV1yQ4y1b77a",
+      "added": "2026-09-05"
+    }
+  ]
+}

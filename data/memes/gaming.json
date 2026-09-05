@@ -1,0 +1,402 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "gaming",
+  "memes": [
+    {
+      "id": "chiji",
+      "name": "大吉大利今晚吃鸡",
+      "aliases": [
+        "吃鸡"
+      ],
+      "year": 2017,
+      "origin": "《绝地求生》夺冠时显示的「大吉大利，今晚吃鸡！」，一夜之间让「吃鸡」成为大逃杀游戏的代名词。",
+      "meaning": "活到最后、赢下比赛。",
+      "example": "今晚加班到十点，终于吃鸡（点了炸鸡）。",
+      "status": "longevity",
+      "platforms": [
+        "Steam",
+        "全网"
+      ],
+      "tags": [
+        "大逃杀"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "ig-niubi",
+      "name": "iG牛逼",
+      "year": 2018,
+      "origin": "2018年iG夺得LPL首座S赛冠军，朋友圈与高校宿舍楼集体烟花庆祝，电竞元年名场面。",
+      "meaning": "青春的集体沸腾。",
+      "example": "（2018年11月3日的朋友圈考古）",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "B站"
+      ],
+      "tags": [
+        "英雄联盟",
+        "电竞"
+      ],
+      "related": [
+        "edg-duoguan"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "edg-duoguan",
+      "name": "EDG夺冠立flag",
+      "year": 2021,
+      "origin": "S11决赛前全网疯狂立flag：「EDG夺冠我就裸奔/剃头/请全宿舍吃饭」，第二天含泪排队兑现，堪称年度行为艺术。",
+      "meaning": "用flag换胜利的迷信仪式。",
+      "example": "（2021年11月7日凌晨的朋友圈大型还愿现场）",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "朋友圈"
+      ],
+      "tags": [
+        "英雄联盟",
+        "立flag"
+      ],
+      "related": [
+        "ig-niubi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wenzhu-women-nengying",
+      "name": "稳住，我们能赢",
+      "year": 2017,
+      "origin": "《王者荣耀》载入界面提示语，逆风局的精神胜利法。",
+      "meaning": "稳住心态的万能嘴替。",
+      "example": "项目要黄？稳住，我们能赢。",
+      "status": "fading",
+      "platforms": [
+        "王者荣耀",
+        "全网"
+      ],
+      "tags": [
+        "手游"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yuanshen-qidong",
+      "name": "原神，启动！",
+      "aliases": [
+        "××，启动！"
+      ],
+      "year": 2022,
+      "origin": "虚拟主播圈口癖扩散出的万能句式，结尾必须是干脆利落的「启动！」，仪式感拉满。",
+      "meaning": "宣布开始做某事的标准格式。",
+      "example": "周末早上八点：魔兽世界，启动！",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "句式",
+        "直播"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "cai-jiu-duolian",
+      "name": "菜就多练",
+      "aliases": [
+        "输不起就别玩"
+      ],
+      "year": 2024,
+      "origin": "竞技游戏圈的毒舌劝退语录「菜就多练，输不起就别玩」，从游戏对喷泛化为对一切抱怨的回怼。",
+      "meaning": "行不行不行就练，别找借口。",
+      "example": "抱怨公司食堂难吃？菜就多练（自己做饭）。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "对喷",
+        "句式"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yangle-gyang",
+      "name": "羊了个羊",
+      "year": 2022,
+      "origin": "第二关劝退无数人的消除小游戏，朋友圈求道具盛况堪比双十一，广告位赚翻。",
+      "meaning": "看似简单实则没有通关率的游戏。",
+      "example": "（考古：2022年9月你的第二关过了吗）",
+      "status": "fading",
+      "platforms": [
+        "微信小游戏"
+      ],
+      "tags": [
+        "小游戏"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "hecheng-daxigua",
+      "name": "合成大西瓜",
+      "year": 2021,
+      "origin": "居家时期的全民合成小游戏，两个西瓜合成一个大西瓜，时间黑洞。",
+      "meaning": "上班摸鱼时代的眼泪。",
+      "example": "（考古：2021年1月，你合成出西瓜了吗）",
+      "status": "fossil",
+      "platforms": [
+        "微信H5"
+      ],
+      "tags": [
+        "小游戏"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lvxing-qingwa",
+      "name": "旅行青蛙",
+      "year": 2018,
+      "origin": "佛系养蛙游戏：蛙儿子出门三天不回家，只寄回一张明信片，老母亲们在线挂念。",
+      "meaning": "云养娃的初代体验。",
+      "example": "蛙儿子又三天没消息了。",
+      "status": "fossil",
+      "platforms": [
+        "微信小游戏"
+      ],
+      "tags": [
+        "养成"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "weizhu-shenjingmao",
+      "name": "围住神经猫",
+      "year": 2014,
+      "origin": "朋友圈小游戏鼻祖，「我用4步就围住了神经猫，你能超过我吗」，撞库式转发裂变。",
+      "meaning": "病毒式社交小游戏的原点之一。",
+      "example": "（H5考古区展品001号）",
+      "status": "fossil",
+      "platforms": [
+        "微信朋友圈"
+      ],
+      "tags": [
+        "小游戏"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dianzi-douququ",
+      "name": "电子斗蛐蛐",
+      "year": 2023,
+      "origin": "给AI、机器狗、游戏AI安排对战直播的观战文化，网友围观AI下棋像围观斗蛐蛐。",
+      "meaning": "赛博看戏：让AI打起来给我看。",
+      "example": "两个大模型互骂五百回合，电子斗蛐蛐名场面。",
+      "status": "active",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "AI",
+        "观战"
+      ],
+      "related": [
+        "longxia"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wodan-beimeinv-weibao",
+      "name": "完蛋！我被美女包围了",
+      "year": 2023,
+      "origin": "真人影像恋爱游戏爆火，「电子女友」成为单身玩家群体的年度热词。",
+      "meaning": "氪金买陪伴的自我调侃。",
+      "example": "双十一购物车里多了一款游戏：完蛋，我又被包围了。",
+      "status": "fading",
+      "platforms": [
+        "Steam"
+      ],
+      "tags": [
+        "恋爱游戏"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "heishenhua-wukong",
+      "name": "直面天命 · 黑神话悟空",
+      "aliases": [
+        "天命人"
+      ],
+      "year": 2024,
+      "origin": "《黑神话：悟空》发售即现象级，首日销量与在线人数双双破纪录，「天命人」「直面天命」刷屏，国产3A的历史时刻。",
+      "meaning": "迎难而上的2024年度精神图腾。",
+      "example": "周一早会前深呼吸：直面天命。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "国产3A"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "zhongmen-duiju",
+      "name": "中门对狙",
+      "year": 2021,
+      "origin": "FPS老词「中门对狙」被主播切片重新带火，意为正门直球硬刚、不许绕后偷袭。",
+      "meaning": "正面硬刚的约战书。",
+      "example": "有意见别背后说，中门对狙。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "FPS",
+        "切片"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "laoliu",
+      "name": "老六",
+      "year": 2022,
+      "origin": "源自CS等FPS圈对蹲坑阴人玩家的戏称（5v5里像多出来的「第六人」），2022年经主播与短视频切片全面出圈，成为万能形容词。",
+      "meaning": "阴人、不按套路出牌的老六行为；也指藏得深的人。",
+      "example": "会议进行到一半，角落同事突然抛出致命一问：你是真老六啊。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "FPS",
+        "切片"
+      ],
+      "related": [
+        "zhongmen-duiju"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "xijiayi",
+      "name": "喜加一",
+      "year": 2014,
+      "origin": "Steam 中文社区对「限时免费领游戏」的叫法：白嫖入库，快乐+1。Epic 每周限免与小黑盒的「一键领取」功能让它彻底发扬光大，衍生喜加二、喜加六乃至喜加二十八。",
+      "meaning": "免费把游戏领进库——可以不玩，不能没有。",
+      "example": "Epic 又限免3A了？喜加一走起。",
+      "status": "longevity",
+      "platforms": [
+        "Steam",
+        "小黑盒",
+        "Epic"
+      ],
+      "tags": [
+        "小黑盒",
+        "白嫖"
+      ],
+      "related": [
+        "dengdangdang",
+        "heyou"
+      ],
+      "source": "https://www.ithome.com/zt/xijiayi",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "dengdangdang",
+      "name": "等等党",
+      "aliases": [
+        "等等党永远不亏"
+      ],
+      "year": 2018,
+      "origin": "玩家消费文化里的理性流派：不首发不预购，专等打折与史低（历史最低价），「等等党永远不亏」在Steam折扣、显卡发售等话题下高频刷屏。",
+      "meaning": "以「再等等」对抗首发溢价的耐心玩家。",
+      "example": "「新显卡今天发布。」「等等党：让子弹再飞一会儿。」",
+      "status": "longevity",
+      "platforms": [
+        "Steam",
+        "小黑盒"
+      ],
+      "tags": [
+        "小黑盒",
+        "消费文化"
+      ],
+      "related": [
+        "xijiayi"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "yunwanjia",
+      "name": "云玩家",
+      "year": 2018,
+      "origin": "没亲自玩过游戏、只靠直播和视频攻略就指点江山的玩家，最早在贴吧与B站评论区被批量吐槽，后泛化到一切「只看不做」的领域。",
+      "meaning": "云体验选手：我没玩过，但我全都知道。",
+      "example": "「这局开局就该抢资源。」「云玩家又发言了。」",
+      "status": "longevity",
+      "platforms": [
+        "贴吧",
+        "B站"
+      ],
+      "tags": [
+        "游戏社区"
+      ],
+      "related": [
+        "heyou"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jizhualiu",
+      "name": "鸡爪流",
+      "year": 2024,
+      "origin": "2024年5-6月，王者荣耀玩家发现故意「摆烂」（送人头、不参团）压低系统隐藏评分，反而能匹配到更弱的对手轻松上分，因操作像鸡爪挠而得名；相关视频百万播放后官方紧急调整匹配机制。",
+      "meaning": "用摆烂欺骗匹配算法的邪道上分法。",
+      "example": "（连跪之后开始演）不是我不行，是我在鸡爪流。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "王者荣耀"
+      ],
+      "tags": [
+        "手游",
+        "上分"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1JS411A7kb",
+      "added": "2026-08-31"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "meme-archive/1.0",
+  "updated": "2026-08-30",
+  "categories": [
+    { "id": "catchphrase", "name": "流行语 · 口头禅", "color": "#E85A4F", "description": "跨平台流通的热词热句，从 yyds 到那咋了，互联网的年度心情刻度" },
+    { "id": "wordplay", "name": "谐音梗 · 缩写 · 文字游戏", "color": "#E8A33D", "description": "空耳、方言、拼音缩写、梗文学——中文的语音魔力" },
+    { "id": "image", "name": "表情包 · 图像模板", "color": "#C77DBA", "description": "金馆长、熊猫头、狗头保命——一图胜千言的斗图弹药库" },
+    { "id": "character", "name": "网红人物梗", "color": "#5B8DEF", "description": "真实人物贡献的名场面：真香、鸡你太美、奥利给" },
+    { "id": "film-tv", "name": "影视综剧梗", "color": "#8A63D2", "description": "电影电视剧综艺的长尾金句，一部剧养活一个表情包宇宙" },
+    { "id": "gaming", "name": "游戏电竞梗", "color": "#4CAF7D", "description": "从吃鸡到黑神话，玩家社群的集体记忆" },
+    { "id": "acg", "name": "动漫二次元梗", "color": "#E07B54", "description": "B站弹幕文化、鬼畜、二次元黑话与魔性空耳" },
+    { "id": "kawaii", "name": "萌物 · IP 形象梗", "color": "#F06292", "description": "花花、卡皮巴拉、Labubu——动物与潮玩统治的可爱经济" },
+    { "id": "society", "name": "社会情绪 · 时代热词", "color": "#6D7FDB", "description": "内卷、躺平、牛马——用梗记录的社会心态史" },
+    { "id": "platform", "name": "平台社区梗", "color": "#2FA8A8", "description": "贴吧、知乎、B站、快手、小红书各自的部落方言" },
+    { "id": "international", "name": "国际梗", "color": "#9AA7B5", "description": "Doge、Rickroll、Italian Brainrot——世界互联网的通用语" }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "society",
+  "memes": [
+    {
+      "id": "neijuan",
+      "name": "内卷",
+      "year": 2020,
+      "origin": "清华「卷王」边骑车边用电脑的照片点燃全民讨论，人类学家项飙的解读让它从校园黑话升级为社会议题。",
+      "meaning": "无意义的过度竞争：投入更多，回报不变。",
+      "example": "卷不动了，先躺为敬。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "社会情绪"
+      ],
+      "related": [
+        "tangping",
+        "dagongren"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "tangping",
+      "name": "躺平",
+      "year": 2021,
+      "origin": "网友发帖《躺平即正义》引发世代大讨论：低欲望对抗高压力，当年即入选年度十大流行语。",
+      "meaning": "不买房不加班不内耗，就地平躺。",
+      "example": "这季度KPI？我先躺平了。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "社会情绪"
+      ],
+      "related": [
+        "neijuan",
+        "foxi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dagongren",
+      "name": "打工人",
+      "year": 2020,
+      "origin": "「早安，打工人！」的自嘲式互助问候火遍朋友圈，打工魂成为年度最强情绪公约数。",
+      "meaning": "所有劳动者的统一自称（带苦中作乐滤镜）。",
+      "example": "累吗？累。打工人，打工魂。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "职场"
+      ],
+      "related": [
+        "niuma",
+        "banwei"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "996",
+      "name": "996 / 007",
+      "year": 2019,
+      "origin": "程序员在GitHub发起996.ICU抗议超时加班：「工作996，生病ICU」，引发全球关注。",
+      "meaning": "早九晚九每周六天（或全天候待命）的工作制。",
+      "example": "（考古：996.ICU仓库星标30万+）",
+      "status": "fading",
+      "platforms": [
+        "GitHub",
+        "微博"
+      ],
+      "tags": [
+        "职场",
+        "维权"
+      ],
+      "related": [
+        "dagongren"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "foxi",
+      "name": "佛系",
+      "year": 2017,
+      "origin": "「佛系青年」入选2017年度十大流行语：都行、可以、没关系。",
+      "meaning": "怎么都行、不大走心的生活态度。",
+      "example": "午饭吃什么？佛系点单。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "生活态度"
+      ],
+      "related": [
+        "tangping"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "fansai-wenxue",
+      "name": "凡尔赛文学",
+      "year": 2020,
+      "origin": "博主总结的「凡尔赛体」：用抱怨的方式炫耀。11月「蒙淇淇」事件引爆全网模仿，撒贝宁的「北大还行」被追认为考古先声。",
+      "meaning": "含蓄炫耀学：唉，好烦哦。",
+      "example": "好烦，家里三个扫地机器人总在打架。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "炫耀学"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jingshen-neihao",
+      "name": "精神内耗",
+      "year": 2022,
+      "origin": "《回村三天，二舅治好了我的精神内耗》刷屏全网，把情绪词送上年度热搜。",
+      "meaning": "自己跟自己打架的心理损耗。",
+      "example": "发消息前预演十遍对方的回复：精神内耗中。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "心理健康"
+      ],
+      "related": [
+        "nazale"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "kongyiji-changshan",
+      "name": "孔乙己的长衫",
+      "year": 2023,
+      "origin": "「学历是我下不来的高台，孔乙己脱不下的长衫」，关于学历与就业的全民讨论。",
+      "meaning": "学历带来的身份包袱。",
+      "example": "投简历时突然理解了孔乙己。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "豆瓣"
+      ],
+      "tags": [
+        "就业"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "quanzhi-ernv",
+      "name": "全职儿女",
+      "year": 2023,
+      "origin": "年轻人回家陪伴父母、换取「工资」的过渡状态成为热议话题。",
+      "meaning": "就业缓冲带的新身份。",
+      "example": "全职儿女的第一周：陪妈买菜，月薪三千。",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "微博"
+      ],
+      "tags": [
+        "就业",
+        "家庭"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "cuipi-daxuesheng",
+      "name": "脆皮大学生 / 脆皮打工人",
+      "year": 2023,
+      "origin": "大学生意外受伤合集「伸个懒腰脖子断了」登上热搜，自嘲亚健康体质，后延伸出脆皮打工人。",
+      "meaning": "一碰就坏的当代年轻人。",
+      "example": "打喷嚏闪了腰，脆皮打工人认证。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "健康",
+        "自嘲"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "niuma",
+      "name": "牛马",
+      "year": 2024,
+      "origin": "打工人动物系自嘲的升级版：「当牛马」「牛马的一生」，接棒打工人成为职场顶流自称。",
+      "meaning": "任劳任怨（被迫）的打工人。",
+      "example": "牛马也有牛马的梦想：准时下班。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "职场",
+        "自嘲"
+      ],
+      "related": [
+        "dagongren",
+        "malou"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "weikuanren",
+      "name": "尾款人",
+      "year": 2020,
+      "origin": "双十一凌晨付尾款的你，李佳琦直播间「所有女生」的集体称号。",
+      "meaning": "购物节深夜冲锋的战士。",
+      "example": "尾款人今日余额：负。",
+      "status": "fading",
+      "platforms": [
+        "淘宝直播",
+        "微博"
+      ],
+      "tags": [
+        "消费"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yexing-xiaofei",
+      "name": "野性消费",
+      "year": 2021,
+      "origin": "鸿星尔克低调捐款5000万元曝光后，直播间被网友「野性消费」买空，连模特衣架都不放过。",
+      "meaning": "为情怀不看价格地买买买。",
+      "example": "国货上新直播间，全场野性消费。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "淘宝"
+      ],
+      "tags": [
+        "消费",
+        "国货"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xuegao-cike",
+      "name": "雪糕刺客",
+      "year": 2022,
+      "origin": "冰柜里其貌不扬、结账时刺你一刀的高价雪糕（钟薛高重灾区），引发明码标价新规出台。",
+      "meaning": "隐藏的高价商品。",
+      "example": "随手拿了根雪糕，结账18元：刺客！",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "全网"
+      ],
+      "tags": [
+        "消费"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "qiutian-naicha",
+      "name": "秋天的第一杯奶茶",
+      "year": 2020,
+      "origin": "立秋当日全网刷屏的52元红包梗，仪式感消费的鼻祖。",
+      "meaning": "节气限定的小确幸（以及红包借口）。",
+      "example": "立秋了，秋天的第一杯奶茶安排上。",
+      "status": "fossil",
+      "platforms": [
+        "朋友圈",
+        "微博"
+      ],
+      "tags": [
+        "消费",
+        "仪式感"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "nali-guile",
+      "name": "哪里贵了",
+      "year": 2023,
+      "origin": "李佳琦直播翻车语录「有时候找找自己原因，这么多年工资涨没涨」，反向成为打工人的共鸣密码。",
+      "meaning": "对价格脱敏者的灵魂反问（反向使用）。",
+      "example": "奶茶涨到30块？哪里贵了（苦笑）。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "直播",
+        "消费"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dianzi-muyu",
+      "name": "电子木鱼",
+      "year": 2022,
+      "origin": "敲一下+1功德的赛博修行App爆红，禅意音效配合弹幕「功德+1」治好精神内耗。",
+      "meaning": "数字时代的玄学自救。",
+      "example": "改bug改到崩溃，功德+1+1+1。",
+      "status": "fading",
+      "platforms": [
+        "App",
+        "B站"
+      ],
+      "tags": [
+        "赛博玄学"
+      ],
+      "related": [
+        "jingshen-neihao"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "shushu-wenxue",
+      "name": "鼠鼠文学",
+      "year": 2023,
+      "origin": "「鼠鼠我啊，最近……」：以仓鼠自居诉苦的地下室文学，卑微又不失可爱。",
+      "meaning": "底层视角的温柔诉苦体。",
+      "example": "鼠鼠我啊，最近想辞职又不敢。",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "抖音"
+      ],
+      "tags": [
+        "文学体",
+        "自嘲"
+      ],
+      "related": [
+        "malou"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "shuzi-youmin",
+      "name": "数字游民",
+      "year": 2025,
+      "origin": "《咬文嚼字》2025十大流行语：边旅行边办公的生活方式随远程办公普及而壮大。",
+      "meaning": "工位在全世界的生活方式。",
+      "example": "大理的咖啡店里坐满了数字游民。",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "生活方式",
+        "年度流行语"
+      ],
+      "related": [],
+      "source": "https://news.chengdu.cn/2025/1202/692e90ec227f0732470b4830.shtml",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "suchao",
+      "name": "苏超",
+      "aliases": [
+        "江苏省城市足球联赛",
+        "比赛第一，友谊第十四"
+      ],
+      "year": 2025,
+      "origin": "江苏省城市足球联赛2025年爆火：13市德比、万人球场、「比赛第一，友谊第十四」的毒舌段子与「散装江苏」内战，成为现象级全民狂欢，入选《咬文嚼字》2025十大流行语。",
+      "meaning": "业余联赛踢出世界杯热度的奇迹。",
+      "example": "周末去南京看苏超，徐州对宿迁，双方球迷先斗图。",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "体育",
+        "地域梗",
+        "年度流行语"
+      ],
+      "related": [
+        "cunchao"
+      ],
+      "source": "https://news.chengdu.cn/2025/1202/692e90ec227f0732470b4830.shtml",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "saibo-duizhang",
+      "name": "赛博对账",
+      "year": 2025,
+      "origin": "2025年初TikTok难民涌入小红书，中美网友互晒工资、房租、物价、医疗账单「对账」，信息差崩塌名场面，入选《咬文嚼字》2025十大流行语。",
+      "meaning": "跨国网友互晒账单打破刻板印象。",
+      "example": "美国网友：救护车账单3000刀？中国网友：？",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "TikTok"
+      ],
+      "tags": [
+        "年度流行语",
+        "跨文化"
+      ],
+      "related": [],
+      "source": "https://news.chengdu.cn/2025/1202/692e90ec227f0732470b4830.shtml",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "year": 2025,
+      "origin": "国产大模型DeepSeek春节期间爆火，性能震惊硅谷，「DeepSeek时刻」被媒体称为AI领域的国运级节点，入选国家语委2025年度十大网络流行语。",
+      "meaning": "2025年最硬核的科技关键词。",
+      "example": "过年回家，七大姑八大姨都在聊DeepSeek。",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "AI",
+        "年度流行语"
+      ],
+      "related": [
+        "longxia",
+        "dianzi-douququ"
+      ],
+      "source": "https://www.news.cn/book/20251212/83e4aed3aff145959bf5a06243280302/c.html",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "longxia",
+      "name": "龙虾 · OpenClaw",
+      "aliases": [
+        "养龙虾"
+      ],
+      "year": 2026,
+      "origin": "开源AI智能体OpenClaw（原名Clawdbot）因红色龙虾图标被国内极客戏称为「龙虾」，部署调教它的过程叫「养龙虾」，GitHub星标一度突破28万，从技术圈火出圈，也引发「龙虾悖论」式的安全讨论。",
+      "meaning": "AI智能体的年度代称。",
+      "example": "周末在家养龙虾（部署OpenClaw）。",
+      "status": "active",
+      "platforms": [
+        "GitHub",
+        "知乎"
+      ],
+      "tags": [
+        "AI",
+        "开源"
+      ],
+      "related": [
+        "deepseek",
+        "dianzi-douququ"
+      ],
+      "source": "https://zhuanlan.zhihu.com/p/2010119008783987145",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "potian-fugui",
+      "name": "泼天的富贵",
+      "year": 2023,
+      "origin": "花西子事件后「泼天的富贵轮到XX了」刷屏，随后蜂花等国货与哈尔滨、淄博等城市轮流接住这波流量。",
+      "meaning": "突如其来的巨大流量。",
+      "example": "泼天的富贵终于轮到我们部门了（接到总部表扬）。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "tags": [
+        "品牌",
+        "城市营销"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "tezhongbing-lvyou",
+      "name": "特种兵式旅游",
+      "year": 2023,
+      "origin": "大学生「军训式」极限拉练旅游：两天一夜玩转五座城，高铁上补觉成为标配。",
+      "meaning": "预算与时间双极限的旅游流派。",
+      "example": "周五晚出发，周日返程，五城打卡：特种兵式旅游。",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "抖音"
+      ],
+      "tags": [
+        "旅游"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "gongyuan-20fenzhong",
+      "name": "公园20分钟效应",
+      "year": 2024,
+      "origin": "「每天去公园待20分钟就能回血」的研究结论在打工人群体刷屏，成为低配自救指南。",
+      "meaning": "低成本回血仪式。",
+      "example": "午休溜去对面公园发呆20分钟。",
+      "status": "active",
+      "platforms": [
+        "小红书",
+        "微博"
+      ],
+      "tags": [
+        "生活方式"
+      ],
+      "related": [
+        "banwei"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "woba-shiligan",
+      "name": "我爸是李刚",
+      "year": 2010,
+      "origin": "河北大学醉驾案肇事者的叫嚣成为年度热词，「李刚门」入选2010年度十大流行语，是交通肇事舆情时代的标志性词条。",
+      "meaning": "特权幻觉的代名词。",
+      "example": "（博物馆展品：2010年代舆情名场面）",
+      "status": "fossil",
+      "platforms": [
+        "微博",
+        "天涯"
+      ],
+      "tags": [
+        "新闻事件"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dajiangyou",
+      "name": "打酱油",
+      "year": 2008,
+      "origin": "电视台采访路人金句「我是出来打酱油的」，从此围观群众的自我标榜。",
+      "meaning": "路过围观、与我无关。",
+      "example": "我就打个酱油，你们继续。",
+      "status": "fossil",
+      "platforms": [
+        "天涯",
+        "猫扑"
+      ],
+      "tags": [
+        "新闻事件"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "shenma-fuyun",
+      "name": "神马都是浮云",
+      "year": 2010,
+      "origin": "天涯年度热词，「神马」（什么）与「浮云」的组合，一切皆浮云的豁达（摆烂的祖先）。",
+      "meaning": "看淡一切的万能结尾。",
+      "example": "年终奖缩水？神马都是浮云。",
+      "status": "fossil",
+      "platforms": [
+        "天涯",
+        "微博"
+      ],
+      "tags": [
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "geili",
+      "name": "给力",
+      "year": 2010,
+      "origin": "诞生于网络配音圈，2010年11月《人民日报》头版《江苏给力「文化强省」》让网络词首次登上大雅之堂，成为里程碑事件。",
+      "meaning": "带劲、了不起。",
+      "example": "这个AI一键修图，太给力了。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "里程碑"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "honghuang-zhili",
+      "name": "洪荒之力",
+      "year": 2016,
+      "origin": "傅园慧里约奥运会采访「我已经用了洪荒之力了」，配上表情包成为当年最快乐的瞬间。",
+      "meaning": "拼尽全力的可爱表达。",
+      "example": "赶完年终总结：洪荒之力已用完。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "体育",
+        "采访"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "cunchao",
+      "name": "村超",
+      "year": 2023,
+      "origin": "贵州榕江乡村足球联赛爆火，乡镇球场涌入数万观众，苏超之前的全民体育顶流。",
+      "meaning": "草根体育的狂欢样本。",
+      "example": "（考古：2023年夏天，村超的烟火气）",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "全网"
+      ],
+      "tags": [
+        "体育",
+        "乡村"
+      ],
+      "related": [
+        "suchao"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "zhiwang-shi-shenme",
+      "name": "知网是什么",
+      "year": 2019,
+      "origin": "翟天临直播翻车一句「知网是什么」引发学术圈地震，此后每年毕业季都被毕业生准时鞭尸。",
+      "meaning": "学术查重时代的年度怨念。",
+      "example": "毕业季朋友圈：谢谢翟博士，降重降麻了。",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "全网"
+      ],
+      "tags": [
+        "学术",
+        "年度事件"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dianzi-zhacai",
+      "name": "电子榨菜",
+      "year": 2022,
+      "origin": "吃饭时配着看的下饭视频被戏称为「电子榨菜」——拌饭神器，不看吃不下饭，2022年入选多份年度流行语榜单。",
+      "meaning": "下饭视频的统称。",
+      "example": "外卖到了，今天配哪部电子榨菜？",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "生活方式"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "zhishu-weiya",
+      "name": "指鼠为鸭",
+      "year": 2023,
+      "origin": "2023年6月江西一高校食堂「鼠头鸭脖」事件：学生在饭菜中吃出老鼠头，校方与当地市监部门初期认定为「鸭脖」，省级联合调查组最终认定为鼠头。「指鼠为鸭」讽刺指鹿为马式通报，入选《咬文嚼字》2023十大流行语。",
+      "meaning": "睁眼说瞎话、颠倒黑白的代名词。",
+      "example": "（明明是定价问题非说是优惠）真是现代版指鼠为鸭。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "新闻事件",
+        "年度流行语"
+      ],
+      "related": [
+        "zhiwang-shi-shenme"
+      ],
+      "source": "https://www.bilibili.com/video/BV1NN411y7Dp",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "xiaozhen-zuotijia",
+      "name": "小镇做题家",
+      "year": 2022,
+      "origin": "原是豆瓣「985废物引进计划」小组的自嘲语：出身小城、靠刷题考入名校却缺乏视野资源的青年。2022年7月《中国新闻周刊》文章用其贬损质疑明星考编的网友，引爆全网反弹，此后多为自嘲自强的身份标签。",
+      "meaning": "靠题海改变出身的普通人（自嘲与自尊并存）。",
+      "example": "小镇做题家何辜，卷不过你们还要被嘲讽。",
+      "status": "longevity",
+      "platforms": [
+        "豆瓣",
+        "微博"
+      ],
+      "tags": [
+        "教育",
+        "社会议题"
+      ],
+      "related": [
+        "kongyiji-changshan"
+      ],
+      "source": "https://www.bilibili.com/video/BV1jG411W7tM",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "juewang-de-wenmang",
+      "name": "绝望的文盲",
+      "year": 2023,
+      "origin": "2023年2月央视网发表评论《绝望的文盲，能演好戏吗？》，点名部分流量明星在采访中答不出角色理解、连常用字都写不出，「绝望的文盲」随即成为群嘲流量明星文化素质的标签。",
+      "meaning": "对文化功底拙劣的公众人物的讽刺。",
+      "example": "（采访答不上自己演的角色）绝望的文盲实锤了。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "全网"
+      ],
+      "tags": [
+        "娱乐圈",
+        "媒体评论"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1jY411S7jU",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "keji-yu-henhuo",
+      "name": "科技与狠活",
+      "year": 2022,
+      "origin": "2022年9月前后，美食博主辛吉飞以「海克斯科技」系列视频演示用食品添加剂「合成」 各种街头美食，口头禅「那都是科技与狠活儿」，引发食品安全全民大讨论（其内容也伴随夸大争议）。",
+      "meaning": "对添加剂与套路食品的戏称。",
+      "example": "这杯奶茶喝的不是奶，是科技与狠活。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "食品安全",
+        "短视频"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1zt4y1L7hB",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "miandian-beibu",
+      "name": "这里是缅甸北部",
+      "aliases": [
+        "缅北梗",
+        "噶腰子"
+      ],
+      "year": 2022,
+      "origin": "2022年初，抖音流行以「这里是缅甸北部，我生长的地方，欢迎来到我的世界，我漂亮的小公主」开头的伪豪门短视频；随后缅北电诈「噶腰子」恐怖叙事接管了它，梗从浪漫变惊悚，反诈宣传也下场玩梗。",
+      "meaning": "从霸总文学现场，变成电诈警告的暗号。",
+      "example": "「这个高薪海外offer……这里是缅甸北部！」",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "短视频",
+        "反诈"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1PP4y1c7z7",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "nanfang-xiaotudou",
+      "name": "南方小土豆",
+      "year": 2024,
+      "origin": "2024年1月哈尔滨冰雪旅游爆火，南方游客被爱称「南方小土豆」，尔滨以冻梨摆盘、人工月亮、鄂伦春族巡游等花式宠客接住泼天流量；后因身高刻板印象的讨论出现争议。",
+      "meaning": "哈尔滨爆火时期南方游客的爱称。",
+      "example": "中央大街上全是戴小熊帽的南方小土豆。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "小红书"
+      ],
+      "tags": [
+        "文旅",
+        "哈尔滨"
+      ],
+      "related": [
+        "nongye-damodi"
+      ],
+      "source": "https://www.bilibili.com/video/BV1Mc41187QD",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "nongye-damodi",
+      "name": "农业大摸底",
+      "year": 2024,
+      "origin": "2024年1月哈尔滨回礼广西蔓越莓，惊动广西网友「我家居然产蔓越莓？」，各省连环自查：山西有大闸蟹、安徽有鹅肝、甘肃有南美对虾、四川有鱼子酱……隐藏特产大起底被称为「农业大摸底」。",
+      "meaning": "「家乡居然还有这个？」的特产考古潮。",
+      "example": "黑龙江抚远的蔓越莓产量占全国三成？农业大摸底实锤。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "微博"
+      ],
+      "tags": [
+        "文旅",
+        "特产"
+      ],
+      "related": [
+        "nanfang-xiaotudou"
+      ],
+      "source": "https://www.bilibili.com/video/BV1yw411J7hP",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wan-gengjie",
+      "name": "万梗节",
+      "year": 2023,
+      "origin": "2023年10月31日上海万圣节，coser 集体扮演安陵容、向太、那英、蝙蝠侠等中式名场面走上街头，「万圣节」被现场改造成「万梗节」，照片刷屏全网，成为线下玩梗的年度名场面。",
+      "meaning": "以梗装点万圣节的民间狂欢。",
+      "example": "（明年万圣节cos什么梗好）",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "微博"
+      ],
+      "tags": [
+        "cos",
+        "上海"
+      ],
+      "related": [
+        "zhenhuan-zhuan"
+      ],
+      "source": "https://www.bilibili.com/video/BV1MN4y1r7Jy",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "tideng-dingsun",
+      "name": "提灯定损",
+      "year": 2024,
+      "origin": "2024年3月江西上饶一房东在租客退租时提着探照灯逐条「查验」房屋磨损，索赔上万元，「提灯定损」视频引爆全网，成为鸡蛋里挑骨头式索赔的代名词，当地后续处置亦备受关注。",
+      "meaning": "拿着放大镜找茬讹钱。",
+      "example": "离职被扣20项费用？这是职场提灯定损。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "新闻事件"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1RsFDeZEzo",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "shanhe-daxue",
+      "name": "山河大学",
+      "year": 2023,
+      "origin": "2023年6月高考季，网友畅想山河四省（山东山西河南河北）考生联手创办一所虚拟的「山河大学」，以回应四省优质高教资源稀缺的现实，话题火到被教育部回应，「虚构大学」承载真实议题。",
+      "meaning": "用一根网线建成的精神大学。",
+      "example": "山河大学 online：今日网课《高数》已开。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "B站"
+      ],
+      "tags": [
+        "教育",
+        "网友共创"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1QN411U7ga",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jiaoqi-wenxue",
+      "name": "娇妻文学",
+      "year": 2022,
+      "origin": "2022年5月前后，社交平台上以炫耀丈夫、把依附当幸福的文风被集中围观，「娇妻文学」成为对这类自我感动式婚恋叙事的统称与批判标签。",
+      "meaning": "以夫为荣的自我感动文风（讽刺用法）。",
+      "example": "「他让我给他倒水，好幸福」——娇妻文学又更新了。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "豆瓣"
+      ],
+      "tags": [
+        "性别议题",
+        "文学体"
+      ],
+      "related": [
+        "puxinnan"
+      ],
+      "source": "https://www.bilibili.com/video/BV1yr4y187d2",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "liugenghong-nanhai",
+      "name": "刘畊宏男孩女孩",
+      "year": 2022,
+      "origin": "2022年4月上海疫情期间，刘畊宏夫妇的居家健身直播一夜爆火，跟着《本草纲目》毽子操跳操的全网粉丝被称为「刘畊宏女孩/男孩」，成为居家健身的现象级事件。",
+      "meaning": "跟着毽子操挥汗的全民健身潮。",
+      "example": "（腰间赘肉咔咔掉）今晚畊宏女孩集合。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "全网"
+      ],
+      "tags": [
+        "健身",
+        "疫情"
+      ],
+      "related": [
+        "wangxinlin-nanhai"
+      ],
+      "source": "https://www.bilibili.com/video/BV12r4y1J7C8",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "lian-dou-buyao-le",
+      "name": "脸都不要了",
+      "year": 2022,
+      "origin": "2013年国足1-5惨败泰国后，范志毅在采访中怒斥「中国足球脸都不要了」；2022年大年初一国足1-3负于越南，这段采访被全网复读，成为批评拉胯表现的万能台词。",
+      "meaning": "对离谱翻车的终极批评。",
+      "example": "（再输下去）真就脸都不要了。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "足球",
+        "采访"
+      ],
+      "related": [
+        "tuiqian-ge"
+      ],
+      "source": "https://www.bilibili.com/video/BV1ZR4y1T7nP",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "dongfeng-kuaidi",
+      "name": "东风快递",
+      "year": 2022,
+      "origin": "网友对火箭军弹道导弹部队的戏称「东风快递，使命必达」，官方大方接梗拍摄宣传片，「东风快递」成为罕见地由军队与网民共同完成的大型玩梗。",
+      "meaning": "火箭军的国民昵称。",
+      "example": "（导弹试射成功的新闻下）东风快递再次好评。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "军事",
+        "官方玩梗"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1SB4y147UU",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wanliu-shaoye",
+      "name": "万柳书院少爷",
+      "year": 2023,
+      "origin": "2023年1月，一条定位北京顶级豪宅万柳书院的男生运球视频意外爆火，评论区自发上演「少爷与老奴」文学，「老奴」刷屏数日；随后风向逆转被批「自动跪舔财富」，成为一场关于阶层想象的互联网行为艺术。",
+      "meaning": "财富想象的集体行为艺术。",
+      "example": "（考古：全网喊少爷的那个星期）",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "豪宅",
+        "阶层"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1KG4y11762",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "bage-ruishijuan",
+      "name": "八个瑞士卷",
+      "year": 2024,
+      "origin": "2024年10月，一位全职妈妈发视频问「家里八个瑞士卷怎么分」，因想吃一个被丈夫教育「要给孩子做榜样」，全网疯狂给自家老公发考题，演成大型婚姻观测试；随后被质疑摆拍带货，争议再上一层。",
+      "meaning": "全网统一发放的婚姻考卷。",
+      "example": "（老公答错题已跪键盘）",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "微博"
+      ],
+      "tags": [
+        "家庭",
+        "摆拍争议"
+      ],
+      "related": [
+        "xunji-shibian"
+      ],
+      "source": "https://www.bilibili.com/video/BV1RxDsYfENW",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "haquan-dayiyou",
+      "name": "哈圈大战乙游",
+      "year": 2024,
+      "origin": "2024年8月起，说唱圈（哈圈）与乙女游戏玩家（《恋与深空》《光与夜之恋》等）因音乐作品与言论摩擦逐步升级，爆发大规模圈层互撕，被称为「哈圈大战乙游」，是2024年最出圈的圈层战争。",
+      "meaning": "圈地自萌与次元破壁的碰撞名场面。",
+      "example": "（考古：那两个月的超话战场）",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "贴吧"
+      ],
+      "tags": [
+        "圈层大战"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1VS421Q73u",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "chunwan-jiqiren",
+      "name": "春晚机器人",
+      "year": 2025,
+      "origin": "2025年央视春晚，宇树科技的人形机器人H1在《秧BOT》节目中扭着东北大秧歌、转手绢，震惊全国观众，「机器人比我会扭秧歌」刷屏，国产人形机器人自此走进大众视野。",
+      "meaning": "科技年味儿的开山名场面。",
+      "example": "（回看春晚切片：手绢转得比我还稳）",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "春晚",
+        "机器人"
+      ],
+      "related": [
+        "deepseek"
+      ],
+      "source": "https://www.bilibili.com/video/BV17pFTe3EJc",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "gu-zi",
+      "name": "谷子",
+      "aliases": [
+        "吃谷",
+        "谷子经济"
+      ],
+      "year": 2024,
+      "origin": "「谷子」音译自英文 goods，指动漫游戏IP的周边商品（吧唧、立牌、挂件等），「吃谷」即买谷。2024年底「谷子经济」成为资本市场与新闻热词，2025年入选《咬文嚼字》年度十大流行语。",
+      "meaning": "二次元周边商品的圈内统称。",
+      "example": "（周末去谷子店排队吃谷）",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "二次元",
+        "消费"
+      ],
+      "related": [
+        "chiikawa",
+        "labubu"
+      ],
+      "source": "https://news.chengdu.cn/2025/1202/692e90ec227f0732470b4830.shtml",
+      "added": "2026-08-31"
+    }
+  ]
+}

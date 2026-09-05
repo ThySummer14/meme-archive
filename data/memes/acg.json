@@ -1,0 +1,485 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "acg",
+  "memes": [
+    {
+      "id": "yeqinghui",
+      "name": "爷青回",
+      "aliases": [
+        "爷的青春回来了"
+      ],
+      "year": 2020,
+      "origin": "B站2020年度弹幕：当经典番剧、老歌手、老游戏重聚屏幕，弹幕齐刷「爷青回」。",
+      "meaning": "青春记忆被唤醒的瞬间。",
+      "example": "周杰伦线上演唱会，爷青回！",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "yeqingjie"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yeqingjie",
+      "name": "爷青结",
+      "aliases": [
+        "爷的青春结束了"
+      ],
+      "year": 2020,
+      "origin": "「爷青回」的反面：作品完结、组合解散、青春落幕时的集体告别。",
+      "meaning": "青春散场的一声叹息。",
+      "example": "老东家宣布停服，爷青结。",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "yeqinghui"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "awsl",
+      "name": "AWSL",
+      "aliases": [
+        "啊我死了"
+      ],
+      "year": 2019,
+      "origin": "B站2019年度弹幕：被萌物甜到当场去世，原为vtuber圈的「啊我死了」。",
+      "meaning": "可爱到窒息。",
+      "example": "（看到小猫翻肚皮）awsl",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕",
+        "缩写"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "pofang",
+      "name": "破防了",
+      "year": 2021,
+      "origin": "B站2021年度弹幕：心理防线被击穿——可以是感动破防，也可以是被戳痛处破防。",
+      "meaning": "情绪防线失守。",
+      "example": "看到父亲偷偷学用智能手机的视频，破防了。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "a-wenhao",
+      "name": "啊？",
+      "year": 2023,
+      "origin": "B站2023年度弹幕：面对离谱、反转、降智内容的标准反应，一个字说不清的错愕。",
+      "meaning": "？的正确发音。",
+      "example": "（看完剧情反转）啊？",
+      "status": "active",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "zhijing",
+      "name": "致敬",
+      "year": 2025,
+      "origin": "B站2025年度弹幕：视频里出现善良、勇气、热爱与英雄主义的时刻，观众发送2282万次「致敬」——年度增长最快的弹幕热词，80%发送者为00后。",
+      "meaning": "对美好品质的最高礼节。",
+      "example": "（外卖小哥救火名场面）致敬。",
+      "status": "active",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [],
+      "source": "https://www.yzwb.net/news/ch/202512/t20251227_304881.html",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "qianfang-gaoneng",
+      "name": "前方高能",
+      "year": 2014,
+      "origin": "弹幕预警文化：「前方高能，非战斗人员请撤离」，从番剧名场面预警泛化为一切精彩片段的预告。",
+      "meaning": "精彩预警。",
+      "example": "（三秒后大型反转）前方高能！",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "弹幕文化"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xia-ci-yiding",
+      "name": "下次一定",
+      "year": 2020,
+      "origin": "UP主求一键三连，观众弹幕「下次一定」——白嫖党的标准免责声明。",
+      "meaning": "礼貌性拖延三连。",
+      "example": "关注主播投个币？下次一定。",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "弹幕文化"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "23333",
+      "name": "23333",
+      "year": 2010,
+      "origin": "源自猫扑论坛第233号表情（捶地大笑），被B站弹幕继承，尾号越长笑得越狠。",
+      "meaning": "哈哈（猫扑方言）。",
+      "example": "这个up主真是个人才，233333",
+      "status": "fading",
+      "platforms": [
+        "猫扑",
+        "B站"
+      ],
+      "tags": [
+        "弹幕文化",
+        "考古"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jinkela",
+      "name": "金坷垃",
+      "year": 2008,
+      "origin": "「非洲农业不发达，必须依靠金坷垃」——化肥广告的三人组因迷之台词与演技成为B站鬼畜区的开山素材。",
+      "meaning": "鬼畜区的创世神话。",
+      "example": "（鬼畜考古区第一站）",
+      "status": "fossil",
+      "platforms": [
+        "B站",
+        "优酷时代"
+      ],
+      "tags": [
+        "鬼畜",
+        "广告"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wo-bu-zuoren",
+      "name": "我不做人了，JOJO！",
+      "year": 2012,
+      "origin": "《JOJO的奇妙冒险》DIO的名台词，戴上石鬼面前的黑化宣言，成为B站名台词常客。",
+      "meaning": "黑化/摆烂的宣言模板。",
+      "example": "面对奶茶第二杯半价：我不做人了！",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "番剧台词"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "hajimi",
+      "name": "哈基米",
+      "aliases": [
+        "はちみつ"
+      ],
+      "year": 2023,
+      "origin": "空耳自日语「蜂蜜」的魔性歌谣，配上小猫小动物视频火遍短视频平台，泛指一切可爱小猫，也衍生出「哈基米曲」二创宇宙。",
+      "meaning": "可爱小猫的代称（以及万能BGM）。",
+      "example": "（刷到小猫打架视频）哈基米！哈基米！",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "空耳",
+        "萌宠"
+      ],
+      "related": [
+        "manbo"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "manbo",
+      "name": "曼波",
+      "year": 2024,
+      "origin": "与哈基米同源的魔性空耳歌梗，「哈基米曼波」在抖音形成二创风潮，节奏一响就想跟着摇摆。",
+      "meaning": "魔性摇摆BGM。",
+      "example": "（猫猫视频下半场BGM）曼波～",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "空耳",
+        "二创"
+      ],
+      "related": [
+        "hajimi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yongchu-tafei",
+      "name": "关注永雏塔菲喵",
+      "aliases": [
+        "关注永雏塔菲谢谢喵"
+      ],
+      "year": 2022,
+      "origin": "虚拟主播永雏塔菲的洗脑口癖「关注永雏塔菲喵，关注永雏塔菲谢谢喵」，成为B站弹幕高频整活。",
+      "meaning": "环形洗脑咒语。",
+      "example": "（评论区一整页：谢谢喵）",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "vtuber"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jiaran-chishenme",
+      "name": "嘉然今天吃什么",
+      "year": 2021,
+      "origin": "虚拟偶像团体A-SOUL成员嘉然的干饭名梗，粉丝「嘉心糖」的接头暗号。",
+      "meaning": "vtuber黄金期的集体记忆。",
+      "example": "（考古：2021年A-SOUL时代）",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "vtuber"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xi-danmaku",
+      "name": "囍",
+      "year": 2017,
+      "origin": "B站首个年度弹幕（2017年12月揭晓，社科院学者评审团评选）：全年10亿条弹幕里，「囍」在婚礼、官宣等喜庆场面被刷上热榜。",
+      "meaning": "见证喜事、沾喜气的仪式弹幕。",
+      "example": "（婚礼视频满屏：囍囍囍囍）",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "zhenshi-danmaku",
+        "awsl"
+      ],
+      "source": "https://www.bilibili.com/blackboard/dannmaku2017.html",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "zhenshi-danmaku",
+      "name": "真实",
+      "year": 2018,
+      "origin": "B站2018年度弹幕（联合中国社科院发布）：全年出现约47.7万次，用于感叹内容扎心到「这就是我本人」，同榜热词还有前方高能、颜表立、真香。",
+      "meaning": "太真实了，扎心共鸣。",
+      "example": "（视频演的正是上班的自己）真实。",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "xi-danmaku"
+      ],
+      "source": "https://www.jiemian.com/article/2750673.html",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "youya-danmaku",
+      "name": "优雅",
+      "year": 2022,
+      "origin": "B站2022年度弹幕：大佬们从容不迫的极限操作（救场、翻盘、手速）让「优雅」成为最高级的赞美，衍生说法「优雅，实在是太优雅了」。",
+      "meaning": "赞叹从容漂亮的操作：美丽且毫不费力。",
+      "example": "（极限反杀集锦）优雅！实在是太优雅了！",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "jie-danmaku"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jie-danmaku",
+      "name": "接",
+      "year": 2024,
+      "origin": "B站2024年度弹幕：全年发送超576万次——好运来临时发「接」把它接住，发送最多的视频近一半与考试相关（考研、法考、高考）。",
+      "meaning": "接住好运：上岸、升职、脱单，先接为敬。",
+      "example": "（考研出分视频弹幕：接！接！接！）",
+      "status": "active",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "年度弹幕"
+      ],
+      "related": [
+        "youya-danmaku",
+        "zhijing"
+      ],
+      "source": "https://finance.sina.com.cn/jjxw/2024-12-09/doc-incyvtfv5990290.shtml",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wanglang",
+      "name": "诸葛亮骂王朗",
+      "aliases": [
+        "我从未见过有如此厚颜无耻之人",
+        "王司徒"
+      ],
+      "year": 2014,
+      "origin": "94版《三国演义》第69集「武乡侯骂死王朗」桥段，成为B站鬼畜区最经典的名场面之一，王朗坠马的瞬间被配上过无数种新台词。",
+      "meaning": "斥责厚颜无耻之人的万能弹幕与鬼畜素材。",
+      "example": "（看到抄袭洗稿行为）我从未见过有如此厚颜无耻之人！",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "鬼畜",
+        "三国演义"
+      ],
+      "related": [
+        "nianshi-zhiwang",
+        "yuanfu-nu"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "nianshi-zhiwang",
+      "name": "念诗之王",
+      "aliases": [
+        "改革春风吹满地"
+      ],
+      "year": 2018,
+      "origin": "UP主 UP-Sings 用赵本山历年春晚素材剪成的鬼畜神作「我就是念诗之王」，播放量超1.3亿、弹幕72万+，位列B站「入站必刷」，被公认为鬼畜区殿堂级作品。",
+      "meaning": "B站鬼畜艺术巅峰的代名词。",
+      "example": "改革春风吹满地，中国人民真争气。",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "鬼畜",
+        "入站必刷"
+      ],
+      "related": [
+        "wanglang"
+      ],
+      "source": "https://www.bilibili.com/video/BV1bW411n7fY/",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jiege-buyao",
+      "name": "杰哥不要",
+      "aliases": [
+        "阿伟",
+        "让我看看"
+      ],
+      "year": 2021,
+      "origin": "2012年台湾性教育宣传片《如果早知道男生也会遭受性侵害》在B站翻红，「杰哥！不要啦」「让我看看」配上阿伟的遭遇成为音MAD顶流，衍生「阿伟乱葬岗」。",
+      "meaning": "抗拒但无力反抗的名场面台词。",
+      "example": "（只要有人说「让我看看」，评论区就会刷起杰哥）",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "音MAD",
+        "宣传片"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "lanlanlu",
+      "name": "蓝蓝路",
+      "year": 2012,
+      "origin": "日本麦当劳广告里麦当劳叔叔双手拍胸喊出的「蓝蓝路」，空耳魔性，传入中文互联网后成为鬼畜区常客与早期弹幕接头暗号。",
+      "meaning": "魔性问候语，鬼畜全明星成员。",
+      "example": "（路过金拱门，脑内自动播放：蓝蓝路！）",
+      "status": "fossil",
+      "platforms": [
+        "B站",
+        "Acfun"
+      ],
+      "tags": [
+        "鬼畜",
+        "空耳"
+      ],
+      "related": [
+        "jinkela"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "platform",
+  "memes": [
+    {
+      "id": "jiajunpeng",
+      "name": "贾君鹏你妈妈喊你回家吃饭",
+      "year": 2009,
+      "origin": "魔兽世界吧一个空帖一夜之间收获百万回复，没有贾君鹏，只有一场贴吧时代的巅峰行为艺术。",
+      "meaning": "集体无意识狂欢的考古标本。",
+      "example": "（考古区镇馆之宝：2009年7月16日）",
+      "status": "fossil",
+      "platforms": [
+        "贴吧"
+      ],
+      "tags": [
+        "考古",
+        "行为艺术"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xieyao-renzai-meiguo",
+      "name": "谢邀，人在美国刚下飞机",
+      "year": 2014,
+      "origin": "知乎体精髓：谢邀+装X开场白，与「分享你刚编的故事」「先问是不是，再问为什么」并称知乎三件套。",
+      "meaning": "精英感话术的调侃模板。",
+      "example": "谢邀，人在工位，刚下电梯。",
+      "status": "fading",
+      "platforms": [
+        "知乎"
+      ],
+      "tags": [
+        "知乎体"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "laotie-666",
+      "name": "老铁双击666",
+      "aliases": [
+        "老铁666"
+      ],
+      "year": 2017,
+      "origin": "快手直播文化：老铁们，双击666，感谢家人们的火箭。",
+      "meaning": "直播间求互动的标准话术。",
+      "example": "感谢老铁送的穿云箭！",
+      "status": "longevity",
+      "platforms": [
+        "快手"
+      ],
+      "tags": [
+        "直播",
+        "东北话"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jiaren-shuidong",
+      "name": "家人们谁懂啊",
+      "year": 2022,
+      "origin": "直播间哭诉开场白「家人们谁懂啊」泛化为万能倾诉前缀，后接任何槽点。",
+      "meaning": "姐妹式吐槽的开场白。",
+      "example": "家人们谁懂啊，点外卖备注不放香菜还是放了。",
+      "status": "longevity",
+      "platforms": [
+        "抖音",
+        "小红书"
+      ],
+      "tags": [
+        "句式"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "tingquan",
+      "name": "听劝",
+      "year": 2023,
+      "origin": "小红书求助体：发帖求改造求建议，标题必带「听劝」，评论区指挥官们你一言我一语。",
+      "meaning": "把自己交给网友的谦卑姿态。",
+      "example": "听劝！剪完第二天就去烫了。",
+      "status": "longevity",
+      "platforms": [
+        "小红书"
+      ],
+      "tags": [
+        "社区文化"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jile-xiaodian-le",
+      "name": "急了孝典乐蚌",
+      "aliases": [
+        "孝典急乐"
+      ],
+      "year": 2022,
+      "origin": "贴吧抽象话五连：急了、孝、典、乐、蚌——每个字都是一句判词，吵架电报体。",
+      "meaning": "一个字让对方血压升高的暗语体系。",
+      "example": "（回复：典中典之孝子急了）",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "B站"
+      ],
+      "tags": [
+        "抽象文化"
+      ],
+      "related": [
+        "chouxiang",
+        "bengbuzhu"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wangyiyun",
+      "name": "网抑云",
+      "year": 2020,
+      "origin": "网易云音乐深夜评论区「生而为人，我很抱歉」，到点自动抑郁，后来官方都下场「云村治愈计划」。",
+      "meaning": "深夜emo集中营。",
+      "example": "凌晨十二点，网抑云时间到了。",
+      "status": "fading",
+      "platforms": [
+        "网易云音乐"
+      ],
+      "tags": [
+        "emo"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "chi-gua",
+      "name": "吃瓜",
+      "year": 2016,
+      "origin": "微博热搜文化：前排吃瓜，瓜子板凳矿泉水，「吃瓜群众」是围观者永恒的座位。",
+      "meaning": "围观热点、看热闹不嫌事大。",
+      "example": "热搜爆了？搬凳子，吃瓜。",
+      "status": "longevity",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "围观文化"
+      ],
+      "related": [
+        "chiguaren"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "feizhuliu-huoxingwen",
+      "name": "非主流火星文",
+      "aliases": [
+        "45度角仰望天空"
+      ],
+      "year": 2007,
+      "origin": "QQ空间时代：丄緦嘚簽名、45度角仰望天空，眼泪才不会掉下来——一代人的黑历史文学。",
+      "meaning": "青春疼痛文学的赛博形态。",
+      "example": "（QQ空间考古：那些年发布过的火星文签名）",
+      "status": "fossil",
+      "platforms": [
+        "QQ空间"
+      ],
+      "tags": [
+        "考古",
+        "青春疼痛"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yijian-sanlian",
+      "name": "一键三连",
+      "year": 2019,
+      "origin": "B站点赞、投币、收藏的三连击，是UP主的命根子与观众的白嫖边界。",
+      "meaning": "B站的点赞礼仪。",
+      "example": "（视频结尾）三连的都是天使！",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "社区文化"
+      ],
+      "related": [
+        "xia-ci-yiding"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "heyou",
+      "name": "盒友",
+      "year": 2017,
+      "origin": "游戏社区小黑盒用户之间的互称——「盒子里的朋友」：从开黑组队到评论区唠嗑，「盒友们」是黑盒文化的底色，平台还有黑盒语音、H币商城等配套生态。",
+      "meaning": "小黑盒玩家互称。",
+      "example": "盒友们，今晚八点黑盒语音开黑。",
+      "status": "longevity",
+      "platforms": [
+        "小黑盒"
+      ],
+      "tags": [
+        "小黑盒",
+        "称呼"
+      ],
+      "related": [
+        "xijiayi",
+        "heniang",
+        "yunwanjia"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    }
+  ]
+}

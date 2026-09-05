@@ -1,0 +1,759 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "character",
+  "memes": [
+    {
+      "id": "zhenxiang",
+      "name": "真香 · 王境泽",
+      "aliases": [
+        "真香定律"
+      ],
+      "year": 2018,
+      "origin": "《变形计》王境泽放话「我就是饿死，死外边，也不会吃你们一点东西」，几小时后端起炒饭喊出「真香」。",
+      "meaning": "口嫌体正直的经典定律：立誓必打脸。",
+      "example": "说好不买盲盒的我，真香了。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "综艺",
+        "名场面"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "mabaoguo",
+      "name": "马保国",
+      "aliases": [
+        "耗子尾汁",
+        "不讲武德",
+        "闪电五连鞭"
+      ],
+      "year": 2020,
+      "origin": "浑元形意太极拳掌门被业余拳手30秒三次击倒，事后视频留下「年轻人不讲武德」「耗子尾汁（好自为之）」「闪电五连鞭」名场面，官媒点名批评后全网下架，但语录已成化石级经典。",
+      "meaning": "输不起还嘴硬的祖师爷；耗子尾汁=好自为之。",
+      "example": "电脑重启就好了？年轻人不讲武德。",
+      "status": "fossil",
+      "platforms": [
+        "B站",
+        "微博"
+      ],
+      "tags": [
+        "武术",
+        "名场面"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jinitaimei",
+      "name": "鸡你太美 · 蔡徐坤",
+      "aliases": [
+        "只因你太美",
+        "唱跳rap篮球"
+      ],
+      "year": 2019,
+      "origin": "《偶像练习生》自我介绍才艺视频里「只因你太美」被空耳成「鸡你太美」，配上中分头与篮球成为B站鬼畜顶流，「律师函警告」事件反而火上浇油。",
+      "meaning": "鬼畜区的镇区之宝，NBA形象代言事故现场。",
+      "example": "（B站搜索：鸡你太美）",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "鬼畜",
+        "明星"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dagong-bkeneng",
+      "name": "打工是不可能打工的 · 窃格瓦拉",
+      "aliases": [
+        "这辈子不可能打工的"
+      ],
+      "year": 2016,
+      "origin": "偷车嫌疑人周立齐被捕采访金句「打工是不可能打工的，这辈子不可能打工的」，因发型酷似切·格瓦拉得名「窃格瓦拉」；2020年出狱后拒绝多家网红公司签约，把金句过成了人生。",
+      "meaning": "自由职业宣言的开山鼻祖。",
+      "example": "周一早晨，我又想起那句话：打工是不可能打工的。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "新闻事件",
+        "采访"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "duang",
+      "name": "duang",
+      "year": 2015,
+      "origin": "成龙早年霸王洗发水广告「拍完这个广告之后，头发duang～」被B站鬼畜复活，一夜之间满屏duang。",
+      "meaning": "自带特效的声音弹幕。",
+      "example": "这个转场丝滑得duang～的一下。",
+      "status": "fossil",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "鬼畜",
+        "广告"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "areyou-ok",
+      "name": "Are you OK",
+      "year": 2015,
+      "origin": "雷军小米印度发布会上的魔性英语「Are you OK?」被B站UP主做成鬼畜单曲，登顶音乐区，小米官方索性玩梗到底。",
+      "meaning": "企业家鬼畜化的起点。",
+      "example": "（点击播放：Are you OK——）",
+      "status": "fading",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "发布会",
+        "鬼畜"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "giao-ge",
+      "name": "一给我哩giao giao",
+      "aliases": [
+        "giao哥",
+        "我太难了"
+      ],
+      "year": 2018,
+      "origin": "快手主播giao哥的土味嚎叫「一给我哩giaogiao」，其另一句「我太难了」甚至传播得更远，双双入选年度流行语讨论。",
+      "meaning": "情绪拉满的无理数嚎叫。",
+      "example": "（连麦吵架必放：一给我哩giaogiao！）",
+      "status": "fading",
+      "platforms": [
+        "快手",
+        "抖音"
+      ],
+      "tags": [
+        "土味",
+        "快手"
+      ],
+      "related": [
+        "wonantai-le"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "guo-laoshi",
+      "name": "郭老师",
+      "aliases": [
+        "郭语",
+        "耶斯莫拉"
+      ],
+      "year": 2019,
+      "origin": "快手主播郭老师的「郭语」自成体系：集美、夺笋、修勾、耶斯莫拉……2021年账号被平台封禁，但郭语教材仍在民间流传。",
+      "meaning": "一门已停办但影响深远的语言学校。",
+      "example": "吃到好吃的：耶斯莫拉！",
+      "status": "fossil",
+      "platforms": [
+        "快手",
+        "B站"
+      ],
+      "tags": [
+        "土味",
+        "黑话"
+      ],
+      "related": [
+        "jimei",
+        "duosun",
+        "xiugou"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "hanmeijuan",
+      "name": "百因必有果 · 韩美娟",
+      "aliases": [
+        "你的报应就是我"
+      ],
+      "year": 2019,
+      "origin": "快手主播韩美娟（韩佩泉）的金句「百因必有果，你的报应就是我」，配合夸张妆容成为土味金句机器。",
+      "meaning": "因果报应的互联网速配版。",
+      "example": "顺手帮同事带饭：百因必有果。",
+      "status": "fading",
+      "platforms": [
+        "快手"
+      ],
+      "tags": [
+        "土味"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yaoshui-ge",
+      "name": "您配吗 · 药水哥",
+      "year": 2019,
+      "origin": "主播药水哥直播对喷名场面：不管对方说什么，只回「您配吗」，硬生生把对手磨到破防。",
+      "meaning": "降维打击式抬杠：任你千言万语，我自岿然不动。",
+      "example": "网友：你水平不行。我：您配吗？",
+      "status": "fading",
+      "platforms": [
+        "斗鱼",
+        "B站"
+      ],
+      "tags": [
+        "直播",
+        "对喷"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dongyong-guaige",
+      "name": "奥利给 · 冬泳怪鸽",
+      "aliases": [
+        "奥利给",
+        "加油奥利给"
+      ],
+      "year": 2019,
+      "origin": "快手主播冬泳怪鸽的正能量怒吼「无论遇到什么困难……奥利给！」，从快手土壤长成了B站励志弹幕。",
+      "meaning": "打气的咒语：冲就完了。",
+      "example": "期末周最后一天，奥利给！",
+      "status": "fading",
+      "platforms": [
+        "快手",
+        "B站"
+      ],
+      "tags": [
+        "正能量"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "sunxiaochuan",
+      "name": "孙笑川与抽象文化",
+      "aliases": [
+        "带带大师兄",
+        "nmsl"
+      ],
+      "year": 2018,
+      "origin": "「带带大师兄」孙笑川的直播间与百度贴吧衍生出 emoji 抽象话、NMSL 等一整套黑话体系，是中文互联网「抽象文化」公认源头之一。",
+      "meaning": "抽象文化的母体（描述用途，非评价）。",
+      "example": "（贴吧考古区入口）",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "斗鱼"
+      ],
+      "tags": [
+        "抽象文化",
+        "直播"
+      ],
+      "related": [
+        "chouxianghua",
+        "chouxiang"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "teacher-liu",
+      "name": "栓Q哥 · 刘涛",
+      "aliases": [
+        "刘涛Teacher Liu"
+      ],
+      "year": 2022,
+      "origin": "广西阳朔农民刘涛自学英语的魔性教学视频走红，thank you 念成「栓Q」，还带火了一首《Love You So》，顺便把家乡文旅带出圈。",
+      "meaning": "素人成梗的教科书案例。",
+      "example": "（栓Q表情包已加载）",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "素人",
+        "英语"
+      ],
+      "related": [
+        "shuanq"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "tuiqian-ge",
+      "name": "退钱哥",
+      "year": 2022,
+      "origin": "国足1-3输给越南后，看台上球迷何胜含泪怒吼「退钱！」的表情成为中国足球的情绪符号，每逢国足比赛准时返场。",
+      "meaning": "消费者权益受损时的终极表情。",
+      "example": "充值会员第二天平台改规则：退钱！",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "B站"
+      ],
+      "tags": [
+        "足球",
+        "看台"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "tingquan-jianbao",
+      "name": "听泉鉴宝",
+      "aliases": [
+        "听泉赏宝",
+        "开门"
+      ],
+      "year": 2024,
+      "origin": "抖音鉴宝主播听泉的直播间变成大型喜剧现场：「开门！」（真品）、「宝友，这可不兴抢啊」，鉴宝切片全网刷屏。",
+      "meaning": "「开门！」=一眼真；直播间=德云社分社。",
+      "example": "同事拿出祖传花瓶：宝友，这可不兴卖啊。",
+      "status": "active",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "直播",
+        "鉴宝"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "guoyoucai",
+      "name": "郭有才",
+      "year": 2024,
+      "origin": "菏泽南站翻唱《诺言》一夜爆红，现象级「泼天流量」样本，也引发关于素人爆火可持续性的讨论。",
+      "meaning": "泼天富贵轮流坐庄的2024年代表。",
+      "example": "菏泽南站一度成为顶流打卡地。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "素人",
+        "翻唱"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "kaifeng-wangpo",
+      "name": "开封王婆",
+      "year": 2024,
+      "origin": "开封万岁山景区说媒的王婆把相亲做成国民节目，现场人山人海，全国景区争相模仿「王婆模式」。",
+      "meaning": "月下老人的赛博分身。",
+      "example": "排队三小时，只为上台被王婆点一句「成不成」。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "相亲",
+        "文旅"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "zhangyuanying",
+      "name": "张元英转圈",
+      "year": 2024,
+      "origin": "IVE成员张元英舞台上的转圈动作引发全网逐帧研究与模仿，变成舞蹈区流量密码。",
+      "meaning": "万物皆可转圈挑战。",
+      "example": "开水房打水也要来一个张元英转圈。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "偶像",
+        "舞蹈"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "renlian-pilaoban",
+      "name": "人脸痞老板",
+      "year": 2025,
+      "origin": "2024年末至2025年初，网友把《哈利·波特》伏地魔的脸P到《海绵宝宝》反派痞老板身上，配上外国小哥的魔性配音，抽象视频迅速刷屏。",
+      "meaning": "抽象区年度顶流素材。",
+      "example": "（点开一条视频：痞老板长出了人脸）",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "抽象",
+        "AI换脸前身",
+        "海绵宝宝"
+      ],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E4%BA%BA%E8%84%B8%E7%97%9E%E8%80%81%E6%9D%BF/65399491",
+      "added": "2026-08-30"
+    },
+    {
+      "id": "fawai-kuangtu-zhangsan",
+      "name": "法外狂徒张三",
+      "aliases": [
+        "罗翔说刑法",
+        "张三"
+      ],
+      "year": 2020,
+      "origin": "中国政法大学罗翔教授刑法课里的万能案例主角「张三」几乎「犯」遍刑法全部罪名，2020年罗翔入驻B站迅速爆火登顶，张三获封「法外狂徒」。",
+      "meaning": "普法案例万能主角，一切离谱违法行为的背锅侠。",
+      "example": "「张三捡到钱包据为己有——各位，张三这回构成什么罪？」",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "普法",
+        "罗翔"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "shougonggeng",
+      "name": "手工耿",
+      "aliases": [
+        "无用良品"
+      ],
+      "year": 2018,
+      "origin": "河北保定焊工耿帅因发明「无用良品」走红：不锈钢脑瓜崩机、菜刀梳子、倒立洗头机……功能稀奇古怪但做工严谨，被称为「发明界的泥石流」。",
+      "meaning": "一本正经做无用发明的浪漫手艺人。",
+      "example": "（手工耿新发明发布：没用，但想要）",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "快手"
+      ],
+      "tags": [
+        "手工",
+        "发明"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "zhuyidan",
+      "name": "朴实无华且枯燥 · 朱一旦",
+      "aliases": [
+        "有钱人的快乐"
+      ],
+      "year": 2019,
+      "origin": "短视频《朱一旦的枯燥生活》里皮带哥的口头禅「有钱人的快乐，往往就是这么朴实无华，且枯燥」，配劳力士特写与清冷眼神，2019年刷屏全网。",
+      "meaning": "凡尔赛式炫耀的标准注脚。",
+      "example": "（买了新手机）有钱人的快乐，就是这么朴实无华且枯燥。",
+      "status": "fossil",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "短视频",
+        "凡尔赛"
+      ],
+      "related": [
+        "fansai-wenxue"
+      ],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "renleigaozhiliang",
+      "name": "人类高质量男性",
+      "year": 2021,
+      "origin": "徐勤根的求偶视频：油亮发型、怪异自拍角度与「这是一个人类高质量男性」的自我介绍引发全网仿拍，「高质量」句式一度泛滥，本人后续直播带货翻车，梗遂凉透。",
+      "meaning": "自我标榜式炫耀的嘲讽模板。",
+      "example": "「这是一个人类高质量求职者……」（HR已读不回）",
+      "status": "fossil",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "仿拍",
+        "句式"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "liuxue",
+      "name": "六学 · 文体两开花",
+      "year": 2018,
+      "origin": "孙悟空扮演者六小龄童（章金莱）因吴承恩故居挂像等争议言行被网友集中整理语录，「改编不是乱编，戏说不是胡说」与「中美合拍、文体两开花」成为复读机素材，「六学」兴起。",
+      "meaning": "复读经典语录式调侃（对公共言论争议的网络记录）。",
+      "example": "（评论区出现孙悟空：自动复读——文体两开花）",
+      "status": "fossil",
+      "platforms": [
+        "贴吧",
+        "B站"
+      ],
+      "tags": [
+        "复读机",
+        "争议"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-31"
+    },
+    {
+      "id": "gazi-tougou",
+      "name": "嘎子偷狗",
+      "year": 2022,
+      "origin": "童星谢孟伟（《小兵张嘎》嘎子）直播带货争议不断，2022年6月在直播间卖狗被网友编成「嘎子偷狗——不是好货」等歇后语群嘲，成为带货翻车的代名词；2026年卖酸奶又遭同款玩梗。「嘎子偷狗」也是梗指南播放量最高的考据视频之一。",
+      "meaning": "人设崩塌、带货翻车的代名词。",
+      "example": "（主播又卖假货）建议查查是不是嘎子偷的。",
+      "status": "longevity",
+      "platforms": [
+        "抖音",
+        "快手"
+      ],
+      "tags": [
+        "带货",
+        "童星"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1s3411w7vx",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wanyanhuide",
+      "name": "完颜慧德",
+      "aliases": [
+        "笑拥了",
+        "拱出去",
+        "lun理"
+      ],
+      "year": 2023,
+      "origin": "2023年10月，抖音情感咨询师完颜慧德因浓重口音与金句爆火：「笑死了」成「笑拥了」、「滚出去」成「拱出去」、「伦理」成「lun理」，被网友逐帧研读；其后学历争议也引发对情感咨询乱象的讨论。",
+      "meaning": "口音造梗的民间心理咨询顶流。",
+      "example": "（听到离谱发言）我直接笑拥了。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "口音",
+        "直播切片"
+      ],
+      "related": [
+        "guo-laoshi"
+      ],
+      "source": "https://www.bilibili.com/video/BV1Ay4y1N7Ln",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "foshan-dianhan",
+      "name": "佛山电翰",
+      "year": 2023,
+      "origin": "2023年10月，佛山工厂一位打螺丝小哥因长相酷似演员张翰、干活动作干脆利落而爆火，「电翰」＝电焊＋张翰，随后转型直播带货，是「素人爆火—迅速变现」的又一样本。",
+      "meaning": "撞脸明星的打工人逆袭样本。",
+      "example": "（工位打螺丝打出了节奏感）佛山电翰转世。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "素人",
+        "工厂"
+      ],
+      "related": [
+        "guoyoucai"
+      ],
+      "source": "https://www.bilibili.com/video/BV1Ph4y1z7xP",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wenhuijun",
+      "name": "闻神 · 闻会军",
+      "year": 2023,
+      "origin": "2023年12月，河北驾校教练闻会军凭三个反差账号一夜爆红：早八是正能量教练、中午是热舞「闻神」、晚上是emo大叔，单日涨粉数百万，直播间刷礼物狂欢，被称「中年互联网嘴替」。",
+      "meaning": "一体三面的赛博人设实验。",
+      "example": "（白天打工人晚上emo）我就是闻会军文学本学。",
+      "status": "fading",
+      "platforms": [
+        "抖音"
+      ],
+      "tags": [
+        "素人",
+        "人设"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1Kg4y1C7Bj",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "ali-mu",
+      "name": "你这背景太假了 · 疆域阿力木",
+      "aliases": [
+        "背景太假了"
+      ],
+      "year": 2022,
+      "origin": "2022年7月，新疆主播疆域阿力木在草原直播，画面过于清澈被弹幕质疑「背景太假了」，他跳进河里捞鱼、与羊群互动自证，反向爆火，顺势把家乡蜂蜜等农产品带成了爆款。",
+      "meaning": "真实到被怀疑造假的反差现场。",
+      "example": "（风景美到失真）这背景太假了，建议阿力木来查水表。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "助农",
+        "新疆"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV18G411H7zU",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "kexue-yeke",
+      "name": "珂学",
+      "year": 2024,
+      "origin": "2024年秋，黄晓明公开与新女友叶珂的恋情后，叶珂的直播言论被全网逐帧研读成「珂学」；争议持续发酵，叶珂宣布退网，黄晓明也删除了官宣内容，成为2024年娱乐圈最大谈资之一。",
+      "meaning": "对明星伴侣迷惑言论的逐帧考据学。",
+      "example": "（又一刷新语录）珂学界今日又有新论文。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "娱乐圈",
+        "语录"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1FZykYgE6J",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "jiakang-ge",
+      "name": "甲亢哥中国行",
+      "aliases": [
+        "IShowSpeed",
+        "速哥"
+      ],
+      "year": 2025,
+      "origin": "美国顶流主播 IShowSpeed（因直播情绪亢奋被中国网友称「甲亢哥」）2025年3-4月开启中国行，上海、北京、少林寺、成都、香港一路直播，少林寺拜师、高铁隧道信号等名场面在中外社交平台刷屏，被外媒称为一场「意外的公关胜利」。",
+      "meaning": "老外真实反应视角下的中国印象刷新。",
+      "example": "（甲亢哥第一次喝豆汁的表情包）",
+      "status": "longevity",
+      "platforms": [
+        "YouTube",
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "中外交流",
+        "直播"
+      ],
+      "related": [
+        "saibo-duizhang"
+      ],
+      "source": "https://www.bilibili.com/video/BV17FdVY2Ejn",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "siguo-tegong",
+      "name": "四国特工",
+      "year": 2022,
+      "origin": "2022年四位海外华人街头美食博主的合称：日本特工王岩、美国特工泡泡、印度特工刘庸（干净又卫生）、泰国特工小老虎——他们深入他国街头探店百无禁忌，被网友封为「四国特工」并衍生大量二创。",
+      "meaning": "海外干饭人天团的集体称号。",
+      "example": "（刷到刘庸喝恒河水）四国特工又要出任务了。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "美食博主",
+        "海外"
+      ],
+      "related": [
+        "ali-mu"
+      ],
+      "source": "https://www.bilibili.com/video/BV1G34y147ik",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wangxinlin-nanhai",
+      "name": "王心凌男孩",
+      "year": 2022,
+      "origin": "2022年5月《乘风破浪的姐姐3》里，王心凌一曲《爱你》唱跳复刻千禧年甜心风一夜翻红，大批三四十岁男性粉丝集体回归，被戏称「王心凌男孩」，与刘畊宏健身潮并称当夏两大现象。",
+      "meaning": "中年男性集体青春回潮的名场面。",
+      "example": "（公司中年男同事集体学比心）",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "抖音"
+      ],
+      "tags": [
+        "选秀",
+        "怀旧"
+      ],
+      "related": [
+        "liugenghong-nanhai"
+      ],
+      "source": "https://www.bilibili.com/video/BV1xY411u7X2",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "guangzhi-jiuwo",
+      "name": "广智救我",
+      "year": 2024,
+      "origin": "2024年9月《黑神话：悟空》爆火，游戏里头目「广智」的火刀变身成为玩家关键时刻的救命底牌，众人高呼「广智救我」；恰好脱口秀演员广智同期爆红，双厨狂喜，「广智救我」成了万能求救语。",
+      "meaning": "危难关头呼唤救命稻草的万能台词。",
+      "example": "（deadline救场同事上线）广智救我！",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "黑神话",
+        "脱口秀"
+      ],
+      "related": [
+        "heishenhua-wukong"
+      ],
+      "source": "https://www.bilibili.com/video/BV1Nb421E73D",
+      "added": "2026-08-31"
+    }
+  ]
+}

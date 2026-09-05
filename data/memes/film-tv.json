@@ -1,0 +1,511 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "film-tv",
+  "memes": [
+    {
+      "id": "mingxue",
+      "name": "明学",
+      "aliases": [
+        "我不要你觉得，我要我觉得"
+      ],
+      "year": 2019,
+      "origin": "《中餐厅3》黄晓明语出惊人的霸道语录合集，被总结为「明学」供全网研习。",
+      "meaning": "一意孤行的霸道总裁句式。",
+      "example": "这个方案不要你觉得，我要我觉得。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "综艺"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "daolu-qianwantiao",
+      "name": "道路千万条，安全第一条",
+      "year": 2019,
+      "origin": "《流浪地球》里循环播放的魔性行车安全提示，交管部门直接拿去当官方宣传语。",
+      "meaning": "任何提醒都能套的万能顺口溜。",
+      "example": "代码千万条，备份第一条。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电影",
+        "句式"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "zhenhuan-zhuan",
+      "name": "甄嬛传梗群",
+      "aliases": [
+        "臣妾做不到啊",
+        "贱人就是矫情",
+        "翠果打烂她的嘴"
+      ],
+      "year": 2012,
+      "origin": "《甄嬛传》播出十几年仍在被「甄学十级学者」逐帧解读：「臣妾做不到啊」「贱人就是矫情」「翠果，打烂她的嘴」台词库深不见底。",
+      "meaning": "长尾最强的国产剧梗富矿。",
+      "example": "让周一开会？臣妾做不到啊。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "长尾"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "huanzhu-gege",
+      "name": "还珠格格表情包宇宙",
+      "aliases": [
+        "大明湖畔的夏雨荷",
+        "容嬷嬷扎针"
+      ],
+      "year": 1998,
+      "origin": "寒暑假重播神剧《还珠格格》：尔康手、容嬷嬷扎针、皇上你还记得大明湖畔的夏雨荷吗——贡献了半部中文表情包史。",
+      "meaning": "老剧考古的最初富矿。",
+      "example": "（表情包检索：尔康手）",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "表情包"
+      ],
+      "related": [
+        "erkang-shou"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yidali-pao",
+      "name": "二营长的意大利炮",
+      "year": 2005,
+      "origin": "《亮剑》李云龙台词「二营长，你他娘的意大利炮呢」，在B站弹幕里被封为开炮仪式感鼻祖。",
+      "meaning": "请求火力支援/放大招的暗号。",
+      "example": "甲方又改需求了，二营长，拉炮！",
+      "status": "longevity",
+      "platforms": [
+        "B站"
+      ],
+      "tags": [
+        "电视剧",
+        "弹幕"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wulin-waizhuan",
+      "name": "武林外传梗群",
+      "aliases": [
+        "额滴神啊",
+        "七舅姥爷"
+      ],
+      "year": 2006,
+      "origin": "同福客栈承包一代人的台词库：「额滴神啊」「帮我照顾好我七舅姥爷」「确定一定以及肯定」。",
+      "meaning": "情景喜剧金句天花板。",
+      "example": "看到工资条：额滴神啊。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "情景喜剧"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dahua-xiyou",
+      "name": "大话西游一万年",
+      "aliases": [
+        "曾经有一份真挚的爱情"
+      ],
+      "year": 1995,
+      "origin": "「曾经有一份真挚的爱情摆在我面前，我没有珍惜……如果非要在这份爱上加上一个期限，我希望是一万年」——影史级烂大街情话，网络时代被引用亿万次。",
+      "meaning": "深情（或者不深情）的万能开场白。",
+      "example": "（婚礼致辞保留曲目）",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电影",
+        "情话"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yiqi-pashan",
+      "name": "一起爬山吗",
+      "aliases": [
+        "你看我还有机会吗"
+      ],
+      "year": 2020,
+      "origin": "《隐秘的角落》张东升的死亡邀约「一起爬山吗」与「你看我还有机会吗」，让暑期档凉飕飕。",
+      "meaning": "微笑藏刀的恐怖邀约。",
+      "example": "同事：周末一起爬山吗？我：？？？",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "悬疑剧"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yunv-wugua",
+      "name": "雨女无瓜",
+      "aliases": [
+        "与你无关"
+      ],
+      "year": 2019,
+      "origin": "《巴啦啦小魔仙》游乐王子的魔仙堡普通话「与你无关」空耳成「雨女无瓜」，配合表情包翻红。",
+      "meaning": "高冷拒绝回答。",
+      "example": "你怎么又买盲盒？雨女无瓜。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "空耳"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "puxinnan",
+      "name": "普信男",
+      "year": 2021,
+      "origin": "杨笠脱口秀金句「他明明那么普通，却那么自信」引发全网性别议题大论战，「普信」从此进入日常词汇。",
+      "meaning": "普通却迷之自信（性别话题核心词）。",
+      "example": "相亲对象开口就讲人生哲学，好一个普信男。",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "脱口秀"
+      ],
+      "tags": [
+        "脱口秀",
+        "性别议题"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yuanfang-nizenakan",
+      "name": "元芳你怎么看",
+      "year": 2012,
+      "origin": "《神探狄仁杰》「元芳，你怎么看？」被网友发现万能性后刷屏全年，成为年度网络流行语。",
+      "meaning": "求意见万能句。",
+      "example": "老板说公司要搞AI转型，元芳你怎么看？",
+      "status": "fossil",
+      "platforms": [
+        "微博",
+        "贴吧"
+      ],
+      "tags": [
+        "电视剧"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xiyou-86",
+      "name": "86版西游记梗群",
+      "aliases": [
+        "你是猴子请来的救兵吗"
+      ],
+      "year": 1986,
+      "origin": "86版《西游记》台词「你是猴子请来的救兵吗」「贫僧从东土大唐而来」在表情包时代全面复活，是考古级富矿。",
+      "meaning": "四大名著梗库的半壁江山。",
+      "example": "同事又喊人帮忙：你是猴子请来的救兵吗？",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "考古"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "qingshen-yumeng",
+      "name": "情深深雨濛濛",
+      "aliases": [
+        "书桓走的第一天，想他"
+      ],
+      "year": 2001,
+      "origin": "琼瑶剧《情深深雨濛濛》的书桓表情包与「好痛好痛」名场面在社交媒体迎来二次生命。",
+      "meaning": "琼瑶式夸张的具象化。",
+      "example": "（发表情：书桓仰天长啸）",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "电视剧",
+        "表情包"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "nihao-saoa",
+      "name": "你好骚啊",
+      "year": 2011,
+      "origin": "《回家的诱惑》洪世贤的渣出天际台词「你好骚啊」，表情包化后热度反超原剧，被称为「渣男的嘴替」。",
+      "meaning": "对骚操作的叹为观止。",
+      "example": "同事用Excel做游戏？你好骚啊。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "B站"
+      ],
+      "tags": [
+        "电视剧",
+        "表情包"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "dakang-shuji",
+      "name": "达康书记",
+      "aliases": [
+        "别低头，GDP会掉"
+      ],
+      "year": 2017,
+      "origin": "《人民的名义》李达康凭表情包走红：「别低头，GDP会掉，别流泪，达康书记会心碎」。",
+      "meaning": "一心搞事业的表情包代言人。",
+      "example": "周五下午五点五十，达康书记也在盯GDP。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "电视剧"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lao-mochiyu",
+      "name": "告诉老默我想吃鱼了",
+      "year": 2023,
+      "origin": "《狂飙》高启强的黑话，意思是「我要动手了」，安欣与强哥的爱恨情仇承包年初热搜。",
+      "meaning": "黑帮片式暗号：准备行动。",
+      "example": "对室友说：告诉老默，我想吃鱼了（指点外卖）。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xunji-shibian",
+      "name": "熏鸡事变",
+      "year": 2024,
+      "origin": "《再见爱人4》麦琳的「我配拥有一杯咖啡吗」与随后的熏鸡采购风波，成为年度综艺吵架名场面之最。",
+      "meaning": "花钱买气受的代名词。",
+      "example": "团建点餐又要迁就所有人？熏鸡事变预定。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "小红书"
+      ],
+      "tags": [
+        "综艺",
+        "吵架"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wuxun-laotai",
+      "name": "五旬老太守国门",
+      "year": 2024,
+      "origin": "《歌手2024》全开麦直播赛制下，那英独战国际唱将，被戏称「五旬老太守国门」「叶赫那拉·英子」，「韩红请战」接棒刷屏。",
+      "meaning": "孤军奋战的悲壮喜感。",
+      "example": "部门就我一个会修打印机：五旬老太守国门。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "综艺",
+        "歌手"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "langlangshan",
+      "name": "我想离开浪浪山",
+      "year": 2023,
+      "origin": "《中国奇谭》之《小妖怪的夏天》里小猪妖的心声「我想离开浪浪山」，2025年电影《浪浪山小妖怪》让它二次出圈：浪浪山=翻不过去的大山。",
+      "meaning": "对现状的疲惫与对远方的向往。",
+      "example": "辞职信在草稿箱躺了半年：我想离开浪浪山。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "动画电影"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "neza-2025",
+      "name": "哪吒2梗群",
+      "aliases": [
+        "急急如律令",
+        "结界兽",
+        "申公豹成见梗"
+      ],
+      "year": 2025,
+      "origin": "《哪吒之魔童闹海》登顶中国影史票房：结界兽表情包、「急急如律令」的翻译梗、申公豹「人心中的成见是一座大山」全面刷屏，「魔丸&灵珠」入选语言文字周报2025十大流行语。",
+      "meaning": "年度最强电影梗富矿。",
+      "example": "让AI加班翻译：急急如律令！",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电影",
+        "票房"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "gongting-yuyejiu",
+      "name": "宫廷玉液酒",
+      "aliases": [
+        "一百八一杯",
+        "群英荟萃，萝卜开会"
+      ],
+      "year": 1996,
+      "origin": "赵丽蓉小品《如此包装》等金句「宫廷玉液酒，一百八一杯」「群英荟萃，萝卜开会」，成为跨世代接头暗号，2023年「对暗号」玩法让它考古翻红。",
+      "meaning": "检验真中国人的接头暗号。",
+      "example": "上句：宫廷玉液酒。下句：一百八一杯！",
+      "status": "revival",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "小品",
+        "考古翻红"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jiuzhuan-dachang",
+      "name": "顶级厨师九转大肠",
+      "aliases": [
+        "保留了一部分"
+      ],
+      "year": 2023,
+      "origin": "2012年美食综艺《顶级厨师》选手俞涛烹制九转大肠时自曝「我去除了大部分（腥味），但我保留了一部分」，评委试吃后表情失控；2023年1月被考古翻红，「保留了一部分」成为万能金句。",
+      "meaning": "故意留一手、暗藏后手的宣言。",
+      "example": "（代码里写了个隐藏彩蛋）我保留了一部分。",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "综艺",
+        "考古"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1yM411q773",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "wangbaoquan-waye",
+      "name": "王宝钏挖野菜",
+      "year": 2022,
+      "origin": "2022年，老剧《薛平贵与王宝钏》被考古：宰相之女王宝钏为爱苦守寒窑十八年、挖野菜充饥，被封「恋爱脑祖师」——「再恋爱脑就送你去挖野菜」成为劝退金句。",
+      "meaning": "恋爱脑的最终下场。",
+      "example": "（闺蜜又想为渣男辞职）小心王宝钏挖野菜。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "恋爱脑"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1We4y1J7Pm",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "baojuan-sangzi",
+      "name": "宝鹃，我的嗓子",
+      "year": 2022,
+      "origin": "《甄嬛传》安陵容被下哑药后抓着宫女宝鹃嘶喊「宝鹃，我的嗓子！」的名场面，2022年随「甄学」复兴成为嗓子哑了时的万能配图。",
+      "meaning": "失声时刻的标准表情包。",
+      "example": "（嗓子哑了发一句：宝鹃，我的嗓子！）",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "甄嬛传",
+        "表情包"
+      ],
+      "related": [
+        "zhenhuan-zhuan"
+      ],
+      "source": "https://www.bilibili.com/video/BV1od4y1Y7Vb",
+      "added": "2026-08-31"
+    }
+  ]
+}

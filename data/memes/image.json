@@ -1,0 +1,211 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "image",
+  "memes": [
+    {
+      "id": "jinzhangguan",
+      "name": "金馆长",
+      "year": 2008,
+      "origin": "韩国演员崔成国在电影《金馆长对金馆长对金馆长》里的魔性斜眼笑，被截成表情包，是中文斗图时代的开山模板。",
+      "meaning": "万能坏笑：说风凉话专用脸。",
+      "example": "同事被老板点名加班，我发出金馆长。",
+      "status": "fading",
+      "platforms": [
+        "贴吧",
+        "QQ"
+      ],
+      "tags": [
+        "表情包鼻祖"
+      ],
+      "related": [
+        "xiongmaotou",
+        "yaomian-lian"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xiongmaotou",
+      "name": "熊猫头",
+      "year": 2013,
+      "origin": "金馆长式的真人脸合成到熊猫头上的万能模板，配上什么台词都成立，堪称中文互联网第一表情包。",
+      "meaning": "万能人脸：阴阳、吵架、自嘲全靠它。",
+      "example": "（熊猫头：就这？）",
+      "status": "longevity",
+      "platforms": [
+        "QQ",
+        "微信",
+        "微博"
+      ],
+      "tags": [
+        "表情包"
+      ],
+      "related": [
+        "jinzhangguan"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "yaomian-lian",
+      "name": "姚明脸",
+      "year": 2013,
+      "origin": "姚明接受采访时憋笑的瞬间被截成表情，与金馆长、兵长并称「表情包三巨头」。",
+      "meaning": "憋笑失败的标准表情。",
+      "example": "老板说这个需求很简单，我脸上浮现姚明脸。",
+      "status": "fading",
+      "platforms": [
+        "虎扑",
+        "贴吧"
+      ],
+      "tags": [
+        "表情包三巨头"
+      ],
+      "related": [
+        "jinzhangguan"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "erkang-shou",
+      "name": "尔康手",
+      "year": 2015,
+      "origin": "《还珠格格》里尔康伸手挽留紫薇的镜头被考古成表情包，夸张的「抓住我」手势席卷全网。",
+      "meaning": "别走！抓住我！快接住！的万能手势。",
+      "example": "发工资了，我对工资条伸出了尔康手。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "微信"
+      ],
+      "tags": [
+        "老剧考古",
+        "表情包"
+      ],
+      "related": [
+        "huanzhu-gege"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "mogutou",
+      "name": "蘑菇头",
+      "year": 2015,
+      "origin": "微信QQ时代的大头贴表情家族，蘑菇头配上各种心情台词，是移动IM时代的第一代表情包顶流。",
+      "meaning": "一代人的聊天底色。",
+      "example": "（蘑菇头：好的，没问题，微笑）",
+      "status": "fading",
+      "platforms": [
+        "微信",
+        "QQ"
+      ],
+      "tags": [
+        "表情包"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "huanong-zhushu",
+      "name": "华农兄弟吃竹鼠",
+      "year": 2018,
+      "origin": "养殖博主华农兄弟，「这只竹鼠中暑了，不能留」——吃竹鼠的一百个理由让养殖vlog变成大型连环画。",
+      "meaning": "找借口的最高境界。",
+      "example": "同事摸鱼被抓：「这个摸鱼中暑了，不能留。」",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "快手"
+      ],
+      "tags": [
+        "乡村",
+        "vlog"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "wujing-zhongguo",
+      "name": "吴京「中国」",
+      "year": 2019,
+      "origin": "吴京身穿「中国」二字运动服的剧照，被做成万能表情包，国庆、奥运、任何爱国时刻都用得上。",
+      "meaning": "发自肺腑的自豪感配图。",
+      "example": "中国空间站又发新视频？吴京中国.jpg",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "朋友圈"
+      ],
+      "tags": [
+        "表情包",
+        "爱国"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "gavin-taxiaolian",
+      "name": "假笑男孩 Gavin",
+      "year": 2017,
+      "origin": "美国男孩Gavin Thomas的礼貌假笑视频传入中文互联网，被职场人奉为营业表情包鼻祖。",
+      "meaning": "不得不笑时的标准假笑。",
+      "example": "团建合影瞬间切换假笑男孩。",
+      "status": "fading",
+      "platforms": [
+        "微博"
+      ],
+      "tags": [
+        "表情包",
+        "职场"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "goutou-baoming",
+      "name": "狗头保命",
+      "year": 2019,
+      "origin": "微博与贴吧把狗头emoji用作反讽免责声明：说了争议话缀个狗头，表示「别抬杠，我是玩梗」。",
+      "meaning": "反讽/阴阳的免责声明。",
+      "example": "老板画的饼真香（狗头）",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "贴吧",
+        "B站"
+      ],
+      "tags": [
+        "评论区文化"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "buluofen-xiaohongren",
+      "name": "布洛芬小红人",
+      "year": 2022,
+      "origin": "2022年12月防疫政策调整初期退烧药一盒难求，网友晒出各家布洛芬药盒，包装上姿势各异的小红人被做成「求药暗号」表情包：「还差一个举布洛芬的」。",
+      "meaning": "疫情末端的集体记忆与求药暗号。",
+      "example": "（药盒小人九宫格：你集齐了几个姿势）",
+      "status": "fading",
+      "platforms": [
+        "朋友圈",
+        "微博"
+      ],
+      "tags": [
+        "疫情",
+        "表情包"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1J44y1o71R",
+      "added": "2026-08-31"
+    }
+  ]
+}

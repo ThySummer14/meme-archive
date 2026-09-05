@@ -1,0 +1,366 @@
+{
+  "schema": "meme-archive/1.0",
+  "category": "kawaii",
+  "memes": [
+    {
+      "id": "xiongmao-huahua",
+      "name": "熊猫花花",
+      "year": 2023,
+      "origin": "成都熊猫基地顶流「女明星」，坐姿像不倒翁、行动慢半拍，游客排队三小时只为看她三分钟。",
+      "meaning": "国宝顶流，治愈系天花板。",
+      "example": "花花今天营业了吗？",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "大熊猫"
+      ],
+      "related": [
+        "menglan"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "menglan",
+      "name": "萌兰 · 西直门三太子",
+      "year": 2023,
+      "origin": "北京动物园大熊猫萌兰，因屡次策划「越狱」翻墙未遂而爆红，越狱失败的憨样被做成表情包。",
+      "meaning": "向往自由的熊猫代表。",
+      "example": "周一上班的我 = 越狱失败的萌兰。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "大熊猫"
+      ],
+      "related": [
+        "xiongmao-huahua"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "kapibala",
+      "name": "卡皮巴拉",
+      "aliases": [
+        "水豚",
+        "capybara"
+      ],
+      "year": 2023,
+      "origin": "水豚凭「泰山崩于前而面不改色」的情绪稳定形象全网爆红，与二创神曲《卡皮巴拉》互相成就。",
+      "meaning": "情绪稳定的化身。",
+      "example": "遇事先深呼吸，做一只卡皮巴拉。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "动物",
+        "情绪稳定"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "malou",
+      "name": "吗喽",
+      "year": 2023,
+      "origin": "两广方言里的「猴子」，配上表情包「吗喽的命也是命」「吗喽的手也不是手」，成为打工人自嘲顶流。",
+      "meaning": "打工人动物系自嘲（猴版）。",
+      "example": "凌晨两点还在改方案：吗喽的手也不是手。",
+      "status": "longevity",
+      "platforms": [
+        "微信",
+        "微博"
+      ],
+      "tags": [
+        "表情包",
+        "打工人"
+      ],
+      "related": [
+        "niuma",
+        "shushu-wenxue"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xiantiao-xiaogou",
+      "name": "线条小狗",
+      "year": 2023,
+      "origin": "韩系简笔画小狗（萨摩耶与柯基）表情包，委屈巴巴的小眼神让它成为微信斗图新贵。",
+      "meaning": "「我不管我委屈」的具象化。",
+      "example": "（发图：线条小狗抱头蹲防）",
+      "status": "fading",
+      "platforms": [
+        "微信"
+      ],
+      "tags": [
+        "表情包",
+        "插画"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "loopy",
+      "name": "Loopy 露比",
+      "year": 2023,
+      "origin": "《小企鹅Pororo》衍生角色露比（粉色小海狸），嫌弃、无语、阴阳怪气的表情包统治评论区。",
+      "meaning": "阴阳怪气的最佳代言。",
+      "example": "（发图：loopy白眼）哦～是吗～",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "微信"
+      ],
+      "tags": [
+        "表情包",
+        "韩国IP"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "chiikawa",
+      "name": "Chiikawa 吉伊卡哇",
+      "year": 2024,
+      "origin": "日本漫画《chiikawa（有什么好）》的三小只（吉伊、小八、乌萨奇），治愈与致郁并存，大人小孩一起吃谷。",
+      "meaning": "「弱小又可爱」的新世代图腾。",
+      "example": "排队买谷子：乌萨奇那只给我留着！",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "微博"
+      ],
+      "tags": [
+        "日本IP",
+        "谷子"
+      ],
+      "related": [
+        "gu-zi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "labubu",
+      "name": "Labubu",
+      "year": 2024,
+      "origin": "泡泡玛特THE MONSTERS系列的尖牙小精灵，2025年因明星效应被拍到天价，全球门店大排长龙。",
+      "meaning": "潮玩经济的年度图腾。",
+      "example": "抽盲盒抽到隐藏款Labubu，已是人生赢家。",
+      "status": "active",
+      "platforms": [
+        "小红书",
+        "全球"
+      ],
+      "tags": [
+        "潮玩",
+        "盲盒"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "xuewang",
+      "name": "雪王",
+      "year": 2021,
+      "origin": "蜜雪冰城主题曲「你爱我，我爱你，蜜雪冰城甜蜜蜜」血洗全网，雪王人偶成为国货玩梗顶流。",
+      "meaning": "低价快乐的水雪化身。",
+      "example": "（哼唱中）你爱我～我爱你～",
+      "status": "longevity",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "品牌IP",
+        "神曲"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "lingna-beier",
+      "name": "玲娜贝儿",
+      "aliases": [
+        "川沙妲己"
+      ],
+      "year": 2021,
+      "origin": "上海迪士尼达菲家族新成员，没有作品纯靠人设出道即顶流，黄牛价一度翻十倍。",
+      "meaning": "IP造星的巅峰案例。",
+      "example": "（抢购玲娜贝儿）手速就是正义。",
+      "status": "fading",
+      "platforms": [
+        "微博",
+        "小红书"
+      ],
+      "tags": [
+        "迪士尼"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "bingdundun",
+      "name": "冰墩墩",
+      "year": 2022,
+      "origin": "北京冬奥会吉祥物，「一户一墩」全民抢购，熊猫+冰糖外壳成为国民顶流。",
+      "meaning": "冬奥的可爱化身。",
+      "example": "当年没抢到墩墩的都在等冰墩墩返场。",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "吉祥物"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "catmeme",
+      "name": "猫meme",
+      "year": 2024,
+      "origin": "用小猫视频配字幕讲人生故事的叙事格式在短视频区大爆发：打工、创业、失恋全都能用小猫演。",
+      "meaning": "短视频区的新通用语言。",
+      "example": "「开店第一天」+ 一只小猫小心翼翼探头。",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "叙事格式",
+        "萌宠"
+      ],
+      "related": [
+        "yilaoshi"
+      ],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "jellycat",
+      "name": "Jellycat 过家家",
+      "year": 2024,
+      "origin": "Jellycat玩偶店员配合「过家家式打包」仪式：给玩偶「打针」「打包」，成年人在柜台前集体返老还童。",
+      "meaning": "成年人的赛博哄娃现场。",
+      "example": "店员对玩偶说：它会想你的。顾客：泪目。",
+      "status": "fading",
+      "platforms": [
+        "小红书",
+        "抖音"
+      ],
+      "tags": [
+        "品牌",
+        "仪式感"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "caonima-shenshou",
+      "name": "神兽草泥马",
+      "aliases": [
+        "十大神兽",
+        "羊驼"
+      ],
+      "year": 2009,
+      "origin": "论坛时代网友创造的「十大神兽」传说领头羊，让羊驼从此背上了好笑的人设。",
+      "meaning": "早期互联网的亚文化图腾（表述从略）。",
+      "example": "（博物馆展品：一只优雅的羊驼）",
+      "status": "fossil",
+      "platforms": [
+        "天涯",
+        "猫扑"
+      ],
+      "tags": [
+        "考古",
+        "谐音"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-08-30"
+    },
+    {
+      "id": "heniang",
+      "name": "盒娘",
+      "year": 2019,
+      "origin": "游戏社区小黑盒的拟人化看板娘「盒娘」，官方表情包里有比心、做梦、风纪委员、喜加一等一整批黑盒风表情，是平台文化具象化的门面。",
+      "meaning": "小黑盒的看板萌娘。",
+      "example": "（签到界面：盒娘举着今日份喜加一）",
+      "status": "fading",
+      "platforms": [
+        "小黑盒"
+      ],
+      "tags": [
+        "看板娘",
+        "小黑盒"
+      ],
+      "related": [
+        "heyou",
+        "xijiayi"
+      ],
+      "source": "https://zh.moegirl.org.cn/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%A8%98",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "kedaya-yayinhe",
+      "name": "可达鸭音乐盒",
+      "year": 2022,
+      "origin": "2022年5-6月，肯德基六一儿童节套餐赠品「可达鸭音乐盒」引爆抢购：摇头摆手的可达鸭身上贴纸随意创作，大人比孩子抢得更疯，二手价一度炒至数百元。",
+      "meaning": "儿童节礼物成了大人的玩具。",
+      "example": "（代吃肯德基只为可达鸭）",
+      "status": "fading",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "宝可梦",
+        "玩具"
+      ],
+      "related": [],
+      "source": "https://www.bilibili.com/video/BV1o34y1E7NN",
+      "added": "2026-08-31"
+    },
+    {
+      "id": "oiia-mao",
+      "name": "OIIA 旋转猫",
+      "aliases": [
+        "oiiaioooooiai"
+      ],
+      "year": 2023,
+      "origin": "2023年，一只被配上「oiiaioooooiai」电子音、仿佛跟着旋律转动耳朵的猫从 TikTok 火遍全球，中文圈称「旋转猫」，成为万能鬼畜与循环视频素材。",
+      "meaning": "魔性循环：看一眼脑子里就停不下来。",
+      "example": "（视频三小时版还有八百万人在看）",
+      "status": "fading",
+      "platforms": [
+        "TikTok",
+        "B站",
+        "全球"
+      ],
+      "tags": [
+        "猫",
+        "音频梗"
+      ],
+      "related": [
+        "catmeme"
+      ],
+      "source": "https://www.bilibili.com/video/BV17h4y1p7VC",
+      "added": "2026-08-31"
+    }
+  ]
+}
