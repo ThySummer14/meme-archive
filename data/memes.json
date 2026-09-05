@@ -1,7 +1,7 @@
 {
   "schema": "meme-archive/1.0",
   "generated": "2026-08-30",
-  "count": 330,
+  "count": 333,
   "memes": [
     {
       "category": "film-tv",
@@ -7184,6 +7184,62 @@
       "added": "2026-09-05"
     },
     {
+      "category": "film-tv",
+      "id": "wujizhitan-jiachangbianfan",
+      "name": "无鸡之谈 · 加肠便饭",
+      "aliases": [
+        "2026春晚谐音梗"
+      ],
+      "year": 2026,
+      "origin": "2026年马年春晚真人小品贡献的年度谐音梗：小品《又来了》讲养鸡户老王遭遇形式主义调研，贡献「无鸡之谈」（无稽之谈）；小品《你准喜欢》贡献「加肠便饭／加肠变饭」（家常便饭），被调侃「谐音梗扣钱」，转转App 还下场回应「没钱上春晚」。虽被批「网络烂梗拼盘」，两梗仍成春节档流传最广的笑料。",
+      "meaning": "春晚小品谐音梗的年度代表。",
+      "example": "「你这说法纯属无鸡之谈——对了，中午加肠便饭？」",
+      "status": "active",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "春晚",
+        "小品",
+        "谐音"
+      ],
+      "related": [
+        "xieyingeng-kouqian"
+      ],
+      "source": "https://zhuanlan.zhihu.com/p/2007072501923090894",
+      "added": "2026-09-05"
+    },
+    {
+      "category": "kawaii",
+      "id": "meituan-feidudud",
+      "name": "美团老鼠 · 肥嘟嘟",
+      "aliases": [
+        "胆子真是肥嘟嘟的",
+        "黄色三幻神"
+      ],
+      "year": 2026,
+      "origin": "2026年8月，网友把美团外卖的黄色袋鼠吉祥物做成画质模糊、眼神清澈的低清表情包，戏称「美团老鼠」——其实它不是老鼠，是袋鼠。配文「你胆子真是肥嘟嘟的」「生活真是爽歪歪」押韵刷屏，一度取代奶龙「新王登基」，与奶蛙、牛来并称「互联网黄色三幻神」，各品牌纷纷下场玩梗。",
+      "meaning": "呆萌式阴阳怪气的万能表情包。",
+      "example": "「敢跟老板提加薪？你胆子真是肥嘟嘟的。」",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "吉祥物",
+        "表情包",
+        "抽象"
+      ],
+      "related": [
+        "naiwa",
+        "niulai"
+      ],
+      "source": "https://www.digitaling.com/articles/1568839.html",
+      "added": "2026-09-05"
+    },
+    {
       "category": "society",
       "id": "longxia",
       "name": "龙虾 · OpenClaw",
@@ -7232,6 +7288,30 @@
         "yesheng-gounai"
       ],
       "source": "https://tech.china.com/articles/20260903/202609031955422.html",
+      "added": "2026-09-05"
+    },
+    {
+      "category": "wordplay",
+      "id": "juhua-yinliao",
+      "name": "菊花饮料",
+      "year": 2026,
+      "origin": "「抽象食品宇宙／民间版无限宝石」的空间系神器，与野生狗奶（永恒法则）、春秋肠（时空回溯）并称「互联网三大神器」：野生狗奶永不过期，春秋肠逆转时间，菊花饮料则掌握空间压缩。由网友在野生狗奶热潮中续写创作而成（具体首发者已不可考），同期成员还有湛江走地老鸡奶等。",
+      "meaning": "三大神器中的空间法则掌握者。",
+      "example": "「世界那么大我想去看看」「菊花饮料一开，哪都在眼前。」",
+      "status": "active",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "抽象",
+        "食品宇宙"
+      ],
+      "related": [
+        "yesheng-gounai",
+        "chunqiu-chang"
+      ],
+      "source": "https://www.gamersky.com/news/202608/2190202.shtml",
       "added": "2026-09-05"
     },
     {

@@ -520,6 +520,21 @@
       "related": ["chouxiang", "yesheng-gounai"],
       "source": "https://www.bilibili.com/video/BV1XabQ6VEWS",
       "added": "2026-09-05"
+    },
+    {
+      "id": "wujizhitan-jiachangbianfan",
+      "name": "无鸡之谈 · 加肠便饭",
+      "aliases": ["2026春晚谐音梗"],
+      "year": 2026,
+      "origin": "2026年马年春晚真人小品贡献的年度谐音梗：小品《又来了》讲养鸡户老王遭遇形式主义调研，贡献「无鸡之谈」（无稽之谈）；小品《你准喜欢》贡献「加肠便饭／加肠变饭」（家常便饭），被调侃「谐音梗扣钱」，转转App 还下场回应「没钱上春晚」。虽被批「网络烂梗拼盘」，两梗仍成春节档流传最广的笑料。",
+      "meaning": "春晚小品谐音梗的年度代表。",
+      "example": "「你这说法纯属无鸡之谈——对了，中午加肠便饭？」",
+      "status": "active",
+      "platforms": ["全网"],
+      "tags": ["春晚", "小品", "谐音"],
+      "related": ["xieyingeng-kouqian"],
+      "source": "https://zhuanlan.zhihu.com/p/2007072501923090894",
+      "added": "2026-09-05"
     }
   ]
 }
