@@ -1,7 +1,7 @@
 {
   "schema": "meme-archive/1.0",
   "generated": "2026-08-30",
-  "count": 342,
+  "count": 352,
   "memes": [
     {
       "category": "film-tv",
@@ -1271,6 +1271,52 @@
       "added": "2026-08-31"
     },
     {
+      "category": "catchphrase",
+      "id": "freestyle",
+      "name": "你有freestyle吗？",
+      "aliases": [
+        "freestyle"
+      ],
+      "year": 2017,
+      "origin": "2017年《中国有嘻哈》导师吴亦凡在海选时的万年口头禅「你有freestyle吗？」一夜刷屏，入选年度十大流行语，成为考察一切即兴能力的万能提问，也让「freestyle」从嘻哈术语变成大众词汇。",
+      "meaning": "即兴能力大考验的万能问句。",
+      "example": "面试官：会写代码吗？要会freestyle的那种。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "嘻哈"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "catchphrase",
+      "id": "zhaxin-le-laotie",
+      "name": "扎心了，老铁",
+      "year": 2017,
+      "origin": "快手直播文化合体产物：「老铁」是东北话里的铁哥们，「扎心了」表达被戳中痛处，2017年两句合体席卷全网，入选年度十大流行语，成为一切心酸时刻的标准感叹。",
+      "meaning": "被现实戳中心窝的万能感叹。",
+      "example": "工资到账先还花呗——扎心了，老铁。",
+      "status": "fading",
+      "platforms": [
+        "快手",
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "直播"
+      ],
+      "related": [
+        "laotie-666"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
       "category": "film-tv",
       "id": "dakang-shuji",
       "name": "达康书记",
@@ -1468,6 +1514,93 @@
       ],
       "source": "https://www.jiemian.com/article/2750673.html",
       "added": "2026-08-31"
+    },
+    {
+      "category": "catchphrase",
+      "id": "c-wei",
+      "name": "C位",
+      "aliases": [
+        "C位出道"
+      ],
+      "year": 2018,
+      "origin": "center位，源自偶像团体站位与游戏圈，2018年随选秀综艺大爆发成为「核心位置」的代称，「C位出道」「稳居C位」高频出现，入选年度十大流行语。",
+      "meaning": "舞台与生活的核心位置。",
+      "example": "合照C位，永远留给领导的保温杯。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "选秀"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "catchphrase",
+      "id": "gangjing",
+      "name": "杠精",
+      "year": 2018,
+      "origin": "为反对而反对、逢帖必抬杠的人，2018年入选年度十大流行语，与「键盘侠」并列互联网讨论区两大奇特物种：你说今天天气真好，他说难道昨天天气就不好吗？",
+      "meaning": "逢帖必杠的抬杠艺术家。",
+      "example": "「这家店真好吃。」「难道别家就难吃吗？」——杠精来了。",
+      "status": "longevity",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语"
+      ],
+      "related": [
+        "jianpan? no"
+      ],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "catchphrase",
+      "id": "guanxuan",
+      "name": "官宣",
+      "year": 2018,
+      "origin": "「官方宣布」的缩写。2018年10月赵丽颖、冯绍峰一条「官宣」结婚微博直接挤爆服务器，让这个词完成全民化——此后一切正式公布（从结婚到新品发布）都叫官宣，入选年度十大流行语。",
+      "meaning": "正式公布的万能动词。",
+      "example": "（晒录取通知书）官宣！",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "全网"
+      ],
+      "tags": [
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
+    },
+    {
+      "category": "catchphrase",
+      "id": "queren-guoshenyan",
+      "name": "确认过眼神",
+      "aliases": [
+        "确认过眼神，是遇上对的人"
+      ],
+      "year": 2018,
+      "origin": "源自林俊杰2008年歌曲《醉赤壁》歌词「确认过眼神，我遇上对的人」，2018年被网友改造成万能开头：「确认过眼神，是我不想理的人」「确认过眼神，是买不起的人」，入选年度十大流行语。",
+      "meaning": "一眼鉴定万物的万能开头。",
+      "example": "确认过眼神，是挤不上地铁的人。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "歌词"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
     },
     {
       "category": "catchphrase",
@@ -1744,6 +1877,31 @@
       "related": [],
       "source": null,
       "added": "2026-08-30"
+    },
+    {
+      "category": "society",
+      "id": "jinli",
+      "name": "锦鲤",
+      "aliases": [
+        "转发这条锦鲤",
+        "中国锦鲤"
+      ],
+      "year": 2018,
+      "origin": "2018年国庆，支付宝「中国锦鲤」抽奖砸中信小呆，免单大礼包引发全民转发，「转发这条锦鲤」从此成为赛博祈福的标准仪式，入选年度十大流行语；从考试上岸到脱单发财，锦鲤图长盛不衰。",
+      "meaning": "赛博祈福仪式：好运的具象化转发物。",
+      "example": "（转发锦鲤）下周面试求上岸。",
+      "status": "longevity",
+      "platforms": [
+        "微博",
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "祈福"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-05"
     },
     {
       "category": "wordplay",
@@ -4170,6 +4328,30 @@
     },
     {
       "category": "society",
+      "id": "waijuan-xia",
+      "name": "外卷侠",
+      "year": 2022,
+      "origin": "2022年，一位网友分享「虽然没在找工作，但我会定期投简历——HR问期望薪资，无论多少我都回答：太低了」，以一己之力倒逼企业涨薪，被尊称「外卷侠」；词衍生自「麦乐鸡侠」（偷偷多给一块麦乐鸡的麦当劳员工），与「内卷」相对：内卷是把同伴卷下去，外卷是把待遇卷上来。",
+      "meaning": "倒逼行情上涨的无名英雄。",
+      "example": "（HR又压价）希望多几个外卷侠吧。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "贴吧"
+      ],
+      "tags": [
+        "职场",
+        "反内卷"
+      ],
+      "related": [
+        "neijuan",
+        "dagongren"
+      ],
+      "source": "https://baike.baidu.com/item/%E5%A4%96%E5%8D%B7%E4%BE%A0/60961573",
+      "added": "2026-09-05"
+    },
+    {
+      "category": "society",
       "id": "xiaozhen-zuotijia",
       "name": "小镇做题家",
       "year": 2022,
@@ -4280,6 +4462,30 @@
       "related": [],
       "source": "https://www.bilibili.com/video/BV1Gf4y1F711",
       "added": "2026-08-31"
+    },
+    {
+      "category": "wordplay",
+      "id": "jiji-guwang",
+      "name": "急急国王",
+      "year": 2022,
+      "origin": "谐音《熊出没》角色「吉吉国王」，2022年起经游戏主播粉丝圈扩散至全网，常与「我知道你很急，但你先别急」「你急了」配套食用——用来调侃争论中先破防、沉不住气的一方，也可自嘲「我是急急国王」，与动画角色本身并无关系。",
+      "meaning": "「你急了」的加冕仪式。",
+      "example": "（对面连发三条长文）急急国王先别急。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "谐音",
+        "对喷"
+      ],
+      "related": [
+        "ji-le",
+        "hongwen"
+      ],
+      "source": "https://baike.baidu.com/item/%E6%80%A5%E6%80%A5%E5%9B%BD%E7%8E%8B/63015650",
+      "added": "2026-09-05"
     },
     {
       "category": "wordplay",
@@ -6286,6 +6492,29 @@
       "related": [],
       "source": null,
       "added": "2026-08-30"
+    },
+    {
+      "category": "film-tv",
+      "id": "rensheng-yirufanzhang",
+      "name": "人生易如反掌",
+      "year": 2024,
+      "origin": "出自2017年高分日剧《四重奏》：边缘角色来杉有朱（吉冈里帆）从打工妹逆袭成富豪太太后，笑着说出「人生ちょろかった」（人生超简单啊）；中文译制版神来之笔译成「人生，易如反掌」，恰与台词的举手反掌动作完美契合。2024年片段在短视频平台翻红，成为打工人自嘲与许愿的万能表情包。",
+      "meaning": "对生活掌控感的许愿式自嘲。",
+      "example": "「暴富什么时候轮到我？——人生，易如反掌（举手）」",
+      "status": "active",
+      "platforms": [
+        "抖音",
+        "小红书"
+      ],
+      "tags": [
+        "日剧",
+        "表情包"
+      ],
+      "related": [
+        "langlangshan"
+      ],
+      "source": "https://static.nfnews.com/content/202405/18/c8883961.html",
+      "added": "2026-09-05"
     },
     {
       "category": "film-tv",

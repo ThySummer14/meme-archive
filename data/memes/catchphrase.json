@@ -1438,6 +1438,12 @@
       "related": ["gongyuan-20fenzhong"],
       "source": null,
       "added": "2026-09-05"
-    }
+    },
+    { "id": "zhaxin-le-laotie", "name": "扎心了，老铁", "year": 2017, "origin": "快手直播文化合体产物：「老铁」是东北话里的铁哥们，「扎心了」表达被戳中痛处，2017年两句合体席卷全网，入选年度十大流行语，成为一切心酸时刻的标准感叹。", "meaning": "被现实戳中心窝的万能感叹。", "example": "工资到账先还花呗——扎心了，老铁。", "status": "fading", "platforms": ["快手", "全网"], "tags": ["年度流行语", "直播"], "related": ["laotie-666"], "source": null, "added": "2026-09-05" },
+    { "id": "freestyle", "name": "你有freestyle吗？", "aliases": ["freestyle"], "year": 2017, "origin": "2017年《中国有嘻哈》导师吴亦凡在海选时的万年口头禅「你有freestyle吗？」一夜刷屏，入选年度十大流行语，成为考察一切即兴能力的万能提问，也让「freestyle」从嘻哈术语变成大众词汇。", "meaning": "即兴能力大考验的万能问句。", "example": "面试官：会写代码吗？要会freestyle的那种。", "status": "fossil", "platforms": ["全网"], "tags": ["年度流行语", "嘻哈"], "related": [], "source": null, "added": "2026-09-05" },
+    { "id": "guanxuan", "name": "官宣", "year": 2018, "origin": "「官方宣布」的缩写。2018年10月赵丽颖、冯绍峰一条「官宣」结婚微博直接挤爆服务器，让这个词完成全民化——此后一切正式公布（从结婚到新品发布）都叫官宣，入选年度十大流行语。", "meaning": "正式公布的万能动词。", "example": "（晒录取通知书）官宣！", "status": "longevity", "platforms": ["微博", "全网"], "tags": ["年度流行语"], "related": [], "source": null, "added": "2026-09-05" },
+    { "id": "c-wei", "name": "C位", "aliases": ["C位出道"], "year": 2018, "origin": "center位，源自偶像团体站位与游戏圈，2018年随选秀综艺大爆发成为「核心位置」的代称，「C位出道」「稳居C位」高频出现，入选年度十大流行语。", "meaning": "舞台与生活的核心位置。", "example": "合照C位，永远留给领导的保温杯。", "status": "longevity", "platforms": ["全网"], "tags": ["年度流行语", "选秀"], "related": [], "source": null, "added": "2026-09-05" },
+    { "id": "gangjing", "name": "杠精", "year": 2018, "origin": "为反对而反对、逢帖必抬杠的人，2018年入选年度十大流行语，与「键盘侠」并列互联网讨论区两大奇特物种：你说今天天气真好，他说难道昨天天气就不好吗？", "meaning": "逢帖必杠的抬杠艺术家。", "example": "「这家店真好吃。」「难道别家就难吃吗？」——杠精来了。", "status": "longevity", "platforms": ["全网"], "tags": ["年度流行语"], "related": ["jianpan? no"], "source": null, "added": "2026-09-05" },
+    { "id": "queren-guoshenyan", "name": "确认过眼神", "aliases": ["确认过眼神，是遇上对的人"], "year": 2018, "origin": "源自林俊杰2008年歌曲《醉赤壁》歌词「确认过眼神，我遇上对的人」，2018年被网友改造成万能开头：「确认过眼神，是我不想理的人」「确认过眼神，是买不起的人」，入选年度十大流行语。", "meaning": "一眼鉴定万物的万能开头。", "example": "确认过眼神，是挤不上地铁的人。", "status": "fossil", "platforms": ["全网"], "tags": ["年度流行语", "歌词"], "related": [], "source": null, "added": "2026-09-05" }
   ]
 }

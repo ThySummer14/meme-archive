@@ -733,6 +733,20 @@
       "related": ["yesheng-gounai", "chunqiu-chang"],
       "source": "https://www.gamersky.com/news/202608/2190202.shtml",
       "added": "2026-09-05"
+    },
+    {
+      "id": "jiji-guwang",
+      "name": "急急国王",
+      "year": 2022,
+      "origin": "谐音《熊出没》角色「吉吉国王」，2022年起经游戏主播粉丝圈扩散至全网，常与「我知道你很急，但你先别急」「你急了」配套食用——用来调侃争论中先破防、沉不住气的一方，也可自嘲「我是急急国王」，与动画角色本身并无关系。",
+      "meaning": "「你急了」的加冕仪式。",
+      "example": "（对面连发三条长文）急急国王先别急。",
+      "status": "fading",
+      "platforms": ["B站", "抖音"],
+      "tags": ["谐音", "对喷"],
+      "related": ["ji-le", "hongwen"],
+      "source": "https://baike.baidu.com/item/%E6%80%A5%E6%80%A5%E5%9B%BD%E7%8E%8B/63015650",
+      "added": "2026-09-05"
     }
   ]
 }
