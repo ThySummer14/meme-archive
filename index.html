@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>梗档案馆 · Meme Archive</title>
+  <meta name="description" content="中文互联网梗的档案馆：在新梗淹没旧梗之前，把它们登记在册。224 件藏品 · 11 个展厅 · 1986–2026。">
+  <link rel="icon" href="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23b3402e'/%3E%3Ctext x='32' y='45' font-size='34' text-anchor='middle' fill='%23fff' font-family='serif'%3E%E6%A2%97%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css?v=20260905">
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="topbar-inner">
+      <span class="seal seal-mini" aria-hidden="true">梗</span>
+      <span class="topbar-title">梗档案馆</span>
+      <span class="topbar-sub">MEME&nbsp;ARCHIVE</span>
+      <span class="topbar-count">馆藏 <b id="totalCount">—</b> 件</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="seal seal-hero" aria-hidden="true">梗</div>
+      <h1>梗档案馆</h1>
+      <p class="hero-sub">新梗不断冒出，旧梗逐渐被遗忘。<br>在新梗淹没旧梗之前，把它们登记在册。</p>
+      <p class="hero-stats"><span id="statCount">—</span> 件藏品<i>·</i><span id="statCats">—</span> 个展厅<i>·</i><span id="statYears">—</span></p>
+    </section>
+
+    <div class="controls">
+      <div class="controls-inner">
+        <div class="controls-row">
+          <input id="searchInput" class="search" type="search" placeholder="搜索梗名、出处、释义、标签……" autocomplete="off">
+          <div class="seg" role="tablist" aria-label="视图切换">
+            <button class="seg-btn on" data-view="gallery" role="tab">展柜</button>
+            <button class="seg-btn" data-view="timeline" role="tab">编年</button>
+            <button class="seg-btn" data-view="graph" role="tab">图谱</button>
+            <button class="seg-btn" data-view="fresh" role="tab">上新</button>
+          </div>
+          <button id="resetBtn" class="reset" hidden>重置筛选</button>
+        </div>
+        <div class="controls-row">
+          <span class="row-label">展厅</span>
+          <div class="chips" id="categoryChips"></div>
+        </div>
+        <div class="controls-row">
+          <span class="row-label">生命周期</span>
+          <div class="chips" id="statusChips"></div>
+        </div>
+      </div>
+    </div>
+
+    <section id="galleryView" class="museum">
+      <div class="section-head">
+        <h2 id="galleryTitle">全部展厅</h2>
+        <span class="section-count" id="galleryCount">—</span>
+      </div>
+      <p class="section-desc" id="galleryDesc">全部馆藏，按入馆年份先后排列。</p>
+      <div class="card-grid" id="cardGrid"></div>
+      <div class="empty" id="emptyState" hidden>
+        <p class="empty-title">空空如也</p>
+        <p class="empty-hint">没有找到匹配的藏品，试试换个关键词，或重置筛选。</p>
+      </div>
+    </section>
+
+    <section id="timelineView" class="museum" hidden>
+      <div class="section-head">
+        <h2>梗之编年</h2>
+        <span class="section-count" id="timelineCount">—</span>
+      </div>
+      <p class="section-desc">从 1986 到今天：梗的新陈代谢，一部速写史。</p>
+      <div id="timeline"></div>
+    </section>
+
+    <section id="graphView" class="museum" hidden>
+      <div class="section-head">
+        <h2>梗之图谱</h2>
+        <span class="section-count" id="graphCount">—</span>
+      </div>
+      <p class="section-desc">相关梗互相连线，节点颜色对应展厅。可拖拽节点，点击查看卷宗。</p>
+      <div class="graph-wrap">
+        <canvas id="graphCanvas"></canvas>
+        <div class="graph-tip" id="graphTip" hidden></div>
+      </div>
+      <div class="graph-legend" id="graphLegend"></div>
+    </section>
+
+    <section id="freshView" class="museum" hidden>
+      <div class="section-head">
+        <h2>上新 · 入馆动态</h2>
+        <span class="section-count" id="freshCount">—</span>
+      </div>
+      <p class="section-desc">档案馆持续收录，每一批登记在册的梗都在这里留档。</p>
+      <div id="freshList"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>梗档案馆 MEME ARCHIVE · 新梗淹没旧梗之前，把它们登记在册</span>
+      <span id="footerMeta">—</span>
+    </div>
+  </footer>
+
+  <div class="overlay" id="overlay" role="dialog" aria-modal="true" aria-label="藏品卷宗">
+    <article class="sheet" id="sheet"></article>
+  </div>
+
+  <noscript><p style="text-align:center;padding:40px">本档案馆需要启用 JavaScript 才能浏览。</p></noscript>
+  <script src="data.js?v=20260905"></script>
+  <script src="app.js?v=20260905"></script>
+</body>
+</html>
