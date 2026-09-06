@@ -747,6 +747,49 @@
       "related": ["ji-le", "hongwen"],
       "source": "https://baike.baidu.com/item/%E6%80%A5%E6%80%A5%E5%9B%BD%E7%8E%8B/63015650",
       "added": "2026-09-05"
+    },
+    {
+      "id": "shangba",
+      "name": "上巴",
+      "year": 2022,
+      "origin": "2022年走红的民生新闻采访梗：台湾一档地方新闻里，曾大爷讲纠纷被打经历时想不起「人中」的学名，指着鼻梁下方随口造词「上巴」，一本正经造词的画面笑翻全网，随后衍生出「心巴」（心脏）等「-巴」系列词汇。",
+      "meaning": "人中的民间学名。",
+      "example": "（排队被挤）我上巴都要被打掉了。",
+      "status": "fading",
+      "platforms": ["抖音", "B站"],
+      "tags": ["造词", "新闻"],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E4%B8%8A%E5%B7%B4/61129573",
+      "added": "2026-09-06"
+    },
+    {
+      "id": "goudai",
+      "name": "狗带",
+      "aliases": ["go die"],
+      "year": 2016,
+      "origin": "go die 的音译，2016年因黄子韬演唱会上「我不会轻易地狗带」的宣言爆红，入选2016年度十大流行语，意为（尴尬地）完蛋、退场，「就这样狗带了」成为自嘲标配。",
+      "meaning": "「去死吧」的戏谑音译：完蛋、退场。",
+      "example": "（上台忘词）今天就狗带在这了。",
+      "status": "fossil",
+      "platforms": ["全网"],
+      "tags": ["音译", "年度流行语"],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
+      "id": "jiong",
+      "name": "囧",
+      "year": 2008,
+      "origin": "2008年，古字「囧」（jiǒng，本义光明）因字形酷似一张下垂眉愁苦脸被网友赋予「尴尬、无奈、傻眼」的新义，横扫论坛、贴吧与QQ签名，入选2008年度十大流行语，衍生「囧rz」「囧囧有神」等颜文字家族，是汉字玩梗的巅峰之作。",
+      "meaning": "一张古字写尽尴尬的脸。",
+      "example": "（打开钱包）囧。",
+      "status": "fossil",
+      "platforms": ["贴吧", "QQ空间"],
+      "tags": ["汉字梗", "年度流行语"],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
     }
   ]
 }

@@ -594,6 +594,34 @@
       "related": ["langlangshan"],
       "source": "https://static.nfnews.com/content/202405/18/c8883961.html",
       "added": "2026-09-05"
+    },
+    {
+      "id": "caocao-gaifan",
+      "name": "曹操盖饭",
+      "year": 2023,
+      "origin": "2010年电视剧《三国》第12集：曹操正吃饭时闻讯大本营兖州被吕布偷袭，怒极反笑，把手中饭碗「啪」地倒扣在案上——2023年这个名场面被做成表情包与鬼畜素材，「曹操盖饭」专指「正悠闲时突然被噩耗砸中」的瞬间，与「刘氏蹦迪」并称新三国梗界双璧，连海外社区都在讨论「Cao Cao's rice bowl」。",
+      "meaning": "气到掀桌（扣饭）的戏剧化瞬间。",
+      "example": "（上班打开监控看到生产事故）曹操盖饭。",
+      "status": "fading",
+      "platforms": ["B站", "全网"],
+      "tags": ["电视剧", "三国", "鬼畜"],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E6%9B%B9%E6%93%8D%E7%9B%96%E9%A5%AD/63015524",
+      "added": "2026-09-06"
+    },
+    {
+      "id": "yige-mantou",
+      "name": "一个馒头引发的血案",
+      "year": 2006,
+      "origin": "2006年初，网友胡戈以电影《无极》素材剪成20分钟恶搞短片《一个馒头引发的血案》，用法制节目口吻重新讲故事，笑翻全网；陈凯歌怒而起诉反让短片热度更盛，全民声援胡戈——公认中文互联网恶搞文化与鬼畜精神的开山事件。",
+      "meaning": "恶搞文化的开山碑。",
+      "example": "（一切鬼畜的族谱第一页）",
+      "status": "fossil",
+      "platforms": ["全网"],
+      "tags": ["恶搞", "电影", "考古"],
+      "related": ["jinkela", "wanglang"],
+      "source": null,
+      "added": "2026-09-06"
     }
   ]
 }

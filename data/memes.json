@@ -1,7 +1,7 @@
 {
   "schema": "meme-archive/1.0",
   "generated": "2026-08-30",
-  "count": 352,
+  "count": 364,
   "memes": [
     {
       "category": "film-tv",
@@ -207,6 +207,30 @@
       "added": "2026-08-30"
     },
     {
+      "category": "film-tv",
+      "id": "yige-mantou",
+      "name": "一个馒头引发的血案",
+      "year": 2006,
+      "origin": "2006年初，网友胡戈以电影《无极》素材剪成20分钟恶搞短片《一个馒头引发的血案》，用法制节目口吻重新讲故事，笑翻全网；陈凯歌怒而起诉反让短片热度更盛，全民声援胡戈——公认中文互联网恶搞文化与鬼畜精神的开山事件。",
+      "meaning": "恶搞文化的开山碑。",
+      "example": "（一切鬼畜的族谱第一页）",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "恶搞",
+        "电影",
+        "考古"
+      ],
+      "related": [
+        "jinkela",
+        "wanglang"
+      ],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
       "category": "international",
       "id": "lolcats",
       "name": "I Can Has Cheezburger",
@@ -381,6 +405,48 @@
       "added": "2026-08-30"
     },
     {
+      "category": "wordplay",
+      "id": "jiong",
+      "name": "囧",
+      "year": 2008,
+      "origin": "2008年，古字「囧」（jiǒng，本义光明）因字形酷似一张下垂眉愁苦脸被网友赋予「尴尬、无奈、傻眼」的新义，横扫论坛、贴吧与QQ签名，入选2008年度十大流行语，衍生「囧rz」「囧囧有神」等颜文字家族，是汉字玩梗的巅峰之作。",
+      "meaning": "一张古字写尽尴尬的脸。",
+      "example": "（打开钱包）囧。",
+      "status": "fossil",
+      "platforms": [
+        "贴吧",
+        "QQ空间"
+      ],
+      "tags": [
+        "汉字梗",
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
+      "category": "catchphrase",
+      "id": "jimo-dang",
+      "name": "寂寞党",
+      "year": 2009,
+      "origin": "2009年7月，贴吧一张哥深夜吃面的照片配文「哥吃的不是面，是寂寞」，句式一夜病毒式复制（「哥抽的不是烟，是寂寞」），「寂寞党」成为2009年最盛大的一场集体矫情，也标志着论坛时代情绪梗的巅峰。",
+      "meaning": "「不是X，是寂寞」句式的全民模仿。",
+      "example": "（加班点的还是那家外卖）吃的不是饭，是寂寞。",
+      "status": "fossil",
+      "platforms": [
+        "贴吧",
+        "全网"
+      ],
+      "tags": [
+        "句式",
+        "考古"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
       "category": "kawaii",
       "id": "caonima-shenshou",
       "name": "神兽草泥马",
@@ -505,6 +571,26 @@
       "related": [],
       "source": null,
       "added": "2026-08-30"
+    },
+    {
+      "category": "catchphrase",
+      "id": "holdzhu",
+      "name": "hold住",
+      "year": 2011,
+      "origin": "2011年，谢依霖在《大学生了没》以夸张造型登场高喊「整个场面我要Hold住！」，「Hold住姐」一夜爆红，中英混搭的「hold住／hold不住」入选2011年度十大流行语。",
+      "meaning": "掌控局面的宣言（及其反面「hold不住」）。",
+      "example": "明天汇报PPT，场面我hold住。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "综艺"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
     },
     {
       "category": "film-tv",
@@ -903,6 +989,25 @@
       "added": "2026-08-31"
     },
     {
+      "category": "catchphrase",
+      "id": "youqian-renxing",
+      "name": "有钱就是任性",
+      "year": 2014,
+      "origin": "2014年一则诈骗新闻里，受骗者明知是骗局仍陆续给骗子汇款，网友评论「有钱就是任性」一锤定音，入选2014年度十大流行语，「就是任性」句式随即泛滥（长得美就是任性、脸圆就是任性）。",
+      "meaning": "对不按常理出牌行为的调侃。",
+      "example": "凌晨三点点外卖？有钱就是任性。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
       "category": "gaming",
       "id": "weizhu-shenjingmao",
       "name": "围住神经猫",
@@ -964,6 +1069,28 @@
       "related": [],
       "source": null,
       "added": "2026-08-30"
+    },
+    {
+      "category": "catchphrase",
+      "id": "shijie-name-da",
+      "name": "世界那么大，我想去看看",
+      "year": 2015,
+      "origin": "2015年4月，河南省实验中学心理教师顾少强的辞职信只有十个字，被赞「史上最具情怀的辞职信，没有之一」，入选2015年度十大流行语，「去看世界」从此成为逃离格子间的精神图腾。",
+      "meaning": "辞职与远方的精神图腾。",
+      "example": "（辞职信躺在草稿箱）世界那么大。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "辞职"
+      ],
+      "related": [
+        "langlangshan"
+      ],
+      "source": null,
+      "added": "2026-09-06"
     },
     {
       "category": "character",
@@ -1138,6 +1265,45 @@
       "added": "2026-08-30"
     },
     {
+      "category": "catchphrase",
+      "id": "xiaomubiao",
+      "name": "小目标",
+      "year": 2016,
+      "origin": "2016年，王健林在采访中教导年轻人「先定一个能达到的小目标，比方说我先挣它一个亿」，首富与小目标的巨大反差笑翻全网，入选2016年度十大流行语，「小目标」从此专指凡人遥不可及的愿望。",
+      "meaning": "首富口径的flag模板。",
+      "example": "今年小目标：先挣它一个亿（的分之一）。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
+      "category": "catchphrase",
+      "id": "youyi-de-xiaochuan",
+      "name": "友谊的小船说翻就翻",
+      "year": 2016,
+      "origin": "2016年4月，漫画作者喃东尼的「友谊的小船」系列漫画刷屏：「友谊的小船说翻就翻」，随后衍生「爱情的巨轮说沉就沉」「亲情的火苗说灭就灭」，入选2016年度十大流行语。",
+      "meaning": "万能翻车句式鼻祖。",
+      "example": "借了室友充电器没还？友谊的小船说翻就翻。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "年度流行语",
+        "漫画"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
+    },
+    {
       "category": "character",
       "id": "dagong-bkeneng",
       "name": "打工是不可能打工的 · 窃格瓦拉",
@@ -1200,6 +1366,29 @@
       "related": [],
       "source": null,
       "added": "2026-08-30"
+    },
+    {
+      "category": "wordplay",
+      "id": "goudai",
+      "name": "狗带",
+      "aliases": [
+        "go die"
+      ],
+      "year": 2016,
+      "origin": "go die 的音译，2016年因黄子韬演唱会上「我不会轻易地狗带」的宣言爆红，入选2016年度十大流行语，意为（尴尬地）完蛋、退场，「就这样狗带了」成为自嘲标配。",
+      "meaning": "「去死吧」的戏谑音译：完蛋、退场。",
+      "example": "（上台忘词）今天就狗带在这了。",
+      "status": "fossil",
+      "platforms": [
+        "全网"
+      ],
+      "tags": [
+        "音译",
+        "年度流行语"
+      ],
+      "related": [],
+      "source": null,
+      "added": "2026-09-06"
     },
     {
       "category": "wordplay",
@@ -4529,6 +4718,27 @@
     },
     {
       "category": "wordplay",
+      "id": "shangba",
+      "name": "上巴",
+      "year": 2022,
+      "origin": "2022年走红的民生新闻采访梗：台湾一档地方新闻里，曾大爷讲纠纷被打经历时想不起「人中」的学名，指着鼻梁下方随口造词「上巴」，一本正经造词的画面笑翻全网，随后衍生出「心巴」（心脏）等「-巴」系列词汇。",
+      "meaning": "人中的民间学名。",
+      "example": "（排队被挤）我上巴都要被打掉了。",
+      "status": "fading",
+      "platforms": [
+        "抖音",
+        "B站"
+      ],
+      "tags": [
+        "造词",
+        "新闻"
+      ],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E4%B8%8A%E5%B7%B4/61129573",
+      "added": "2026-09-06"
+    },
+    {
+      "category": "wordplay",
       "id": "xuan-shatangju",
       "name": "炫沙糖桔",
       "year": 2022,
@@ -5098,6 +5308,28 @@
       ],
       "source": null,
       "added": "2026-09-05"
+    },
+    {
+      "category": "film-tv",
+      "id": "caocao-gaifan",
+      "name": "曹操盖饭",
+      "year": 2023,
+      "origin": "2010年电视剧《三国》第12集：曹操正吃饭时闻讯大本营兖州被吕布偷袭，怒极反笑，把手中饭碗「啪」地倒扣在案上——2023年这个名场面被做成表情包与鬼畜素材，「曹操盖饭」专指「正悠闲时突然被噩耗砸中」的瞬间，与「刘氏蹦迪」并称新三国梗界双璧，连海外社区都在讨论「Cao Cao's rice bowl」。",
+      "meaning": "气到掀桌（扣饭）的戏剧化瞬间。",
+      "example": "（上班打开监控看到生产事故）曹操盖饭。",
+      "status": "fading",
+      "platforms": [
+        "B站",
+        "全网"
+      ],
+      "tags": [
+        "电视剧",
+        "三国",
+        "鬼畜"
+      ],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E6%9B%B9%E6%93%8D%E7%9B%96%E9%A5%AD/63015524",
+      "added": "2026-09-06"
     },
     {
       "category": "film-tv",
@@ -7659,6 +7891,30 @@
       ],
       "source": "https://zhuanlan.zhihu.com/p/2007072501923090894",
       "added": "2026-09-05"
+    },
+    {
+      "category": "gaming",
+      "id": "laosou-xiwantong",
+      "name": "老叟戏顽童",
+      "year": 2026,
+      "origin": "高手虐菜（游戏黑话「炸鱼」）的文雅替身：影视台词「这分明就是老叟戏顽童」经铺天盖地的切片玩梗视频走红——力量强大者不急于下狠手，弱者使尽浑身解数也徒劳，从此「炸鱼」都有了体面的说法，连围棋解说都拿来用，也有网友嫌其被滥用得太泛。",
+      "meaning": "「炸鱼」的文雅说法：高手指点未成年人。",
+      "example": "（主播用小号虐新手村）这分明就是老叟戏顽童。",
+      "status": "active",
+      "platforms": [
+        "B站",
+        "抖音"
+      ],
+      "tags": [
+        "游戏",
+        "切片"
+      ],
+      "related": [
+        "cai-jiu-duolian",
+        "zhongmen-duiju"
+      ],
+      "source": "https://www.bilibili.com/video/BV1gE8s6AEjn",
+      "added": "2026-09-06"
     },
     {
       "category": "kawaii",
