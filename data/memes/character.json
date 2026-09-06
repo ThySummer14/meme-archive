@@ -782,6 +782,34 @@
       "related": ["jinitaimei"],
       "source": null,
       "added": "2026-09-05"
+    },
+    {
+      "id": "mifan-xianren",
+      "name": "米饭仙人",
+      "year": 2024,
+      "origin": "日本吃播YouTuber「One food riceman」（ワンフィードライスマン）：一大锅白饭只配一小碟菜，一顿最多炫三斤米饭，把吃播卷出新赛道；中文圈先译「米饭侠」后尊称「米饭仙人」，「oo仙人」自此成为「对特定事物痴迷到极处者」的万能尊号，歌手潘玮柏也曾因懂米饭被封同款称号。",
+      "meaning": "「oo仙人」句式的代表作：痴迷白饭到极致的男人。",
+      "example": "（干饭不就菜）这是米饭仙人的境界。",
+      "status": "fading",
+      "platforms": ["YouTube", "B站", "抖音"],
+      "tags": ["吃播", "日本"],
+      "related": [],
+      "source": "https://zh.moegirl.org.cn/zh-cn/Oo%E4%BB%99%E4%BA%BA",
+      "added": "2026-09-06"
+    },
+    {
+      "id": "huanwo-mashengbi",
+      "name": "还我妈生鼻",
+      "year": 2024,
+      "origin": "2024年7月，抖音博主秦新宇（秦鑫吖）鼻部整形失败、维权六个月无果后，另辟蹊径写了一首38秒神曲《还我妈生鼻》，到涉事医美机构门口边唱边维权——5天百万播放、冲上热搜第一，「还我妈生鼻」从此成为对过度医美的万能吐槽，堪称音乐维权教科书。",
+      "meaning": "讨回原装自己的维权神曲。",
+      "example": "（滤镜开太大）还我妈生鼻！",
+      "status": "fading",
+      "platforms": ["抖音", "全网"],
+      "tags": ["医美", "音乐维权"],
+      "related": [],
+      "source": "https://baike.baidu.com/item/%E8%BF%98%E6%88%91%E5%A6%88%E7%94%9F%E9%BC%BB/65034381",
+      "added": "2026-09-06"
     }
   ]
 }
