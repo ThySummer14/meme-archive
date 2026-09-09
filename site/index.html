@@ -4,40 +4,73 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>梗档案馆 · Meme Archive</title>
-  <meta name="description" content="中文互联网梗的档案馆：在新梗淹没旧梗之前，把它们登记在册。224 件藏品 · 11 个展厅 · 1986–2026。">
+  <meta name="description" content="中文互联网梗的档案馆：在新梗淹没旧梗之前，把它们登记在册。376 件藏品 · 11 个展厅 · 1986–2026。">
+  <meta name="theme-color" content="#f3f1eb">
+  <meta property="og:title" content="梗档案馆 · Meme Archive">
+  <meta property="og:description" content="一座给互联网记忆留位置的小型博物馆。">
   <link rel="icon" href="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%23b3402e'/%3E%3Ctext x='32' y='45' font-size='34' text-anchor='middle' fill='%23fff' font-family='serif'%3E%E6%A2%97%3C/text%3E%3C/svg%3E">
-  <link rel="stylesheet" href="style.css?v=20260906b">
+  <link rel="stylesheet" href="style.css?v=20260909a">
 </head>
 <body>
 
+  <a class="skip-link" href="#archive">跳到馆藏</a>
+
   <header class="topbar">
     <div class="topbar-inner">
-      <span class="seal seal-mini" aria-hidden="true">梗</span>
-      <span class="topbar-title">梗档案馆</span>
-      <span class="topbar-sub">MEME&nbsp;ARCHIVE</span>
-      <span class="topbar-count">馆藏 <b id="totalCount">—</b> 件</span>
+      <a class="brand" href="./" aria-label="梗档案馆首页">
+        <span class="seal seal-mini" aria-hidden="true">梗</span>
+        <span class="topbar-title">梗档案馆</span>
+        <span class="topbar-sub">MEME&nbsp;ARCHIVE</span>
+      </a>
+      <div class="topbar-actions">
+        <span class="topbar-count">馆藏 <b id="totalCount">—</b> 件</span>
+        <button class="icon-btn" id="randomBtn" type="button" title="随机抽一件（R）" aria-label="随机抽一件">✦</button>
+        <button class="icon-btn" id="themeBtn" type="button" title="切换主题" aria-label="切换主题">◐</button>
+      </div>
     </div>
   </header>
 
   <main>
     <section class="hero">
-      <div class="seal seal-hero" aria-hidden="true">梗</div>
-      <h1>梗档案馆</h1>
-      <p class="hero-sub">新梗不断冒出，旧梗逐渐被遗忘。<br>在新梗淹没旧梗之前，把它们登记在册。</p>
-      <p class="hero-stats"><span id="statCount">—</span> 件藏品<i>·</i><span id="statCats">—</span> 个展厅<i>·</i><span id="statYears">—</span></p>
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-line"></span>数字民俗 · 持续更新</p>
+        <h1>把互联网的<br><em>此刻</em>留给以后</h1>
+        <p class="hero-sub">新梗不断冒出，旧梗逐渐被遗忘。我们把它们登记在册，留下出处、语境和还在发光的余温。</p>
+        <div class="hero-actions">
+          <button class="primary-btn" id="exploreBtn" type="button">开始逛展 <span>↓</span></button>
+          <button class="text-btn" id="heroRandomBtn" type="button">随机抽一件 <span>R</span></button>
+        </div>
+      </div>
+      <div class="hero-plaque" aria-label="馆藏概览">
+        <div class="plaque-top"><span>ARCHIVE / 2026</span><span>OPEN 24H</span></div>
+        <div class="seal seal-hero" aria-hidden="true">梗</div>
+        <p class="plaque-caption">一座给互联网记忆<br>留位置的小型博物馆</p>
+        <p class="hero-stats"><span id="statCount">—</span> 件藏品<i>·</i><span id="statCats">—</span> 个展厅<i>·</i><span id="statYears">—</span></p>
+      </div>
     </section>
 
-    <div class="controls">
+    <div class="controls" id="archive">
       <div class="controls-inner">
         <div class="controls-row">
-          <input id="searchInput" class="search" type="search" placeholder="搜索梗名、出处、释义、标签……" autocomplete="off">
+          <label class="search-wrap"><span class="search-icon">⌕</span><input id="searchInput" class="search" type="search" placeholder="搜索梗名、出处、释义、标签……" autocomplete="off"><kbd>/</kbd></label>
           <div class="seg" role="tablist" aria-label="视图切换">
-            <button class="seg-btn on" data-view="gallery" role="tab">展柜</button>
-            <button class="seg-btn" data-view="timeline" role="tab">编年</button>
-            <button class="seg-btn" data-view="graph" role="tab">图谱</button>
-            <button class="seg-btn" data-view="fresh" role="tab">上新</button>
+            <button class="seg-btn on" data-view="gallery" role="tab" aria-selected="true">展柜</button>
+            <button class="seg-btn" data-view="timeline" role="tab" aria-selected="false">编年</button>
+            <button class="seg-btn" data-view="graph" role="tab" aria-selected="false">图谱</button>
+            <button class="seg-btn" data-view="fresh" role="tab" aria-selected="false">上新</button>
           </div>
           <button id="resetBtn" class="reset" hidden>重置筛选</button>
+        </div>
+        <div class="controls-row controls-tools">
+          <span class="result-note" id="resultNote">正在浏览全部馆藏</span>
+          <label class="sort-label" for="sortSelect">排序</label>
+          <select id="sortSelect" class="sort-select" aria-label="排序方式">
+            <option value="year-desc">年份：新 → 旧</option>
+            <option value="year-asc">年份：旧 → 新</option>
+            <option value="name">名称：A → Z</option>
+            <option value="added">最近入馆</option>
+          </select>
+          <button class="favorites-filter" id="favoritesBtn" type="button" aria-pressed="false"><span>☆</span> 我的收藏 <b id="favoriteCount">0</b></button>
         </div>
         <div class="controls-row">
           <span class="row-label">展厅</span>
@@ -106,8 +139,10 @@
     <article class="sheet" id="sheet"></article>
   </div>
 
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
   <noscript><p style="text-align:center;padding:40px">本档案馆需要启用 JavaScript 才能浏览。</p></noscript>
-  <script src="data.js?v=20260906b"></script>
-  <script src="app.js?v=20260906b"></script>
+  <script src="data.js?v=20260909a"></script>
+  <script src="app.js?v=20260909a"></script>
 </body>
 </html>

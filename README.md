@@ -4,7 +4,17 @@
 > 档案馆的使命是——**在新梗淹没旧梗之前，把它们登记在册**。
 
 - **阶段一**：梗的收集与结构化归档 ✅ 现有馆藏 **376 件**（2026-08-30 建库；08-31 三轮扩录 +98 件；09-05 考据扩录 +8 件，「梗指南」752 期扩录池宣告全量过筛）
-- **阶段二**：Web 展馆 ✅ 已上线 **https://thysummer14.github.io/meme-archive/**（2026-09-05，GitHub Pages；四大视图：展柜 / 编年 / 图谱 / 上新，搜索筛选卷宗齐备）
+- **阶段二**：Web 展馆 ✅ 已上线 **https://thysummer14.github.io/meme-archive/**（2026-09-09 更新；四大视图：展柜 / 编年 / 图谱 / 上新，搜索筛选卷宗齐备）
+
+### Web 展馆功能
+
+- 展柜、编年、图谱、上新四种浏览方式，支持按展厅与生命周期筛选
+- 全文搜索：梗名、别名、出处、释义、示例、平台与标签均可检索
+- 排序：年份新旧、名称、最近入馆；结果数量实时提示
+- 收藏：卡片或卷宗内一键收藏，保存在浏览器本地，可筛选“我的收藏”
+- 随机探索：点击顶部「✦」或按 `R` 随机打开一件藏品
+- 主题切换：支持明暗主题，偏好自动记忆；按 `/` 可快速聚焦搜索
+- 键盘可用：`Enter` 打开卡片，`Esc` 关闭卷宗，所有交互控件带焦点提示
 
 ## 目录结构
 
@@ -38,7 +48,7 @@ python3 -m http.server 8961 -d site               # 本地预览 http://localhos
 ```
 
 - **线上**：https://thysummer14.github.io/meme-archive/（GitHub Pages，源为 `gh-pages` 分支 = `site/` 子树）
-- **发版**：`git subtree push --prefix=site origin gh-pages`；更新 JS/CSS 后记得改 index.html 里的 `?v=` 版本号破缓存
+- **发版**：先提交根目录改动，再执行 `git subtree push --prefix=site origin gh-pages`；更新 JS/CSS 后记得改 `site/index.html` 里的 `?v=` 版本号破缓存
 - 站点为纯静态（无依赖、无构建链），`site/data.js` 由 build.py 自动生成，勿手改。
 
 ## 数据模型
