@@ -19,7 +19,8 @@
   const noOf = m => "No." + String(memes.indexOf(m) + 1).padStart(4, "0");
   const catDot = m => { const c = catById.get(m.category); return c ? c.color : "#999"; };
 
-  const state = { q: "", cat: null, status: null, view: "gallery" };
+  const storedFavorites = (() => { try { return JSON.parse(localStorage.getItem("meme-archive:favorites") || "[]"); } catch (_) { return []; } })();
+  const state = { q: "", cat: null, status: null, view: "gallery", sort: "year-desc", favoritesOnly: false, favorites: new Set(storedFavorites) };
 
   const countByCat = {};
   const countByStatus = {};
@@ -56,7 +57,8 @@
 
   function currentList() {
     const q = state.q.trim().toLowerCase();
-    return memes.filter(m => {
+    const filtered = memes.filter(m => {
+      if (state.favoritesOnly && !state.favorites.has(m.id)) return false;
       if (state.cat && m.category !== state.cat) return false;
       if (state.status && m.status !== state.status) return false;
       if (!q) return true;
@@ -64,13 +66,20 @@
                    ...(m.tags || []), ...(m.platforms || []), String(m.year)].join(" ").toLowerCase();
       return hay.includes(q);
     });
+    return filtered.sort((a, b) => {
+      if (state.sort === "year-asc") return a.year - b.year || a.name.localeCompare(b.name, "zh");
+      if (state.sort === "name") return a.name.localeCompare(b.name, "zh");
+      if (state.sort === "added") return String(b.added || "").localeCompare(String(a.added || "")) || b.year - a.year;
+      return b.year - a.year || String(b.added || "").localeCompare(String(a.added || ""));
+    });
   }
 
   /* ---------- 展柜视图 ---------- */
   function cardHtml(m) {
     const st = STATUS[m.status];
     const aliases = (m.aliases || []).join(" / ");
-    return `<button class="card ${m.status === "fossil" ? "fossil" : ""}" data-id="${m.id}">
+    const isFav = state.favorites.has(m.id);
+    return `<article class="card ${m.status === "fossil" ? "fossil" : ""}" data-id="${m.id}" tabindex="0" role="button" aria-label="查看 ${esc(m.name)} 卷宗">
       <span class="card-meta"><span>${noOf(m)}</span><span>${m.year}</span></span>
       <span class="card-name">${esc(m.name)}</span>
       ${aliases ? `<span class="card-alias">${esc(aliases)}</span>` : ""}
@@ -81,7 +90,8 @@
           ? `<span class="status tag-stamp">已归档</span>`
           : `<span class="status"><i class="dot" style="background:${st.color}"></i>${st.label}</span>`}
       </span>
-    </button>`;
+      <span class="card-favorite ${isFav ? "on" : ""}" role="button" tabindex="0" data-favorite="${m.id}" aria-label="${isFav ? "取消收藏" : "收藏"} ${esc(m.name)}" aria-pressed="${isFav}">${isFav ? "★" : "☆"}</span>
+    </article>`;
   }
 
   function renderGallery() {
@@ -90,6 +100,7 @@
     $("#galleryTitle").textContent = cat ? cat.name : "全部展厅";
     $("#galleryDesc").textContent = cat ? cat.description : "全部馆藏，按入馆年份先后排列。";
     $("#galleryCount").textContent = `${list.length} 件`;
+    $("#resultNote").textContent = state.favoritesOnly ? `正在浏览 ${list.length} 件收藏` : `正在浏览 ${list.length} / ${memes.length} 件馆藏`;
     $("#cardGrid").innerHTML = list.map(cardHtml).join("");
     $("#emptyState").hidden = list.length > 0;
   }
@@ -130,6 +141,7 @@
       <button class="close" data-close aria-label="关闭">✕</button>
       <p class="sheet-no">档案 ${noOf(m)} · ${catById.get(m.category)?.name || ""}</p>
       <h3 class="sheet-name">${esc(m.name)}</h3>
+      <button class="sheet-favorite ${state.favorites.has(m.id) ? "on" : ""}" data-favorite="${m.id}" aria-label="收藏此藏品" aria-pressed="${state.favorites.has(m.id)}">${state.favorites.has(m.id) ? "★ 已收藏" : "☆ 收藏"}</button>
       ${aliases ? `<p class="sheet-alias">别名 · ${esc(aliases)}</p>` : ""}
       ${stamp}
       <p class="lbl">出处考据</p><p class="sheet-origin">${esc(m.origin)}</p>
@@ -153,6 +165,38 @@
   function closeModal() {
     overlay.classList.remove("show");
     document.body.style.overflow = "";
+  }
+
+  function toggleFavorite(id) {
+    if (state.favorites.has(id)) state.favorites.delete(id);
+    else state.favorites.add(id);
+    try { localStorage.setItem("meme-archive:favorites", JSON.stringify([...state.favorites])); } catch (_) { /* 无痕模式下忽略 */ }
+    $("#favoriteCount").textContent = state.favorites.size;
+    const favBtn = $("#favoritesBtn");
+    favBtn.classList.toggle("on", state.favoritesOnly);
+    favBtn.setAttribute("aria-pressed", state.favoritesOnly);
+    const m = memeById.get(id);
+    if (m) showToast(state.favorites.has(id) ? `已收藏「${m.name}」` : `已取消收藏「${m.name}」`);
+    if (state.view === "gallery") renderGallery();
+    if ($(".sheet")) {
+      const sheetFav = $(".sheet-favorite");
+      if (sheetFav && sheetFav.dataset.favorite === id) {
+        const on = state.favorites.has(id); sheetFav.classList.toggle("on", on); sheetFav.setAttribute("aria-pressed", on); sheetFav.textContent = on ? "★ 已收藏" : "☆ 收藏";
+      }
+    }
+  }
+
+  let toastTimer;
+  function showToast(message) {
+    const toast = $("#toast"); toast.textContent = message; toast.classList.add("show");
+    clearTimeout(toastTimer); toastTimer = setTimeout(() => toast.classList.remove("show"), 1800);
+  }
+
+  function randomMeme() {
+    const list = currentList();
+    const pool = list.length ? list : memes;
+    const m = pool[Math.floor(Math.random() * pool.length)];
+    if (m) openModal(m.id);
   }
 
   /* ---------- 图谱视图 ---------- */
@@ -317,7 +361,10 @@
     renderChips();
     renderGallery();
     renderTimeline();
-    $("#resetBtn").hidden = !(state.q || state.cat || state.status);
+    $("#resetBtn").hidden = !(state.q || state.cat || state.status || state.favoritesOnly || state.sort !== "year-desc");
+    $("#favoriteCount").textContent = state.favorites.size;
+    $("#favoritesBtn").classList.toggle("on", state.favoritesOnly);
+    $("#favoritesBtn").setAttribute("aria-pressed", state.favoritesOnly);
     ["galleryView", "timelineView", "graphView", "freshView"].forEach(id => { $("#" + id).hidden = true; });
     if (state.view === "graph") { $("#graphView").hidden = false; startGraph(); }
     else if (state.view === "fresh") { $("#freshView").hidden = false; renderFresh(); }
@@ -346,20 +393,34 @@
   });
 
   document.querySelectorAll(".seg-btn").forEach(btn => btn.addEventListener("click", () => {
-    document.querySelectorAll(".seg-btn").forEach(b => b.classList.toggle("on", b === btn));
+    document.querySelectorAll(".seg-btn").forEach(b => { b.classList.toggle("on", b === btn); b.setAttribute("aria-selected", b === btn ? "true" : "false"); });
     state.view = btn.dataset.view;
     apply();
   }));
 
   $("#resetBtn").addEventListener("click", () => {
-    state.q = ""; state.cat = null; state.status = null;
+    state.q = ""; state.cat = null; state.status = null; state.sort = "year-desc"; state.favoritesOnly = false;
     $("#searchInput").value = "";
+    $("#sortSelect").value = "year-desc";
     apply();
+  });
+
+  $("#sortSelect").addEventListener("change", e => { state.sort = e.target.value; apply(); });
+  $("#favoritesBtn").addEventListener("click", () => { state.favoritesOnly = !state.favoritesOnly; apply(); });
+  $("#randomBtn").addEventListener("click", randomMeme);
+  $("#heroRandomBtn").addEventListener("click", randomMeme);
+  $("#exploreBtn").addEventListener("click", () => $("#archive").scrollIntoView({ behavior: "smooth", block: "start" }));
+  $("#themeBtn").addEventListener("click", () => {
+    const dark = document.documentElement.dataset.theme === "dark";
+    document.documentElement.dataset.theme = dark ? "" : "dark";
+    try { localStorage.setItem("meme-archive:theme", dark ? "light" : "dark"); } catch (_) { /* ignore */ }
   });
 
   wireGraph();
 
   document.addEventListener("click", e => {
+    const fav = e.target.closest("[data-favorite]");
+    if (fav) { e.preventDefault(); e.stopPropagation(); toggleFavorite(fav.dataset.favorite); return; }
     const card = e.target.closest("[data-id]");
     if (card && (card.classList.contains("card") || card.classList.contains("tl-chip") || card.classList.contains("rel"))) {
       openModal(card.dataset.id);
@@ -368,7 +429,14 @@
     if (e.target.closest("[data-close]")) closeModal();
     if (e.target === overlay) closeModal();
   });
-  document.addEventListener("keydown", e => { if (e.key === "Escape") closeModal(); });
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") closeModal();
+    if (e.key === "/" && !/input|textarea|select/i.test(document.activeElement.tagName)) { e.preventDefault(); $("#searchInput").focus(); }
+    if (e.key.toLowerCase() === "r" && !/input|textarea|select/i.test(document.activeElement.tagName)) randomMeme();
+    if ((e.key === "Enter" || e.key === " ") && document.activeElement.matches("[data-favorite]")) { e.preventDefault(); toggleFavorite(document.activeElement.dataset.favorite); }
+    if ((e.key === "Enter" || e.key === " ") && document.activeElement.matches(".card")) { e.preventDefault(); openModal(document.activeElement.dataset.id); }
+  });
 
+  try { if (localStorage.getItem("meme-archive:theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (_) { /* ignore */ }
   apply();
 })();
